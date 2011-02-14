@@ -1,0 +1,30 @@
+-------
+LES MEG
+-------
+
+Kvat er dette?
+
+Dette er ei ordlista som kan brukast under Hunspell. Ordlista er basert på Hunspell sin nynorsk ordliste og fleire tekstar som ero skrivne på landsmål, eller høgnorsk. Alle tekstar finnest på texts/ mappe.
+
+Ordlista er ikje meint til å vera normativ, men ordi som kunde bortkasta ero variantar som finnest berre på nynorsk. Um det finnest meir tekstar som kunde brukast til å vokse ordlista, eg kan godt inkludera deim. Eventuelt eg vilja bortkasta hunspell_nn ordlista, men det trengst meir tekstar som er berre på høgnorsk, elder skal hunspell_hn_NO ikje vera so brukeleg. 
+
+Berre ta kontakt um det finnest spursmål. Eg er glad i å få råd um alt, spesielt frå folk som kan berre høgnorsk enn meg. :) 
+
+
+------------
+INSTALLERING
+------------
+
+ * OS X Snow Leopard (10.6)
+
+	Hunspell er inkludert i 10.6. Der fyre den einaste ting man må gjera er å lasta ned hn_NO.aff og hn_NO.dic, og lagra deim i ~/Library/Spelling/.
+
+ * More to come.
+
+---------
+Ressursar
+---------
+
+HUNSPELL: 
+
+   http://hunspell.sourceforge.net/
