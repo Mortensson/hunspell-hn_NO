@@ -1,14 +1,8 @@
--------
-LES MEG
--------
+Kva er dette? 
 
-Kvat er dette?
+Dette er ei ordlista som kann brukast i Hunspell, og byggjer på nynorskordlista i Hunspell og ulike tekstar som er skrivne på landsmål, eller høgnorsk. Alle tekstar finst i texts/mappe. Ordlista er ikkje meint å vera normativ, men ord som torde falla utanum, er variantar som berre finst i nynorsk. Um det finst meir tekstar som kann brukast til å auka ordlista, kann eg godt leggja deim til. 
 
-Dette er ei ordlista som kan brukast under Hunspell. Ordlista er basert på Hunspell sin nynorsk ordliste og fleire tekstar som ero skrivne på landsmål, eller høgnorsk. Alle tekstar finnest på texts/ mappe.
-
-Ordlista er ikje meint til å vera normativ, men ordi som kunde bortkasta ero variantar som finnest berre på nynorsk. Um det finnest meir tekstar som kunde brukast til å vokse ordlista, eg kan godt inkludera deim. Eventuelt eg vilja bortkasta hunspell_nn ordlista, men det trengst meir tekstar som er berre på høgnorsk, elder skal hunspell_hn_NO ikje vera so brukeleg. 
-
-Berre ta kontakt um det finnest spursmål. Eg er glad i å få råd um alt, spesielt frå folk som kan berre høgnorsk enn meg. :) 
+Eventuelt kann eg taka burt hunspell_nn ordlista, men det trengst fleire tekstar (som berre er) på høgnorsk, skal hunspell_hn_NO verta meir brukeleg. Berre tak kontakt um du hev spursmål. Eg er glad i alle råd eg kann få, serleg frå folk som kann betre høgnorsk enn eg. :) 
 
 
 ------------
@@ -17,14 +11,26 @@ INSTALLERING
 
  * OS X Snow Leopard (10.6)
 
-	Hunspell er inkludert i 10.6. Der fyre den einaste ting man må gjera er å lasta ned hn_NO.aff og hn_NO.dic, og lagra deim i ~/Library/Spelling/.
+	Hunspell er inkludert i 10.6. Det einaste som difor trengst, er å lasta ned hn_NO.aff og hn_NO.dic, og lagra deim i ~/Library/Spelling/.
 
  * More to come.
 
+-------
+Tilfang
+-------
+ * Taka burt hunnspell_nn ordlista
+ * 
+
 ---------
-Ressursar
+TODO NEXT
 ---------
 
-HUNSPELL: 
+ * Scripts to produce wordlists from source dta
+ * Cleaner directory structure to include and exclude sources
+ * An exclusion wordlist
 
-   http://hunspell.sourceforge.net/
+-------------
+MEIR TEKSTAR?
+-------------
+
+Um du hev nokre tekstar som du vilde inkludera her, tak kontakt. Um teksten kan ikkje stå i et offentlig stad (han er f. eks. tilknytta til ei bok som kan ikkje kopiera), me kunde anonymisera den fyrst ved å berre taka burt alle ord og sortera deim alfabetiskt. I minsto er poenget ikkje å samla tekstar, men å laga ei stor ordlista. :)
