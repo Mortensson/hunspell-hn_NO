@@ -1,4 +1,4 @@
-31422 hn_NO.dic.test
+31994 hn_NO.dic.test
 
 1
 10
@@ -176,50 +176,198 @@
 97
 98
 99
+Aarbok
+Aasen
+Aasen-normalen
+Aasens
+Adressa
+Adresseavisen
+Allkunnebok
+Almumaal
+Altso
+Arne
+At
+Aukrust
 Aust-Agder
 Austfold
 Austlandet
+Avdi
+Berre
+Blix
+Bokmål
+Bokmålet
+Bokmålsordboka
 Buskerud
+Bøygjing
+Conway
+Conways
 Danmark
 De
+Dei
+Den
+Denne
+Der
+Derwent
+Desse
+Dessutan
+Det
+Dette
+Dialektane
+Dialektbrukarane
+Difor
+Då
+Døme
 Edda
+Ein
+Eit
+Elias
+Eller
+Endå
+Etter
+Europa
 Fadervår
 Fanden
+Favoritten
 Finnland
 Finnmark
+Fleirtalet
+For
+Formverket
+Framlegget
+Fransk
+Fyre
+Fyremålet
 Færøyane
+Garborg
+Gjeld
+Gjort
 Grønland
+Gud
+Gustav
+Halvdan
+Han
+Hannaas
+Hauge
+Heggstad
 Heidmark
+Her
+High
 Hjaltland
+Ho
+Holberg
 Hordaland
+Håvard
+Høgnorsk
+Høgnorske
+Høgnorsken
+Høinorskt
+I
+Ikkje
+Indrebø
+Ingi
 Island
+Ivar
 Jamtland
+Jostein
+Kastade
+Koht
+Korleîs
+Krokvik
+Kva
+Kvifor
+Leiv
+Lista
+Lomheim
+Lomheims
+Mange
+Marstrand
+Me
+Med
+Men
 Mid-Noreg
+Målføre
+Målreisingi
+Målungdom
 Møre og Romsdal
+Namnordi
+Nemningi
+Nett
+No
+Noko
+Nokre
 Nord-Noreg
 Nord-Trøndelag
 Nordland
 Noreg
+Norge
+Norrøn
+Norse
+Norsk
+Nynorsk
+Nynorsken
+Nynorskordlista
+Næste
+Og
+Olav
+Ord
+Ordet
+Ordfang
 Orknøyane
 Oslo
+Per
+På
+Ragnvald
+Regelbrot
+Rettskriving
 Rogaland
+Røykjavik
+Samanbrotet
+Samanheng
+Samnorsken
+Samnorsktanken
+Sjølvsagt
+Skal
+Skotten
+Skriv
+Slagordet
+Slik
+So
 Sogn og Fjordane
+Soleîs
+Språket
+Staving
+Stavnad
 Stortinget
 Sud-Trøndelag
 Sudlandet
+Sume
 Sverike
+Sylfest
 Sør-Trøndelag
 Sørlandet
+Tangen
+Teksti
 Telemark
+Thorson
+Til
+Tileigningi
+Torleiv
+Torshamn
 Trums
 Trøndelag
+Trøndsk
+Tvifeld
+Uppføringane
 Uppland
+Uppslag
+Utan
 Vest-Agder
 Vestfold
 Vestlandet
 Voluspå
 Vondemannen
 Vårherre
+Wergeland
 Ygdrasil
 Zeus
 a
@@ -470,6 +618,7 @@ akabsætti
 akademi
 akademikar
 akademisk
+akademiskt
 akaia
 akaiabygdene
 akaikus
@@ -563,6 +712,7 @@ aktar
 aktast
 akte
 aktiv
+aktivt
 aktsam
 aktualitet
 aktuell
@@ -699,6 +849,7 @@ altartenesta
 altarveggen
 altarvigsla
 altfor
+altso
 altvering
 aluminium
 alun
@@ -734,6 +885,7 @@ amasaison
 amasja
 amassai
 ambar
+ambisiøs
 ambod
 ambodi
 ambulanse
@@ -840,6 +992,7 @@ anatomisk
 anatot
 anatotmennene
 anatssonens
+anbehetelse
 and
 and-
 anda
@@ -943,6 +1096,7 @@ annarsimillom
 annarsinne
 annas
 annast
+annat
 anneks
 annig
 annleis
@@ -958,6 +1112,7 @@ ansar
 ansjos
 ansl
 ansla
+ansvar
 ansvaret
 ant
 anten
@@ -1163,6 +1318,7 @@ arsa
 arsenikk
 artaxerxes
 artemas
+artig
 artikkel
 artium
 artug
@@ -1427,6 +1583,7 @@ attved
 attvæg
 attyver
 attåt
+attåtstaving
 attøyrd
 au
 aud
@@ -1449,6 +1606,7 @@ audsynleg
 audsynt
 audt
 auga
+augat
 auger
 augna
 augnar
@@ -1477,6 +1635,7 @@ augnesteinen
 augnesyni
 augnetenesta
 augo
+august
 augustus
 augvitne
 auka
@@ -1542,6 +1701,8 @@ automat
 automatisk
 autoritet
 autoritær
+autoritære
+autoritært
 av
 av di
 av garde
@@ -1582,6 +1743,7 @@ avgift
 avgifter
 avgifti
 avgjera
+avgjerande
 avgjerd
 avgjerdene
 avgjerdi
@@ -1652,6 +1814,7 @@ avle
 avleggjar
 avleggjing
 avleides
+avleidingar
 avlen
 avleta
 avletast
@@ -1709,6 +1872,7 @@ avsnøydd
 avsovna
 avspegling
 avstengd
+avstikkande
 avstyggeleg
 avstyggelege
 avstyggja
@@ -1914,6 +2078,7 @@ bamot
 bamotbaal
 bamse
 bana
+banaliserar
 banan
 band
 banda
@@ -2451,6 +2616,7 @@ bevergìl
 bia
 biar
 bibel
+bibelumsetjing
 bibliotek
 bid
 bida
@@ -2685,6 +2851,7 @@ blodga
 blodgjeruge
 blodhemnaren
 blodhund
+blodig
 blodiglen
 blodkjelda
 blodmelta
@@ -2846,8 +3013,15 @@ bokke
 bokkøl
 bokleg
 boklærd
+bokmenn
 bokmerke
 bokmål
+bokmålet
+bokmålsfolk
+bokmålsnedfallet
+bokmålsord
+bokmålspåverka
+bokmålsumråde
 bokna
 bokorm
 bokreidar
@@ -3062,6 +3236,7 @@ brent
 bresje
 brest
 bresta
+brestande
 brestane
 brestene
 brester
@@ -3078,6 +3253,8 @@ brigda
 brigdast
 brigde
 brigder
+brigdet
+brigdi
 brigg
 brik
 brike
@@ -3617,8 +3794,11 @@ båtane
 båtar
 båten
 båtsmann
+bægde
 bægja
 bægje
+bægjer
+bægt
 bær
 bæra
 bæri
@@ -3694,6 +3874,7 @@ bøygje
 bøygjeleg
 bøygjer
 bøygjing
+bøygjingi
 bøygt
 c
 cella
@@ -3830,6 +4011,7 @@ dana
 dane
 daniel
 daniels
+daning
 danitane
 danjaan
 danna
@@ -3845,7 +4027,11 @@ dansfolket
 dansfylket
 dansheren
 dansk
+danskane
 danske
+dansken
+dansknorske
+danskt
 danslægret
 dansporten
 dansskilet
@@ -3993,6 +4179,8 @@ dengsla
 denne
 dentid
 departement
+departementet
+departementsvedtak
 depel
 depesje
 deplane
@@ -4042,6 +4230,12 @@ dette
 deuel
 deviasjon
 di
+dialekt
+dialektane
+dialektbrukaren
+dialekten
+dialektnær
+dialektord
 dialog
 diamant
 diana
@@ -4070,6 +4264,7 @@ diksjon
 dikt
 dikta
 diktar
+diktarar
 dikting
 dikut
 dilan
@@ -4143,6 +4338,7 @@ distinksjon
 distrahera
 distraksjon
 distre
+distribusjon
 distrikt
 dit
 ditt
@@ -4710,6 +4906,8 @@ dømd
 dømde
 døme
 dømer
+dømet
+dømi
 dømt
 dømta
 dønning
@@ -4752,6 +4950,7 @@ døydande
 døydde
 døydelege
 døyder
+døydt
 døyelege
 døypa
 døyparen
@@ -5001,6 +5200,7 @@ einerunne
 einfalde
 einfelde
 einfelt
+einfelte
 einfør
 einføtt
 eingong
@@ -5027,6 +5227,7 @@ einskap
 einskapleg
 einskild
 einskildmann
+einskildordi
 einskilt
 einsleg
 einslege
@@ -5038,6 +5239,8 @@ einstape
 einstøde
 einstøding
 einstødingen
+einsynte
+eintal
 eintest
 eintøke
 einvaldsherre
@@ -5080,6 +5283,7 @@ eksentrisk
 eksersera
 eksersis
 eksis
+eksotisk-norske
 ekspansjon
 eksplodera
 eksplosjon
@@ -5334,6 +5538,7 @@ emna
 emnar
 emne
 emneleg
+emnet
 emning
 en
 enaim
@@ -5355,6 +5560,7 @@ endeleg
 endelykt
 endelykti
 endemark
+endemedljodi
 endemole
 endemål
 endemålet
@@ -5366,6 +5572,7 @@ endetidi
 endetil
 endevenda
 ending
+endingvokalane
 endor
 endskap
 endå
@@ -5525,6 +5732,7 @@ estetisk
 eston
 et
 eta
+etablera
 etablissement
 etam
 etamdjuvet
@@ -5698,6 +5906,7 @@ faks
 fakta
 faktene
 faktisk
+faktiskt
 faktor
 faktum
 fakultet
@@ -5858,6 +6067,7 @@ fatar
 fatet
 fati
 fatig
+fatigare
 fatigdom
 fatigdomen
 fatige
@@ -5993,6 +6203,7 @@ fera
 ferauting
 ferd
 ferda
+ferdabokskrivar
 ferdabunad
 ferdafolk
 ferdafolket
@@ -6005,6 +6216,7 @@ ferdamann
 ferdamannen
 ferdamannsdalen
 ferdamennene
+ferdaminne
 ferdapengar
 ferdar
 ferdaskreppa
@@ -6327,6 +6539,7 @@ fjåmen
 fjås
 fjåsa
 fjøl
+fjøla
 fjøld
 fjølde
 fjøler
@@ -6389,6 +6602,7 @@ fleinskalla
 fleinskalle
 fleire
 fleirtal
+fleirtalet
 flekk
 flekka
 flekken
@@ -6413,6 +6627,7 @@ flesk
 fleskefeitt
 fleskesvord
 flest
+flestalle
 fleste
 fletta
 fletteverket
@@ -6603,6 +6818,8 @@ folketome
 folketomt
 folketunga
 folketynar
+folkevisemålet
+folkevisor
 folkeætt
 folkeætter
 folkeøydar
@@ -6675,6 +6892,7 @@ forer
 foret
 foreten
 forfall
+forfallet
 forfallsdag
 forfalskar
 forfara
@@ -6805,10 +7023,14 @@ formar
 formaren
 format
 formell
+formene
 formennene
 formenner
+former
+formi
 formlæra
 formverk
+formverket
 formyndar
 formyndarar
 formyrkt
@@ -6847,6 +7069,7 @@ forsigla
 forsiglar
 forsigling
 forsjåleg
+forskjellsbehandling
 forskot
 forskrift
 forskræmd
@@ -6907,6 +7130,7 @@ fortenesta
 fortent
 fortente
 fortid
+fortidendingane
 fortrjota
 fortropp
 fortryta
@@ -7006,6 +7230,7 @@ framand
 framande
 framandfolk
 framandkaren
+framandord
 framandt
 framanfor
 framanfyre
@@ -7029,6 +7254,7 @@ framgjengd
 framhald
 framhaldssoga
 framhaldug
+framheva
 frami
 framifrå
 framigjenom
@@ -7036,9 +7262,11 @@ framimot
 framkjøm
 framkome
 framlegg
+framlegget
 framleides
 framlenges
 framlengs
+framleîs
 framme
 frammed
 framom
@@ -7066,6 +7294,7 @@ framvekstring
 framvokster
 framyver
 franskmann
+franskt
 frasa
 frasar
 frat
@@ -7297,6 +7526,7 @@ fråssa
 fråssar
 fråvelt
 fråverande
+fråværet
 fræ
 frædd
 fræg
@@ -7404,11 +7634,13 @@ fumla
 fumlar
 fund
 fundament
+fundamentalistisk
 fungera
 funksjon
 funne
 funnen
 funnest
+funnet
 funni
 fura
 furasje
@@ -7425,6 +7657,7 @@ fut
 futane
 futar
 futen
+fy-fy
 fygelus
 fyk
 fyka
@@ -7443,10 +7676,12 @@ fylgjekonone
 fylgjekonor
 fylgjeleg
 fylgjer
+fylgjerette
 fylgjesmann
 fylgjesmennene
 fylgjest
 fylgjestreng
+fylgjestrenge
 fylgjesvein
 fylgjesveinane
 fylgjesveinen
@@ -7569,6 +7804,7 @@ fyrstegrøda
 fyrstegrøde
 fyrstemannen
 fyrsten
+fyrsteutg
 fyrstinna
 fyrstning
 fyrstninga
@@ -7625,6 +7861,7 @@ fåren
 fårleg
 fårlege
 fåst
+fåtal
 fåtenkt
 fåtruande
 fått
@@ -7827,6 +8064,7 @@ gamal
 gamaldags
 gamaliel
 gamaliels
+gamalnorsk
 gamalt
 gaman
 gamansam
@@ -8468,6 +8706,7 @@ glæma
 glæna
 glæpen
 glø
+glød
 gløda
 glødde
 glødt
@@ -8589,6 +8828,8 @@ godsvogn
 godt
 godt folk!
 godtaka
+godtakingi
+godtek
 godtfolk
 godtrugne
 godtrui
@@ -8704,6 +8945,7 @@ grannekonone
 grannekvinna
 grannelag
 grannelaget
+grannemåli
 grannen
 grannhøyrde
 grannhøyrt
@@ -8779,6 +9021,7 @@ greida
 greidast
 greidd
 greidde
+greide
 greider
 greidt
 grein
@@ -8871,22 +9114,30 @@ grunnfest
 grunnfesta
 grunnfeste
 grunnfester
+grunnformi
 grunnhått
+grunnlag
 grunnlagd
+grunnlaget
 grunnlagt
 grunnlaus
 grunnlaust
 grunnleggja
+grunnleggjande
 grunnlærd
 grunnmuren
+grunnmynsteret
 grunnpilarar
 grunnrik
 grunns
+grunnsetning
+grunnsetningi
 grunnstein
 grunnsteinane
 grunnsteinar
 grunnsteinen
 grunnsturta
+grunntydingar
 grunnvoll
 grunnvollane
 grunnvollar
@@ -8945,6 +9196,7 @@ gråtsam
 grått
 græast
 græe
+græskt
 græt
 grø
 grøda
@@ -9413,12 +9665,14 @@ han
 hana
 hanamel
 hanan
+hanane
 hananeltårnet
 hanani
 hananison
 hananja
 hananjason
 hananssønene
+hanar
 hand
 handa
 handbreidd
@@ -9465,6 +9719,7 @@ hanga
 hangande
 hank
 hanke
+hankyn
 hanna
 hannaton
 hannea
@@ -9853,6 +10108,7 @@ heimlandet
 heimlaus
 heimlause
 heimleg
+heimlege
 heimlov
 heimsens
 heimstad
@@ -10385,6 +10641,7 @@ hiskias
 hissa
 historia
 historielag
+historiske
 hit
 hitanfor
 hitar
@@ -10528,6 +10785,7 @@ hoka
 hokk
 hokke
 hokken
+hokyn
 hol
 hola
 holamot
@@ -10682,6 +10940,7 @@ hovudpryda
 hovudprydnad
 hovudsak
 hovudsakleg
+hovudskilnadene
 hovudskåli
 hovudsmann
 hovudsmannen
@@ -10893,6 +11152,7 @@ huveholdet
 huveholdi
 huvone
 huvor
+hvormed
 hy
 hyasint
 hybel
@@ -11044,6 +11304,7 @@ hòr
 hòre
 hòv
 hóv
+högsvenska
 hø
 høfleg
 høg
@@ -11074,6 +11335,12 @@ høgmura
 høgmælt
 høgmælte
 høgnorsk
+høgnorske
+høgnorsken
+høgnorskfolk
+høgnorsking
+høgnorsknamnet
+høgnorskrettskrivingi
 høgre
 høgreist
 høgreiste
@@ -11117,11 +11384,13 @@ høgtidsstemma
 høgtidsstemna
 høgtidsstemnone
 høgtidsstemnor
+høgtysk
 høgvaksne
 høgvelde
 høgvyrd
 høgvyrde
 høgætta
+højdansk
 høker
 høl
 høla
@@ -11211,6 +11480,7 @@ i veg
 i vente
 i vår
 i år
+i-målet
 ibenholt
 ibland
 ibri
@@ -11227,8 +11497,11 @@ iddoson
 iddoætti
 ide
 ideal
+idealet
 ideell
+ideelt
 ideleg
+ideologane
 idest
 idiot
 idiotisk
@@ -11390,12 +11663,15 @@ initiativ
 inkassator
 inkassera
 inkje
+inkjekyn
 inkjes
 inkjeslege
 inkjevetta
 inkjevætta
 inklinasjon
 inkognito
+inkonsekvens
+inkonsekvent
 inkvisisjon
 inn
 innan
@@ -11433,6 +11709,7 @@ innflutt
 innflutte
 innflytjar
 innflytjarane
+innfløkt
 innful
 innførd
 innførde
@@ -11445,6 +11722,7 @@ inngjerde
 inngrave
 inngravi
 inngravne
+inngrìp
 innhaldet
 innhausta
 innhoggi
@@ -11460,6 +11738,7 @@ innkomone
 innlagt
 innlaupet
 innlegg
+innleiding
 innmat
 innmed
 innom
@@ -11485,6 +11764,7 @@ innskrivne
 innsokne
 innstengd
 innsveipt
+inntekne
 inntekt
 innturka
 innum
@@ -11520,6 +11800,7 @@ instruks
 instruksjon
 instrument
 inte
+integrera
 intellektuell
 intelligens
 intens
@@ -11576,6 +11857,7 @@ isjias
 iskariot
 islending
 islendsk
+islendske
 ismael
 ismaelitane
 ismaelitar
@@ -11749,6 +12031,7 @@ jamdøgret
 jamdøgri
 jamen
 jamfagert
+jamføra
 jamgod
 jamgode
 jamgodt
@@ -11778,10 +12061,12 @@ jamrande
 jamrar
 jamringi
 jamsides
+jamstelte
 jamstødt
 jamt
 jamte
 jamtsk
+jamvektsord
 jamvel
 janai
 janim
@@ -12309,6 +12594,7 @@ jupiter
 jupitertemplet
 jur
 jurast
+jurdiskt
 juret
 jury
 jus
@@ -12542,6 +12828,7 @@ kann henda
 kanna
 kannast
 kanne
+kannhenda
 kannibal
 kannik
 kannone
@@ -12563,6 +12850,7 @@ kantlisti
 kantor
 kantut
 kaos
+kaotisk
 kapell
 kapellan
 kapernaum
@@ -12596,6 +12884,7 @@ karan
 karane
 karantene
 karar
+kararne
 karavanar
 karavane
 karbolsyra
@@ -12662,6 +12951,7 @@ kassestyrar
 kassia
 kast
 kasta
+kasta-klassa
 kastande
 kastanje
 kastar
@@ -12677,9 +12967,11 @@ kasteskovli
 kastespjot
 kastevåpen
 kastiljansk
+kastiljanskskrivande
 katalan
 katalanar
 katalansk
+katalanskskrivande
 katalog
 katalogisera
 katarr
@@ -12959,6 +13251,7 @@ kjenn
 kjenna
 kjennar
 kjennast
+kjennelse
 kjennemerke
 kjenner
 kjennest
@@ -12982,6 +13275,7 @@ kjeret
 kjeri
 kjerna
 kjerne
+kjerneord
 kjerr
 kjerra
 kjerre
@@ -13137,6 +13431,7 @@ klagone
 klaka
 klake
 klakka
+klammeformstatus
 klander
 klandra
 klang
@@ -13174,6 +13469,7 @@ kleima
 kleimde
 kleimer
 klein
+kleint
 kleis
 kleismælt
 kleiv
@@ -13312,6 +13608,7 @@ klårare
 klåraste
 klåre
 klårleg
+klårleik
 klårna
 klårnar
 klårsynt
@@ -13410,6 +13707,7 @@ kneppa
 knerta
 knes
 knesbot
+knesett
 kneskjel
 kneskjelv
 knest
@@ -13463,6 +13761,7 @@ knysta
 knyt
 knyta
 knyte
+knyter
 knytt
 knytte
 knòda
@@ -13648,6 +13947,7 @@ kongeveldet
 kongevreide
 kongeætti
 kongla
+konglomerat
 kongress
 kongro
 kongsbarn
@@ -13711,6 +14011,9 @@ konkurrera
 konone
 konor
 konsekvens
+konsekvensen
+konsekvent
+konsekvente
 konsentrasjon
 konsentrera
 konsept
@@ -13827,6 +14130,7 @@ korkje
 korlega
 korleides
 korleis
+korleîs
 korlægje
 korn
 kornband
@@ -13861,6 +14165,7 @@ korrespondent
 korrespondera
 korridor
 korrigera
+korrigerast
 korrupsjon
 korrupt
 korsett
@@ -14031,6 +14336,7 @@ kringsjå
 kringum
 krins
 krinsa
+krinsar
 krisa
 krise
 krisla
@@ -14230,6 +14536,8 @@ kulsing
 kulsleg
 kultur
 kulturell
+kulturmål
+kulturord
 kumar
 kumi
 kumla
@@ -14283,6 +14591,7 @@ kura
 kurant
 kurende
 kuriositet
+kuriosum
 kuriøs
 kurla
 kurle
@@ -14291,6 +14600,7 @@ kurra
 kurrande
 kurrar
 kurs
+kursiv
 kurtasje
 kurv
 kurva
@@ -14505,6 +14815,7 @@ kvinnfolk
 kvinnfolki
 kvinnone
 kvinnor
+kvinnorne
 kvirinius
 kviskra
 kviskrar
@@ -14791,7 +15102,9 @@ landsmenn
 landsmennene
 landsmenner
 landsmål
+landsmålet
 landsmøte
+landsnorsk
 landsskikk
 landsskipnad
 landsstyre
@@ -14864,6 +15177,7 @@ late
 lathand
 lati
 latin
+latinskt
 latskap
 latskapen
 laug
@@ -15088,6 +15402,7 @@ lemer
 lemja
 lemmar
 lempa
+lempar
 lempeleg
 lemster
 lemuel
@@ -15145,6 +15460,8 @@ lerketre
 lersko
 les
 lesa
+lesarbrev
+lesarbrev-andsvarleg
 lese
 lesebrillor
 lesefør
@@ -15401,6 +15718,7 @@ litegrand
 liten
 liter
 liteso
+litet
 litevore
 litevætta
 liti
@@ -15484,9 +15802,11 @@ ljodbrigde
 ljoden
 ljodfart
 ljodgang
+ljodlege
 ljodlæra
 ljodmur
 ljodrett
+ljodrette
 ljodskrift
 ljodsprang
 ljodsterk
@@ -15931,6 +16251,7 @@ lånaren
 låne
 låner
 lånet
+lånord
 lånt
 lår
 låret
@@ -16322,6 +16643,7 @@ manasseættene
 manasseætti
 manassitane
 mandat
+mandatet
 mandel
 mandelblomar
 mandeltreet
@@ -16338,6 +16660,7 @@ mangeleides
 mangeleis
 mangeslag
 mangfalda
+mangfaldet
 mangfaldig
 mangfaldige
 mangfelde
@@ -16353,6 +16676,8 @@ mangstad
 mangstades
 mangt
 mangtal
+mangtalendingi
+mangtalsendingar
 mangtydug
 manilahamp
 maning
@@ -16491,6 +16816,7 @@ marka
 markande
 markene
 marker
+markerar
 markevaktarar
 marki
 marknad
@@ -16653,6 +16979,7 @@ medkjensla
 medlem
 medlemskap
 medlidande
+medljod
 medord
 medrekna
 medskuldig
@@ -16772,6 +17099,7 @@ menahem
 menahemsson
 menasjeri
 mene
+mener
 mengd
 mengder
 mengdevis
@@ -16866,9 +17194,11 @@ merkesteinen
 merket
 merki
 merkja
+merkjande
 merkjejarn
 merkjing
 merknad
+merknader
 merkt
 merkte
 merkur
@@ -16981,6 +17311,7 @@ midja
 midjan
 midjungs
 midkoven
+midlane
 midluten
 midnatt
 midnattsbel
@@ -17055,10 +17386,12 @@ millomjol
 millommann
 millommannen
 millommanns
+millomnorsk
 millomskule
 millomspel
 millomst
 millomste
+millomstoda
 millomvære
 millomåt
 miltbrand
@@ -17072,6 +17405,8 @@ minar
 minaret
 minder
 mindre
+mindretal
+mindretalsmål
 mine
 minebor
 mineral
@@ -17488,12 +17823,15 @@ motsagt
 motsegjingsteikn
 motsegn
 motsegnene
+motsette
 motstand
 motstandar
 motstandarane
 motstandarar
 motstandaren
 motstridige
+motstykke
+motstykki
 mott
 motteke
 motteken
@@ -17638,6 +17976,7 @@ myndug
 mynja
 mynne
 mynster
+mynstergildt
 mynstra
 mynstring
 mynstringi
@@ -17711,21 +18050,42 @@ målarstykke
 målbatt
 målbera
 målbinda
+målbrigde
+målbrigdi
+målbruk
 målbunde
 målbundne
 målemne
 målemnet
 målet
+målfolk
+målføre
+målføri
+målføringi
 måli
 måling
+målkjelda
 mållaus
 mållause
+målmedvitne
+målpolitisk
+målpolitiske
+målpolitiskt
+målreising
+målreisingi
 måls
 målsmann
 målsmannen
 målsmenn
+målsoga
+målsteg
+målstoda
+målstrid
+målstriden
 måltid
 måltidi
+måluppbygnad
+måluppbygnaden
 mån
 månad
 månaden
@@ -17763,6 +18123,7 @@ mæler
 mælesnor
 mælesnori
 mælestav
+mælestaven
 mælestong
 mælestongi
 mælet
@@ -17915,6 +18276,7 @@ namngjevne
 namni
 namnkjend
 namnord
+namnordi
 namns
 namnspurd
 napalm
@@ -17985,6 +18347,8 @@ naturalisera
 naturi
 naturleg
 naturlege
+naturlegvis
+naturlig
 natyrell
 naud
 naudardagen
@@ -18023,6 +18387,7 @@ navigasjon
 navigera
 navle
 navlestrengen
+naïvt
 neapolis
 nearja
 nebajot
@@ -18053,6 +18418,7 @@ neddotne
 nede
 nede i
 nederlag
+nedervde
 nedetter
 nedfalls
 nedfallsjuke
@@ -18149,9 +18515,11 @@ nemnar
 nemnast
 nemnd
 nemnde
+nemndi
 nemne
 nemner
 nemning
+nemningi
 nemnt
 nemuel
 nemuelitane
@@ -18302,6 +18670,7 @@ njoting
 njupa
 njupetorn
 no
+no-målet
 noa
 noadja
 noah
@@ -18382,10 +18751,25 @@ nordsida
 nordskilet
 nordveggen
 nordvest
+norm
+normalen
+normalt
 normannar
+normera
+normerar
 norna
 norrøn
+norrøne
+norrønt
 norsk
+norskast
+norskdansk
+norskdanske
+norskdansken
+norske
+norsken
+norsklydande
+norskt
 norstraum
 nos
 nosi
@@ -18394,6 +18778,7 @@ notarbas
 notbas
 note
 noti
+notid
 notlag
 notra
 notrone
@@ -18429,6 +18814,7 @@ ny
 nya
 nyanse
 nyar
+nyaste
 nyborne
 nybrot
 nybrøyting
@@ -18439,6 +18825,7 @@ nybæra
 nybære
 nyding
 nye
+nyengelsk
 nyet
 nyfiken
 nyfikna
@@ -18474,6 +18861,12 @@ nymånedag
 nymånedagane
 nymånedagen
 nymånen
+nynorsk
+nynorskbrukar
+nynorsken
+nynorskfolk
+nynorskland
+nynorskrettskriving
 nyo
 nypa
 nyra
@@ -18484,10 +18877,12 @@ nys
 nysa
 nyslegen
 nysn
+nyspansk
 nyss
 nyst
 nysta
 nyste
+nysvensk
 nyt
 nyta
 nytleg
@@ -18717,6 +19112,7 @@ ofse
 ofseleg
 ofsen
 oftare
+oftast
 ofte
 og
 ogn
@@ -18822,6 +19218,7 @@ onnefolki
 onnor
 onnorleides
 onnorleis
+onnorleîs
 onnug
 onnuge
 ono
@@ -18849,6 +19246,7 @@ opera
 operasjon
 operera
 operette
+opet
 opi
 opinion
 opium
@@ -18868,6 +19266,8 @@ orakel
 oransje
 ord
 orda
+ordbok
+ordboki
 orden
 ordepinne
 ordet
@@ -18892,10 +19292,12 @@ ordskiftast
 ordskifte
 ordskiftest
 ordskiftet
+ordsoga
 ordspråk
 ordstrid
 ordtak
 ordtaket
+ordtilfanget
 ordtøke
 ordtøket
 ordtøki
@@ -18954,10 +19356,12 @@ orsaka
 orsakande
 orsakar
 orskaka
+orskurd
 ortodoks
 ortodoksi
 ortofon
 ortografi
+ortografien
 ortografisk
 ortopedi
 ortopedisk
@@ -19029,6 +19433,7 @@ ovhug
 ovhøg
 ovhøgt
 ovklok
+ovkorrekt
 ovlangt
 ovleg
 ovlivnad
@@ -19386,6 +19791,7 @@ persone
 personell
 personifikasjon
 personifisera
+personleg
 perspektiv
 perspektivisk
 pert
@@ -19617,6 +20023,7 @@ politikar
 politikk
 politikonstabel
 politisk
+politiskt
 politur
 poll
 polygami
@@ -19672,6 +20079,7 @@ pose
 posen
 posisjon
 positiv
+positive
 positur
 possessiv
 post
@@ -19778,6 +20186,7 @@ presteteneste
 prestevigsla
 presteættene
 prestisje
+prestisjemålet
 prestlippor
 prestskifti
 pretendent
@@ -19811,6 +20220,7 @@ prisme
 privat
 privet
 privilegium
+problem
 produksjon
 produkt
 produsent
@@ -19962,6 +20372,7 @@ pungar
 pungen
 punitane
 punkt
+punktane
 punktum
 punon
 punsj
@@ -19974,6 +20385,7 @@ pura
 purim
 purimdagane
 purimfesten
+puristar
 purka
 purla
 purpur
@@ -20036,10 +20448,12 @@ på tvert
 på veg
 påbod
 påbodet
+påbodne
 påbyd
 påfugl
 påfuglar
 påfund
+påfunne
 påfunnet
 påfynster
 påhengt
@@ -20094,6 +20508,8 @@ påskeofferet
 påskrift
 påstandet
 påtale
+påverka
+påverknaden
 påvyrd
 pæra
 pære
@@ -20106,6 +20522,7 @@ pøysa
 q
 quisling
 r
+r-lause
 raamja
 raamses
 raamseslandet
@@ -20386,6 +20803,7 @@ regiment
 regissør
 regium
 regla
+reglar
 reglement
 reglesmed
 regn
@@ -20523,6 +20941,7 @@ rekvisisjon
 rekyl
 relieff
 religion
+religiøst
 reling
 remalja
 remaljason
@@ -20573,6 +20992,7 @@ replisera
 repp
 representant
 representasjon
+representative
 representera
 reprimande
 reproduksjon
@@ -20676,6 +21096,7 @@ rettleidde
 rettleider
 rettleides
 rettleiding
+rettleidingi
 rettleidt
 rettno
 rettsbrot
@@ -20683,6 +21104,13 @@ rettsgild
 rettskjensla
 rettskrenkjing
 rettskriving
+rettskrivingane
+rettskrivingi
+rettskrivingsbrigde
+rettskrivingsnemndi
+rettskrivingsnormalen
+rettskrivingsnormeringane
+rettskrivingstradisjon
 rettskunna
 rettsleg
 rettslærd
@@ -20777,12 +21205,15 @@ rikmenn
 rikmennene
 riksa
 riksens
+riksmålet
+riksnorsk
 riksrådane
 riksrådar
 riksskrivar
 riksskrivarar
 riksskrivaren
 riksskrivarkoven
+riksspansken
 riksstyringi
 rikstempel
 rikt
@@ -21457,6 +21888,7 @@ sakkur
 saklaus
 saklause
 sakleg
+saklege
 sakna
 saknad
 saknaden
@@ -21466,6 +21898,7 @@ sakramental
 saks
 saksar
 saksene
+saksi
 saksisk
 saksplatone
 saksøkja
@@ -21570,12 +22003,17 @@ sama
 saman
 samanbunden
 samanbøygd
+samandrag
 samanfest
 samanheng
+samanhengen
 samanknytt
 samanknytte
 samankomne
+samanlikning
 samanrulla
+samansetjingar
+samanstøyping
 samansverjing
 samansverjingi
 samansvore
@@ -21618,6 +22056,7 @@ sameining
 sameinte
 sameleides
 sameleis
+sameleîs
 samfelt
 samfengd
 samferdsl
@@ -21666,6 +22105,10 @@ sammai
 sammajarlen
 sammot
 sammua
+samnemnar
+samnorsk
+samnorsken
+samnorsktanken
 samos
 samotrake
 samråd
@@ -21686,6 +22129,7 @@ samstelte
 samstundes
 samstøypte
 samsummitar
+samsvar
 samt
 samtale
 samtalen
@@ -22206,10 +22650,14 @@ sergius
 seri
 serk
 serkene
+serkjennet
 serlaga
 serleg
 serleik
 sermerkt
+sermål
+sermåli
+sernorske
 seror
 sers
 sersjant
@@ -22304,8 +22752,11 @@ side
 sidebein
 sidebeinet
 sidebeini
+sideform
+sideformstatus
 sidefyllingane
 sidekovane
+sidemål
 sider
 sideriv
 sides
@@ -22331,6 +22782,7 @@ sidonsgudane
 sidor
 sidrop
 sidst
+sidste
 sidstundes
 sidut
 sif
@@ -22982,6 +23434,7 @@ skildring
 skilet
 skilja
 skiljast
+skiljet
 skiljeteikn
 skilleg
 skilling
@@ -23291,6 +23744,8 @@ skote
 skotmål
 skotning
 skotsk
+skotskt
+skott
 skotte
 skov
 skova
@@ -23334,17 +23789,26 @@ skridande
 skride
 skrift
 skrifta
+skriftbasera
 skriftemål
 skriftene
 skrifter
 skriftestol
+skriftfesting
 skrifti
 skriftleg
 skriftlærd
 skriftlærde
+skriftmål
+skriftmålet
+skriftmålsnormering
+skriftmålstradisjonen
+skriftnorm
+skriftnormi
 skriftord
 skriftordet
 skriftteikn
+skriftteiknet
 skrik
 skrika
 skrikande
@@ -23375,6 +23839,9 @@ skrivars
 skrivarstova
 skrivast
 skrive
+skrivemistak
+skrivemåtar
+skrivemåte
 skrivestell
 skrivestellet
 skrivet
@@ -23459,6 +23926,7 @@ skrøyva
 skrøyve
 skrøyveleg
 skrøyven
+skudd
 skuffa
 skufl
 skufla
@@ -23662,6 +24130,7 @@ skånsel
 skåp
 skår
 skåta
+skìpla
 skøyna
 skøyr
 skøyt
@@ -23931,6 +24400,7 @@ sløra
 sløret
 sløri
 sløsa
+sløvskap
 sløyfa
 smak
 smaka
@@ -24049,6 +24519,7 @@ småkrøter
 småleg
 smålåten
 smålåtne
+smålæte/smålåtenskap
 småmann
 småminking
 småpengane
@@ -24344,6 +24815,7 @@ soleides
 soleis
 solekoma
 solene
+soleîs
 solformyrkning
 solhov
 soli
@@ -24453,6 +24925,7 @@ sosial
 sosialisme
 sosialist
 sosialistisk
+sosioøkonomiskt
 sosipater
 soso
 sostenes
@@ -24718,6 +25191,15 @@ sprutar
 spruter
 språk
 språka
+språkarv
+språkbrukaren
+språkemne
+språket
+språkhistorisk
+språkleg
+språklege
+språksystemet
+språktradisjon
 spræk
 spræke
 sprækleik
@@ -24772,6 +25254,7 @@ spåmannsløn
 spåmennene
 spåmenner
 spår
+spårkbrukaren
 spått
 spåvette
 spæja
@@ -24882,6 +25365,7 @@ statistisk
 statsborgar
 statsminister
 statsråd
+statsstyringi
 statt
 statue
 status
@@ -24900,7 +25384,13 @@ stavane
 stavar
 stavbur
 staven
+staving
+stavingane
+stavingar
+stavingi
 stavlægja
+stavnad
+stavnaden
 ste
 stearinljos
 sted
@@ -24986,6 +25476,7 @@ stemner
 stemnor
 stemnt
 stempel
+stempelen
 stend
 stendig
 stendigt
@@ -25008,6 +25499,7 @@ stenografera
 stereotyp
 sterk
 sterkare
+sterkast
 sterkaste
 sterkbygt
 sterke
@@ -25092,6 +25584,7 @@ stjernut
 stjert
 stjorn
 stjorna
+stockholmsmålet
 stod
 stoda
 stodhest
@@ -25276,6 +25769,7 @@ strevsam
 strevsame
 strid
 strida
+stridande
 stridar
 stridast
 stridbukk
@@ -25354,6 +25848,7 @@ stroke
 stroken
 strokk
 strokmål
+strokne
 struka
 struktur
 strunt
@@ -25452,6 +25947,7 @@ sturtar
 sturtflod
 sturtregn
 stussa
+stussar
 stussleg
 stut
 stutar
@@ -25612,6 +26108,7 @@ støl
 stønad
 støra
 større
+størrelse
 størst
 største
 størsteparten
@@ -25732,6 +26229,7 @@ sumaren
 sumarfrukti
 sumarheten
 sumarhus
+sumarlægeret
 sumarsfrukt
 sumarsoli
 sumarturken
@@ -25779,6 +26277,7 @@ sundslegne
 sundsprengt
 sundsprukne
 sundstøytte
+sundt
 sundtreskte
 sunem
 sunemskona
@@ -25801,6 +26300,7 @@ suppa
 suppim
 supplement
 supplera
+supplerast
 supplikant
 supponera
 sur
@@ -26329,6 +26829,8 @@ sysla
 syslemann
 syslor
 system
+systemet
+systemskilnad
 syster
 systeri
 systerne
@@ -26433,6 +26935,7 @@ sætet
 sæti
 sætt
 sættast
+sét
 sòd
 søgja
 søk
@@ -26527,6 +27030,7 @@ tagg
 tagga
 tagge
 taggut
+tagit
 tagl
 tagna
 tagt
@@ -26538,6 +27042,7 @@ tahpanhes
 tahpenes
 tahpenesborni
 tahrea
+taji
 tak
 taka
 takasskinn
@@ -26591,6 +27096,11 @@ talar
 talast
 talde
 tale
+talemålet
+talemålsgrunnlaget
+talemålsnære
+talemålsnært
+talemålsvokster
 talen
 talent
 talentar
@@ -26659,6 +27169,7 @@ tappane
 tappar
 tappuah
 tappuahbygdi
+tapskjensla
 tapt
 tapte
 tarah
@@ -26747,6 +27258,7 @@ tekne
 teknikar
 teknikk
 teknisk
+teknokratiskt
 tekoa
 tekoafolket
 tekoafolki
@@ -26979,6 +27491,7 @@ tidi
 tidig
 tidla
 tidleg
+tidlegare
 tidlegfika
 tidom
 tids
@@ -27076,12 +27589,14 @@ tilbygnad
 tilbygnaden
 tildeling
 tile
+tileigningproblem
 tiletla
 tilfalle
 tilfallen
 tilfang
 tilfelle
 tilfelleleg
+tilfellelege
 tilferd
 tilgatpilneser
 tilgav
@@ -27109,12 +27624,14 @@ tilkoma
 tilkomande
 tilkome
 tillaga
+tillate
 tillaupet
 tillegg
 tilliks
 tillit
 tillitsmenner
 tilmåta
+tilmåtast
 tilmælt
 tilmælte
 tilnamnet
@@ -27128,10 +27645,12 @@ tilsegn
 tilsig
 tilskipnader
 tilskunda
+tilsluttnaden
 tilstand
 tilstelling
 tilstyrkt
 tilsulka
+tilsvarande
 tilsyn
 tilsynet
 tilsynsembete
@@ -27476,7 +27995,9 @@ totning
 totte
 tou
 tradisjon
+tradisjonar
 tradisjonell
+tradisjonen
 trafikera
 trafikk
 trafsa
@@ -28172,6 +28693,7 @@ tydskap
 tydt
 tyet
 tyfta
+tyfte
 tyfus
 tygel
 tyggja
@@ -28265,7 +28787,10 @@ tyrusmuren
 tysdag
 tysja
 tysk
+tyskane
 tyskar
+tyske
+tyskt
 tyta
 tyteber
 tytel
@@ -28305,6 +28830,7 @@ tægeber
 tæger
 tægja
 tæja
+tæl
 tæpa
 tæpe
 tær
@@ -28618,6 +29144,9 @@ umgang
 umgangsvener
 umgjenge
 umgjenget
+umgrìp
+umgrìpsfestingi
+umgrìpsskatten
 umgyrd
 umgyrde
 umhender
@@ -28645,10 +29174,13 @@ umlægringsvollane
 umma
 umme
 umogeleg
+umogelege
 umogleg
 umogne
 umringa
 umråda
+umset
+umsetjing
 umsett
 umsider
 umskapa
@@ -28673,6 +29205,7 @@ umsnudd
 umsnunad
 umsnutt
 umspent
+umstendi
 umsut
 umsuti
 umsyn
@@ -28708,6 +29241,7 @@ undan
 undankomne
 undanslopne
 undantak
+undantaki
 undanteken
 undantekne
 undantil
@@ -28747,6 +29281,7 @@ undersått
 undertrykte
 undervassbåt
 underverk
+undervurdera
 undra
 undrar
 undrast
@@ -28834,6 +29369,7 @@ uppbygg
 uppbyggja
 uppbyggjer
 uppbyggjing
+uppbygnaden
 uppdaga
 uppdaging
 uppdikt
@@ -28854,6 +29390,7 @@ uppfylling
 uppfyllt
 uppfyllte
 uppfødd
+uppføringane
 uppgangen
 uppgjerdi
 uppgjevne
@@ -28864,6 +29401,8 @@ upphaldsver
 upphav
 upphavet
 upphavleg
+upphavlege
+upphavlegt
 upphavsmannen
 upphelde
 upphengd
@@ -28953,6 +29492,7 @@ uppskrivi
 uppskrivne
 uppskræmd
 uppslag
+uppslagsverket
 uppsong
 uppsparde
 uppstaden
@@ -28980,6 +29520,7 @@ uppåt
 uppøsing
 uppøst
 uppøste
+upraktiskt
 upålitande
 ur
 uransakeleg
@@ -29169,6 +29710,7 @@ utbrot
 utbrotet
 utburd
 utbygder
+utdaningsinstitusjonane
 utdøyde
 ute
 utearbeid
@@ -29181,6 +29723,7 @@ utenkjande
 utenkjeleg
 utestengd
 utestengde
+utestengjing
 utett
 utetter
 utev
@@ -29194,6 +29737,7 @@ utfria
 utfyller
 utfylling
 utfyre
+utførlegt
 utgamle
 utgang
 utgangane
@@ -29215,6 +29759,7 @@ utjon
 utkant
 utkantane
 utkanten
+utkasta
 utkik
 utkiksmannen
 utkoma
@@ -29233,6 +29778,7 @@ utlendske
 utlevd
 utlevde
 utlidne
+utljod
 utlova
 utlånar
 utlånaren
@@ -29253,6 +29799,7 @@ utløyste
 utmark
 utmarki
 utmed
+utmeisla
 utmerkt
 utmur
 utmødd
@@ -29335,6 +29882,8 @@ utsynning
 utsått
 utsæde
 uttala
+uttalast
+uttalereglane
 uttalma
 utteken
 utteki
@@ -29381,6 +29930,7 @@ uumskorne
 uvandt
 uvane
 uvanleg
+uvanlege
 uvantande
 uveges
 uvegne
@@ -29473,6 +30023,7 @@ vaken
 vaker
 vaketreet
 vaking
+vaklingi
 vakna
 vaknar
 vakne
@@ -29541,6 +30092,9 @@ valdsvåpen
 valdtekne
 valdtok
 valen
+valet
+valformer
+valfrie
 valkyrja
 vallak
 vallesletta
@@ -29576,6 +30130,7 @@ vandra
 vandrar
 vandring
 vandsam
+vandskeleg
 vandt
 vane
 vanfør
@@ -29682,6 +30237,7 @@ vareupplag
 varg
 vargar
 vargen
+variablar
 variasjon
 variera
 varig
@@ -30000,6 +30556,7 @@ vendar
 vendast
 vende
 vender
+vendingar
 vendor
 vendt
 vene
@@ -30034,6 +30591,7 @@ ventande
 ventar
 vente
 venteleg
+ventelig
 ventilasjon
 venting
 vepna
@@ -30252,6 +30810,7 @@ vikla
 vikone
 vikor
 viktig
+viktugaste
 vil
 vilde
 vilder
@@ -30264,6 +30823,7 @@ vilja
 vilje
 viljen
 viljes
+viljestyrke
 viljug
 viljuge
 viljugt
@@ -30462,6 +31022,7 @@ vismøi
 visna
 visnar
 visne
+visone
 visor
 visp
 vispa
@@ -30549,6 +31110,7 @@ vognstyraren
 vok
 voka
 vokal
+vokalar
 voks
 vokset
 vokskakone
@@ -30605,6 +31167,7 @@ vord
 vore
 voren
 vorpen
+vort
 vorte
 vorten
 vorti
@@ -30761,6 +31324,7 @@ væla
 væle
 væmen
 væn
+vænast
 væpna
 væpnar
 væpningsdagen
@@ -30778,6 +31342,9 @@ væter
 vætt
 vætte
 vêr
+vìka
+vìkone
+vìkor
 vøda
 vøl
 vøla
@@ -31187,6 +31754,7 @@ zoologisk
 æ
 ægjast
 æla
+æple
 ær
 æra
 ærar
@@ -31242,6 +31810,7 @@ zoologisk
 ættehovdingane
 ættehovdingar
 ættejord
+ætteleder
 ættelista
 ættelistone
 ættelistor
@@ -31284,6 +31853,8 @@ zoologisk
 ævords
 ævordsleg
 èl
+éi
+éin
 él
 òg
 òker
@@ -31369,6 +31940,7 @@ zoologisk
 øydeland
 øydelegg
 øydeleggja
+øydeleggjande
 øydeleggjast
 øydeleggjing
 øydeleggjingi
