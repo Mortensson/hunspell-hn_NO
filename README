@@ -4,6 +4,7 @@ Dette er ei ordlista som kann brukast i Hunspell, og byggjer på fleire høgnors
 
 Eventuelt skal eg taka burt hunspell_nn ordlista, men det trengst fleire tekstar (som berre er) på høgnorsk, skal hunspell_hn_NO verta meir brukeleg. Berre tak kontakt um du hev spursmål. Eg er glad i alle råd eg kann få, serleg frå folk som kann betre høgnorsk enn eg. :) 
 
+Sjølve um eg skal ikkje leggje til tekstar som er ikkje skrevne på 'rein' høgnorsk, eg er interessert i å få Landsmål tekstar og, og kann laga f.eks., fleire rettskrivingsordlistar med bestemte måli.
 
 ------------
 INSTALLERING
@@ -72,4 +73,4 @@ replacements.txt is for words which hunspell (or similar software) will likely n
 		 angrep -> åtak
 		 erfaring -> røynsla
 
-This is for the more normative 
+This is for the more normative part of the wordlist. ;) 
