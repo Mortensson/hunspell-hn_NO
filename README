@@ -1,8 +1,8 @@
 Kva er dette? 
 
-Dette er ei ordlista som kann brukast i Hunspell, og byggjer på nynorskordlista i Hunspell og ulike tekstar som er skrivne på landsmål, eller høgnorsk. Alle tekstar finst i texts/mappe. Ordlista er ikkje meint å vera normativ, men ord som torde falla utanum, er variantar som berre finst i nynorsk. Um det finst meir tekstar som kann brukast til å auka ordlista, kann eg godt leggja deim til. 
+Dette er ei ordlista som kann brukast i Hunspell, og byggjer på fleire høgnorske tekstar (sjå på SOURCES-del). Um det finst meir tekstar som kann brukast til å auka ordlista, kann eg godt leggja deim til. 
 
-Eventuelt kann eg taka burt hunspell_nn ordlista, men det trengst fleire tekstar (som berre er) på høgnorsk, skal hunspell_hn_NO verta meir brukeleg. Berre tak kontakt um du hev spursmål. Eg er glad i alle råd eg kann få, serleg frå folk som kann betre høgnorsk enn eg. :) 
+Eventuelt skal eg taka burt hunspell_nn ordlista, men det trengst fleire tekstar (som berre er) på høgnorsk, skal hunspell_hn_NO verta meir brukeleg. Berre tak kontakt um du hev spursmål. Eg er glad i alle råd eg kann få, serleg frå folk som kann betre høgnorsk enn eg. :) 
 
 
 ------------
@@ -28,9 +28,48 @@ TODO NEXT
  * Scripts to produce wordlists from source dta
  * Cleaner directory structure to include and exclude sources
  * An exclusion wordlist
+ * Convert nynorsk morphology to høgnorsk
+ * Hunspell and suggesting correct words for words which are not simply common typos or misspellings, our outside of hunspell's levenshtein distance?
+ * Write this whole document in Høgnorsk (pardon my English!)
 
 -------------
 MEIR TEKSTAR?
 -------------
 
 Um du hev nokre tekstar som du vilde inkludera her, tak kontakt. Um teksten kan ikkje stå i et offentlig stad (han er f. eks. tilknytta til ei bok som kan ikkje kopiera), me kunde anonymisera den fyrst ved å berre taka burt alle ord og sortera deim alfabetiskt. I minsto er poenget ikkje å samla tekstar, men å laga ei stor ordlista. :)
+
+-------
+SOURCES
+-------
+
+ * "Kva er høgnorsk" - http://www.ivaraasen.no/bokstova.php?bok=kva_er_hognorsk.html
+ * Indrebø-Bibel - http://www.nathan.co.za/norwegian.asp
+ * SAM_wordlist.csv - Wordlist sent by personal communique (ask to be named in more than initials, and you shall!)
+
+
+
+---------
+Hunspell?
+---------
+
+Hunspell works by suggesting words which differ by a certain set amount (Levenshtein distance). It may include an affix file, which allows for making the source wordlist shorter, and handles additional options for suggesting word replacements despite common typoes: in English, people may misspell 'ph' as 'f' often, and this could disrupt Hunspell's ability to find possible spelling suggestions for the word *orthagrafic, thus a rule may be added to the affix file to alert Hunspell of f/ph, so proper suggestions to can be made to suggest 'orthographic'.
+
+-----------------
+Development notes
+-----------------
+
+/include/ is for symlinks to wordlists which will be included in hn_NO.dic
+/texts/clean/ is for texts which have been "cleaned", or gone through and cleaned of all non-høgnorsk words.
+
+Filenames containing .no_script. should not be produced or processed by scripts, because they contain by-hand work that would be disrupted.
+
+/texts/bibelen.txt is assumed to be a 'clean' text
+
+replacements.txt is for words which hunspell (or similar software) will likely not catch, because these words will differ too vastly from possible suggestions. I am unaware if Hunspell supports this sort of replacement suggestion yet, but I feel it best to collect words like these.
+
+	ex.) følelse -> kjensla
+		 friheit -> fridom
+		 angrep -> åtak
+		 erfaring -> røynsla
+
+This is for the more normative 
