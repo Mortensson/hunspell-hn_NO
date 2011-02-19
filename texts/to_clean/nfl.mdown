@@ -1,0 +1,1913 @@
+﻿# NORSK FORMLÆRA
+
+## Av LARS ESKELAND Åttande utgåva
+
+## INNEHALD
+
+  * [LJOD OG LJODSKIFTE][34]
+  * [LESEMÅTE][35]
+  * [FORMSKIFTE ELLER BØYGJING][36]
+
+    * [NAMNORDI][37]
+    * [HANKYNSORDI][38]
+    * [HOKYNSORDI][39]
+    * [INKJEKYNSORDI][40]
+
+  * [KJENNEORDI (_ARTIKLANE_)][41]
+  * [TILLEGGSORDI (_ADJEKTIVI_)][42]
+  * [TALORD][43]
+  * [VARA-ORDI (_PRONOMENI_)][44]
+  * [GJERNINGSORDI][45]
+
+    * [STERKE GJERNINGSORD][46]
+    * [LINNE GJERNINGSORD][47]
+
+  * [ADVERB][48]
+
+## LJOD OG LJODSKIFTE
+
+1. _Konsonantane_, eller _medljodi_, er: b, d, f, g, h, j, k, l, m, n, p, r, s, t, v. _Vokalane_, eller _sjølvljodi_, er: a, e, i, o, u, y, æ, ø, å (á, aa). _Diftongane_, eller _tviljodi_, er: au, ei øy.
+
+2. **e, i, o, u, y** lyder på to måtar, trongt og ope. Den tronge ljoden er namn på sjølvljoden. I lange stavingar finn me oftaste den tronge ljoden, i stutte oftaste den opne. Med den opne ljoden nærmar _e_ seg til _æ_, _i_ til _e_, _o_ til _å_, _u_ til _o_, _y_ til_ø_.
+
+Trong:
+tre, kne, bles, ser; sédd, tédde
+
+fri, tid, lika, slipa; ill, vidd
+
+god, bok, sol, drog; sott, otte
+
+bu, hus, duva, truga; trutt, snudde
+
+by, sky, syn, styra; nytt, bytt
+
+Open: 
+kjenna, bekk, eld; nes, lepe, lesa
+
+mitt, viss, kippa; vika, skin, visen
+
+dott, odd, hogga; skot, mose, koma
+
+turr, upp, grunn; hug, sumar, fura
+
+fyrr, fylgja, syrgja; skyn, lykel
+
+3. Til letting for lesingi skil dei ofte millom trong og open sjølvljod med eit merke, lutande kile (´) yver trong sjølvljod, og attkeik kile (`) yver open, serleg i nokre ord, t. d. _lèt_, notid av lata, og _lét_, fyrrtid avlata; _fór_, fyrrtid av fara; ei _fòr_.
+
+4. _Ljodbrigde_ („omlyd‟) kallar ein eit sjølvljodskifte som ein gong i tidi er kome frå ein _i (j)_ eller _u (v)_ i sta vingi etter.
+
+5. _Lint ljodbrigde_ (_i_-ljodbrigde) er det når ein hard sjølvljod hev vorte til ein linn:
+
+_a_ til _è:_ fast, festa; lat, lèta; mann, menner
+
+_å_  _æ:_ våt, væta; lås, læsa; kåt, kjæta
+
+_o_  _ø:_ bot, bøta; dom, døma; stor, større
+
+_ò_  _ỳ:_ dott, dytta; sorg, syrgja
+
+_u_  _y:_ sut, syta; hus, hysa; sur, syra
+
+_ù_  _ỳ:_ grunn, grynna; ung, yngja
+
+_au_  _øy:_ blaut, bløyta; draum, drøyma; laup, løypa
+
+_jo_   
+_ju_
+} _y:_ tjon, tyna; ljos, lysa; mjuk, mykja
+
+6. _Hardt ljodbrigde_ er det når _a_ hev vorte til _ò: holva_ av _halv_, _toka_ av _tak_, _soga_ av _sag_-de; _born_ av _barn_.
+
+7. Eit anna slag ljodskifte, _ljodsprang_ (avlyd), hev me i kjenneformene av dei sterke gjerningsordi. Sjølvljoden ymsar på fleire måtar: _finna, fann, funne; lesa, las, lese_. [Sjå st. 66-75.][46]
+
+## LESEMÅTE
+
+8. Stutt _d_ etter sjølvljod eller millom to sjølvljod er for det aller meste daud, d. v. s. burtfallen i talen: ti_d_, stri_d_, lagna_d_, kve_d_a, gle_d_a. Sameleis når han står etter _r:_ gar_d_, or_d_. 
+
+9. I nokre ord kastar dei no den daude _d_'en: _Båe_ to (men: både  og), _brå_, _breia_, ei _bu_, ei _glo_, _grei-a_, _hei_, _kei_, _lei-a_, _løa_, _snau_, _soleis_ og andre som endar på _leis_, _stø_, _sva_-berg o. fl.
+
+10. I bundi form av inkjekyns-ordi (landet, fjellet, huset) er _t_'en daud. Like eins i ordet _det_. I dei linne inkjekynsordi skriv ein bundi og ubundi form sameleis (eit auga, vinstre auga). 
+
+11. _rn_ vert oftast til _nn_ (dn) i talen: born, kvern, korn. Men det finst bygdemål som hev _rn_, so ein kann bruka den lesemåten og, um ein vil. I bundi form av namnordi er _r_-en burtfallen å kalla. Fyrr skreiv dei _gutarne_, _gjesterne_, _visorne_; ein må lesa _gutane_, _gjestene_, _visone_. No let ein skrifti fylgja talemålet i dette stykket; for _r_-en gjerer ikkje ordi klårare for auga heller. [Sjå st. 21-29.][38]
+
+12. _g_ og _k_ lyder som _gj (j)_ og _kj_ fyre linne sjølvljod (e, i, y, æ, ø, ei, øy): gild, gøyma, kinn, kyrkja. Fyre _e_, _æ_ og _ø_ skriv ein ogso vanleg _j:_ gjera, gjæv, kjenna, kjøpa. Men fyre _e_ i _endestavingar_ skriv dei han sjeldan: rike, lykel, dregen. 
+
+13. Fyre _e_ i samansetning lyder _g_ og _k_ hardt, for di _e_ då står i staden for ein gamall _a_ eller _u:_ bakkebrun, vikeblad.
+
+14. Ordi fær tonetyngd på to måtar, som me kallar tonelag: einstavingsord hev _einstavings tonelag:_ dag′en, bekk′en. Like eins ord som fyrr hev vore einstavings-ord: bøk′er, end′er (av and).
+
+Fleirstavings-ord hev _tostavings tonelag:_ vi‵sa; so‵la seg; dag‵ar. Som ein ser, kann ein syna tonelaget med tonelagsteikn, eller aksentar.
+
+## FORMSKIFTE ELLER BØYGJING
+
+15. Sume ord er alltid eins, men dei fleste skifter form, vert bøygde, etter som dei vert brukte til.
+
+### NAMNORDI
+
+16. Namnordi er anten hankyn, hokyn eller inkjekyn (kynlause). Alle hankynsord kann ein byta um med _han_, hokynsord med _ho_, og inkjekynsord med _det_. Um ei ku kann ein segja at _ho_ er stor, um ein båt at _han_ flyt lett, um eit fjell at _det_ er høgt.
+
+17. Namnordi hev to talformer, _eintal_ og _fleirtal_. I kvar av desse formene må ein skilja millom ei _ubundi_ og ei _bundi_ form: dag, dagen; dagar, dagane.
+
+18. I det gamle mål hadde namnordi fire kasus eller høveformer, som synte klårt kva ordet hadde å gjera i setningi: nemneform, motfallsform, sidefallsform og eigeform. Dei to fyrste hev falle saman for lenge sidan, og dei to siste er mykje burtslipte.
+
+_Sidefallsformi_ er det ymist att av i fleire bygdemål, men dei fleste nyttar henne no lite eller inkje i skrift, anna i nokre talemåtar, som: av garde, i make, i fatle, i live, av lage.
+
+_Eigeformi_ er brukt ein grand, serleg i samansetning, dagsror, årstid. Dess-utan hev ein henne att i ymse ord og talemåtar: dagsens, heimsens, mannsens; manna mål, årsens tid, all landsens ulukka, husens folk, himmels høgt, livs levande. Etter styreordet _til_ finn ein ofte eigeformi: til lags åt alle , til gards, til skogs, til bygdar.
+
+19. Men elles er det so i norsk som i fleire nyare mål, at ein mykje må skriva um eigeformi. Det kann ein gjera: 1) ved _styreord:_ garden åt grannen, rokken til mor, sanden i havet, taket på huset 2) ved vara-ordet _sin:_ grannen sin gard, môr sin rokk. 3) ved _hans_ og _hennar_ fyre folkenamn (sernamn og nokre få samnamn): garden hans Gunnar, målet hennar mor. 4) ved samansetning: grannegarden, skogkanten.
+
+_Nemneformi_ er soleis brukt mest i alle høve.
+
+20. I bøygjingi skil namnordi seg fyrst etter kynet i tri flokkar. For kvart kyn hev me to bøygjemåtar, som me kann kalla den sterke og den linne. _Etter den sterke bøygjemåten går alle einstavingsord, og dei fleirstavingsord som endar med medljod. Etter den linne går dei fleirstavingsord som endar med sjølvljod_. 
+
+### HANKYNSORDI
+
+21. _Den sterke bøygjemåten_.
+
+Eintal
+Fleirtal
+
+Ub. form
+B. form
+Ub.form
+B. form
+
+Nemneform
+_**dag**_
+_**dagen**_
+_**dagar**_
+_**dagane**_
+
+Eigeform (samansetning)
+dags
+dage
+
+Soleis vert dei aller fleste einstavingsord bøygde, t. d. ås, arm, båt, by, bø, dom, fugl, gut, heim, kamb, mur, odd, sal, stein, stol. Like eins mange fleirstavingsord som endar med medljod: riking, gamling.
+
+Merk elles: Nokre ord som endar på _el_ og _ul_ vert samandregne i fleirtal: _bendel_  _bendlar;_ _høvel_  _høvlar;_ _spegel_  _speglar;_ _støvel_  _støvlar;_ _trygel_ (lite tnog)  _tryglar;_ _jøkul_  _jøklar;_ _ongul_  _onglar;_ _vondul_  _vondlar_. Og soleis: _jøtun_  _jøtnar_. Ordet _morgon_ heiter både _morgonar_ (regelrett) og _morgoar_ eller _mornar_ i fleirtal.
+
+Nokre ord som endar på _ar_ og _er_ vert og samandregne i fleirtal: _sumar_  _sumrar;_ _hamar_  _hamrar;_ _vinter_  _vintrar_.
+
+Men når _ar_ er ei utvidkings-ending, går ordi støtt regelrett: _tenar-en_  _tenarar_  _tenarane;_ _lærar-en_  _lærarar_  _lærarane;_ _bakar-en_  _bakarar_  _bakarane;_ _borgar-en_  _borgarar_  _borgarane;_ _klokkar-en_  _klokkarar_  _klokkarane;_ _romar-en_  _romarar_  _romarane_.
+
+Ein må aldri kasta ei staving liksom dansken gjerer i sovorne høve, so ein t. d. fær bakarne i staden for _bakarane_, murarne i staden for _murarane_, fiskarne i staden for _fiskarane_, og romarne i staden for _romarane_.
+
+22. a. Nokre ord fær _er_ i fleirtal:
+
+**_kvist kvisten kvister kvistene**_
+
+Sameleis: _brest, døl, gjest, gong, gris, lem_ (t. d. lemene påkroppen), _let_ (t. d. raud og kvit let), _lut_ (ein lut av arven), _mun_. (Det gjorde stor mun. Alle munene dreg), _rett_ (matrett. Det andre ordet _rett_ går som dag: Det stod seg for alle rettar), _sau, sed_ (t. d. skikk og sed), _stad, ven, vev, vær_ (t. d. Lom-vær).
+
+Soleis går alle som endar på _nad: månad, verknad_ o. fl.
+
+Dess-utan nokre folkenamn som alltid står i fleirtal: _egder_  _egdene;_ _fyrder_  _fyrdene_ (t. d. eidfyrdene), _kvemmer_  _kvemmene_ (folk frå Kvam); _sygner_  _sygnene_ (folk frå Sogn); _teler_  _telene;_ _trønder_  _trøndene_.
+
+Like eins dei ordi som endar med _g_ og _k_ og hev linn rotvokal.
+
+**_øyk øyken øyker øykene**_
+
+Fleire slike ord: _bekk, belg, benk, dregg, dreng, drykk, flekk, hegg, klegg, legg, løk_ (bekk), _rygg, rykk, sekk, serk, streng, stylk, styng, vegg, veng_.
+
+Samansetningsformer: _belgmyrker, kleggbit, leggbein, ryggverk, strengnett, veggmåling, bekkefar, benkefot, drengestova, drykkevisa, heggebær, sekkelereft, veggemot, øykeflokk_.
+
+Merk: _sko,_ fl. _skor_  _skorne_ ell. _sko_  _skone;_ _ljå, ljår_  _ljårne_.
+
+23. Nokre ord fær _er_ og lint ljodbrigde: _bror_, fl. _brør_  _brørne_ ell. _brøder_  _brøderne;_ _far, fedrar_  _fedrane_(ell. _feder_) _federne_); _fot, føter_  _føtene; mann, menner_ (ell. _menn_)  _mennene;_ _nagl, negler_  _neglene;_ _son, søner_  _sønene;_ _spon, spøner_  _spønene_.
+
+Mrk.: ein ting, fl. ting (t. d. ein liten ting), b. f. tingi.
+
+24. _Den linne bøygjemåten._
+
+Eintal
+Fleirtal
+
+Ub. form
+B. form
+Ub.form
+B. form
+
+Nemneform
+_**hane**_
+_**hanen**_
+_**hanar**_
+_**hanane**_
+
+Eigeform (samansetning)
+hane
+(hane)
+
+Bolle, granne, hage, kjole, sele, time, og alle andre fleirstavingsord som endar med vokal (e), vert bøygde soleis, so nær som _bonde, bonden;_ _bønder_  _bøndene_.
+
+### HOKYNSORDI
+
+25. _Den sterke bøygjemåten._
+
+Eintal
+Fleirtal
+
+Ub. form
+B. form
+Ub.form
+B. form
+
+Nemneform
+_**skål**_
+_**skåli**_
+_**skåler**_
+_**skålene**_
+
+Eigeform (samansetning)
+skåle(ar)
+skåle
+
+Soleis vert dei aller fleste einstavingsord bøygde, t. d. bru, bøn, dygd, ferd, grein, høgd, klauv, lei, lyst, nål, rid, røyr, segn, ski, sokn, stund, tid, tuft, urt, ætt.
+
+26. Nokre fær _ar_ i fleirtal:
+
+**_elv elvi elvar elvane**_
+
+Soleis: _år_ (til båt), _ådr_ (blod-), _erm, flis, geil_ (veg med gjerde på sidone), _grind, gimber, gyger, hei, helg, herd, hind, hit, kleiv, kvern, mjødm, myr, møy, reim, rip_ (båt-), _røyr_ („lyske‟), _røys, sen, sild, spik, svill, sæter, vik, øks, øyr_. Like eins alle som endar på _ing:_ ending, føring, kjerring, rekning, sending.
+
+Nokre ord skil seg endå meir ut med det, at dei fær _j_ fyre endingane i flt.: _hes, hesjar_  _hesjane_. Soleis: _egg, eng, fit_ (eng), _klỳv, skjel_ (sand-).
+
+27. Nokre ord med hard rotvokal fær lint ljodbrigde:
+
+**_gås gåsi gjæser gjæsene**_
+
+> I samansetn. _gåse_, t. d. gåsefeitt.
+
+Soleis: _and_  _ender;_ _bok_  _bøker;_ _bot_  _bøter;_ _brok_  _brøker;_ _hand_  _hender;_ _lus_  _lyser;_ _mus_  _myser;_ _natt_  _netter_ (ell. næter); _not_  _nøter_ (fiske-); _rand_  _render;_ _rot_  _røter;_ _skåk_  _skjæker;_ _strand_  _strender;_ _tåg_  _tæger_.
+
+Endar ordet med rotvokalen, er fleirtals-tillegget berre _r_, og denne _r_'en står fast i bundi form og:
+
+**_klo kloi klør klørne**_
+
+Soleis: _flå_  _flær;_ _glo_  _glor;_ _krå_  _krær,_ ell. _kro_  _krør;_ _ku_  _kyr;_ _rå_  _rær;_ _slå_  _slær;_ _tå_  _tær;_ _tro_  _trør_.
+
+Like eins står _r_'en fast i alle former, dersom han fyrst er med i eintalet: _dotter_, fl. _døtter_  _døtterne;_ _mor, mørne_ (ell. _møder_  _møderne_. Skrivemåten _mødrar_  _mødrane_ er og brukt); _syster_  _systerne_ (ell. _systrar_  _systrane_).
+
+28. Eit skifte frå _o_ til _e_ (og _o_ til _a_) i rotvokalen hev me i nokre ord: _fonn_, fl. _fenner_  _fennene;_ _nòs_ (= nase), _naser_  _nasene;_ _not_ (frukt), _neter_  _netene_ (samansetn. _nate_-hams, -kjerne); _stong, stenger_  _stengene;_ _tong, tenger_  _tengene;_ _tonn, tenner_  _tennene_ (samansetn. _tann_-gard, -verk).
+
+29. _Den linne bøygjemåten._
+
+Eintal
+Fleirtal
+
+Ub. form
+B. form
+Ub.form
+B. form
+
+Nemneform
+_**visa** (vise)_
+_**visa**_
+_**visor**_
+_**visone**_
+
+Eigeform (samansetning)
+vise
+
+> Godkjend sideform fl.: _viser, visene_.
+
+Gata, gåva, kåpa, klokka, tavla, tunga, og alle andre fleirstavingsord som endar med sjølvljod, vert bøygde soleis.
+
+### INKJEKYNSORDI
+
+30. _Den sterke bøygjemåten._
+
+Eintal
+Fleirtal
+
+Ub. form
+B. form
+Ub.form
+B. form
+
+Nemneform
+_**år**_
+_**året**_
+_**år**_
+_**åri**_
+
+Eigeform (samansetning)
+års
+åre
+
+Bein, brev, hus, hår, mål, tun, og alle ord med berre ei staving eller med medljod-ending, vert bøygde soleis. Dei fleirstavingsord som endar med _e_ går og etter denne bøygjemåten. Eks.: _**eple, eplet; eple, epli.**_
+
+> Inkjekynsordi fær soleis ingi ending i fleirtal, anna dei 7-8 som vert bøygde liksom auga ([st. 32][49]). Ein må soleis ikkje skriva mange epler, stykker, liksom på dansk, men: mange _eple, stykke_.
+> 
+> Ende-t'en (åre_t_) er daud, og må soleis ikkje lyda med i lesingi.
+
+31. Det harde ljodbrigde ([sjå st. 6][50]) er det no lite att av i bøygjingi: _barn, born_. Elles vert sjølvljoden eins i eint. og fl.: land. fl. land ; vatn  vatn; fat  fat (fyrr fl.: lond, votn, fòt) o. s. fr.
+
+32. _Den linne bøygjemåten._
+
+Eintal
+Fleirtal
+
+Ub. form
+B. form
+Ub.form
+B. form
+
+Nemneform
+**_auga**_
+**_auga**_
+**_augo**_
+**_augo**_
+
+Eigeform (samansetning)
+auge
+augne
+
+Soleis går: _hjarta, nyra, øyra, okla, nysta, noda_ (= nysta), _hyrna_.
+
+## KJENNEORDI (_ARTIKLANE_)
+
+33. I _ubundi form_ heiter kjenneordet _ein_, og bøygjer seg etter kynet av namnordet det står til:
+
+> hank. **_ein,_** hok. **_ei,_** inkjek. **_eit._**  
+Det finst ogso ei fleirtaisform, _eine:_ Dei fer som eine gapar. Fyre talord kann det tyda „på lag‟, og heiter då _ei_: ei ti tolv, ei tjuge tretti stykke.
+
+34. I _bundi form_ hev me to slag kjenneord:
+
+a) **ei** ending til namnordet: dag-_en_, skål-_i_, hus-_et_ ([sjå namnords-bøygjingi][37]);
+
+b) eit serskilt ord som vert brukt fyre tilleggsord: _den_ rike mannen, _det_ nye huset.
+
+Det bøygjer seg i kyn og tal etter namnordet det står til: hank. og hok. _den,_ inkjek. _det,_ fl. alle kyn _dei_.
+
+Ende-kjenneordet er oftaste med då og: _den_ rike mann_en_.
+
+## TILLEGGSORDI (_ADJEKTIVI_)
+
+35. Tilleggsordi hev ei ubundi og ei bundi form. I _ubundi form_ rettar dei seg etter namnordi dei høyrer til, og vert bøygde i kyn og tal, for det meste soleis:
+
+Eintal
+Fleirtal
+
+hankyn
+hokyn
+inkjekyn
+alle kyn
+
+**_stor**_
+**_stor**_
+**_stort**_
+**_store**_
+
+> Eks.: ein stor mann, ei stor kona, eit stort barn; store menner, konor, born.
+
+36. Endar ordet med rotvokalen, fær det _tt_ i inkjekyn: _ny_  _nytt;_ _blå_  _blått;_ _tru_  _trutt_.
+
+37. Ein _t_-ljod etter vokal vert lang (tt) i inkjekyn, og sjølvljoden vert stutt: _flat_  _flatt;_ _kvit_  _kvitt_. Men er det ein medljod fyre _t_'en, fær ordet ingi ending i inkjek.: _svart_  _svart;_ _fast_  _fast_.
+
+Merk: _jamn_  _jamt,_ samansetn. _jam_-stor, -god.
+
+38. Når ordet endar med dubbel medljod, fell den eine burt fyre inkjekynsendingi, utan han kann skilja frå eit anna ord: _sann_  _sant;_ _trygg_  _trygt;_ men _visst_ av viss, til å skilja det frå _vist_ av vis; _fullt_ av full, men _fult_ av ful.
+
+39. Nokre ord vert samandregne i fleirtal: _diger_  _digre;_ _gamal_  _gamle;_ _mager_  _magre;_ _ymis_  _ymse_.
+
+40. Tilleggsformi (partisippet) av dei linne gjerningsordi vert bøygd soleis:
+
+_dømd, dømd, dømt; dømde_
+
+_kasta, kasta, kasta; kasta_
+
+41. Dei ordi som endar på _en_ vert bøygde soleis:
+
+**_open, opi, ope; opne_**
+
+Tilleggsformi av dei sterke gjerningsordi vert bøygd soleis.
+
+42. _Den bundne form_ liknar fleirtalet, og er alltid eins: den _store_ mannen; det _opne_ gapet; dei _store,_ dei _opne_.
+
+> _Liten_ heiter i bundi form _litle:_ den litle guten.
+
+43. Sume tilleggsord vert ikkje bøygde: _truande_ (og andre på _ande_), _einstaka, jamstroka, manglida_ (mangment); _fagna, grepa_ (gild), _gasta, måta_ o. fl.
+
+44. _Samanlikningsformene._
+
+Til grunnformi (positiv) fær tilleggsordi _are_ i høgregrad (komparativ) og _aste_ (ast) i høgstegrad (superlativ):
+
+rik
+rikare
+rikaste
+
+tru
+truare
+truaste
+
+mager
+magrare
+magraste
+
+open
+opnare
+opnaste
+
+45. Nokre ord fær _re_ i høgregrad og _st_ i høgstegrad, og lint ljodbrigde:
+
+ung
+yngre
+yngst
+
+tung
+tyngre
+tyngst
+
+stor
+større
+størst
+
+lang
+lengre
+lengst
+
+Og like eins: få (færre, _færraste_), høg (høgre, høgst), låg (lægre, lægst), trong (trengre, trengst), små (smærre, smæst). Desse ordi kann elles få _are_ og _aste_ og: høgare, høgaste; lågare, lågaste o. s. fr.
+
+46. Uregelrette er:
+
+god, betre, best
+gamal, eldre, eldst
+mykjen, meire, mest
+
+vond, verre, verst
+liten, mindre, minst
+mange, fleire, flest.
+
+> Nokre ord finst berre i høgre- og høgstegrad: _indre_  _inst;_ _ytre_  _ytst;_ _øvre_  _øvst;_ _nedre_  _nedst;_ _fyrre_  _fyrst;_ _fremre_  _fremst;_ _nørdre_  _nørdst;_ _søre (syndre)_  _synst_. _Øystre,_ _vestre;_ _høgre,_ _vinstre_. _Einaste_.
+
+47. Høgre- og høgstegradformene vert ikkje bøygde, utan høgstegradformene på _st_ (og på _ast_).
+
+48. Ord som endar på _ut_ hev ikkje samanlikningsformer. Me må då bruka _meir_ og _mest:_ _meir flekkut, mest flekkut._
+
+## TALORD
+
+49. _Mengdetali_ er: ein, to (tvo), tri (tre), fire, fem, seks, sju, åtte, ni, ti, elleve, tolv, trettan, fjortan, femtan, sekstan, syttan, attan, nittan, tjuge, ein og tjuge o. s. fr., tretti, fyrti, femti, seksti, sytti, åtti (åtteti), nitti, hundrad, tusen.
+
+50. _Rekkjetali_ er: fyrste, andre, tridje (tredje), fjerde (fjorde), femte, sette (sekste), sjuande, åttande, niande, tiande, ellevte, tolvte, trettande, fjortande, femtande, sekstande, syttande, attande, nittande, tjugande, ein og tjugande o. s. fr., trettiande, fyrtiande, femtiande, sekstiande, syttiande, åttiande, nittiande, (hundrade), tusende.
+
+51. Talordi vert ikkje bøygde so nær som _ein:_  
+hnk. _ein,_ hok. _ei,_ inkjek. _**eitt.**_ Me såg berre eitt hus. 
+
+## VARA-ORDI (_PRONOMENI_)
+
+52. _Dei personlege:_
+
+Eintal
+
+1ste pers.
+2dre pers.
+3dje pers.
+
+Nemnef.
+eg
+du
+han ho det
+
+Motfallsf.  
+og sidefallsf.
+}
+meg
+deg
+han(honom) henne(ho) det
+
+Eigef.
+
+
+hans hennar 
+
+Flerital
+
+1ste pers.
+2dre pers.
+3dje pers.
+
+Nemnef.
+me (ell. vi)
+de
+dei
+
+Motfallsf.  
+og sidefallsf.
+}
+oss
+dykk(er)
+dei(m)
+
+Eigef.
+
+dykkar
+deira
+
+> Aust og nord i landet brukar del mest _vi_, med gamal rett.  
+Det er reint gale å segja: det er _meg;_ me må segja: det er eg, det er du, det er han ell. ho, det er de, det er dei.
+
+53. _Det attervisande_ vara-ord _**seg**_ vert ikkje bøygt. Like eins dei motsvarande (resiproke) _einannan_ og _kvarandre_.
+
+54. _Eigedoms-vara-ordi_ vert bøygde i kyn og tal:
+
+Eintal
+Fleirtal
+
+hnk.
+hok.
+inkjek.
+alle kyn
+
+_min_
+_mi_
+_mitt_
+_mine_
+
+_din_
+_di_
+_ditt_
+_dine_
+
+_sin_
+_si**_
+_sitt**_
+_sine**_
+
+_vår_
+_vår_
+_vårt_
+_våre_
+
+55. _Dei påpeikande._
+
+Eintal
+Fleirtal
+
+hnk.
+hok.
+inkjek.
+alle kyn
+
+_den_
+_den_
+_det_
+_dei_
+
+_denne_
+_denne_
+_dette_ (detta)
+_desse_
+
+> Hit høyrer: same, slik, sovoren, sjølv.
+
+56. _Atterførande_ (relativt) vara-ord er berre _som_. Det vert ikkje bøygt.
+
+> Til ei stadnemning kann ein visa med _der:_ So kom han upp til garden der broren budde.
+
+57. _Spyrjande_ vara-ord er _kven_ og _kva_. 
+
+> Dei vert ikkje bøygde. _Kva_ kann då få ei sidefallsf. _kvi_ = kvifor. I staden for eigef. til _kven_ må ein bruka _kven sin_.
+
+58. _Ubundne._
+
+Eintal
+Fleirtal
+
+hnk.
+hok.
+inkjek.
+alle kyn
+
+_all_
+_all_
+_alt_
+_alle_
+
+_annan_
+_onnor_
+_anna_
+_andre_
+
+_annankvar_
+_onnorkvar_
+_annakvart_
+
+
+_einkvar_[[1]][51] (ell. _einkvan_)
+_eikor_
+_eitkvart_
+
+
+_hin_
+_hi_
+_hitt_
+_hine_
+
+_ingen_
+_ingi_
+_inkje_
+_ingi_
+
+_korgje_[[2]][52]
+_korgje_
+_korkje_
+
+
+_kvar_
+_kvar_
+_kvart_
+
+
+_mang ein_
+_mang ei_
+_mangt eit_
+_mange_
+
+_nokon_
+_nokor_
+_noko_
+_nokre_
+
+_sum_
+_sum_
+_sumt_
+_sume_
+
+59. Mykje brukt er _**ein**_ (svarar til det tyske „man‟), og det upersonlege _**det.**_ Eks.: Ein kann vel vera hag, um ein ikkje er heppen.  Um det regner og snjo'r, um det stormar frå nord . Dei fær ingi onnor form.
+
+> [1] Tyder nokon, og er soleis _ikkje_ det same som d. „enhver‟: Det lyt vel einkvar gjera det. Der hadde vore einkvar, såg eg. Ein kann godt skriva _einkvan;_ då vil ordet verta tydelegare for dei fleste.
+
+> [2] Del var her båe; men dei gjorde ingen ting korgje.
+
+## GJERNINGSORDI
+
+60. Gjerningsordi vert bøygde i tider og måtar.
+
+I fleire bygdemål vert dei ogso bøygde i _tal,_ serleg i notid. Fl. not. er då likt med grunnformi. Aasen og andre hev skrive soleis; men det er mykje avlagt no.
+
+61. Serskilde former for passiv er lite brukte: det høyrest, det spørst. Det gode gjerest medan det vonde gjeng.  Dei vert mest umskrivne med vera og verta: Det er mangt gjort, og mangt vert gløymt.  Ei _refleksivform,_ som endar på _**st,**_ er att i sume ord: finnast, ottast o. fl.
+
+62. Formene åt gjerningsordi er anten _einskilde_ (dei som vert til utan hjelpegjerningsord) eller _samansette_ (dei som vert til ved hjelpegjerningsord). Hjelpegjerningsordi er: hava (ha), skula _(skal, skulde),_ vera, verta, vilja.
+
+63. Etter tidformene skil gjerningsordi seg i to bøygjemåtar, den _sterke_ og den _linne_.
+
+64. Skal ein kunna bruka eit gjerningsord i alle høve, må ein vita kjenneformene: _grunnformi, notid, fyrtid_ og _fyrrtidstilleggsform_.
+
+65. _Roti_ finn ein når ein tek endevokalen (a) burt i grunnformi: _far_-a, _døm_-a.
+
+### STERKE GJERNINGSORD
+
+66. Eins for dei sterke gjerningsord er: notid og fyrrtid i forteljemåten er utan ending. I notid fær sjølvljoden lint ljodbrigde, er det råd, og i fyrrtid kjem det jamnaste ein annan sjølvljod (ljodsprang). Fyrrtidstilleggsf. endar på _en_ i hank., og vert bøygd som eit anna tilleggsord med same endingi. Notidstilleggsf. hev endingi _ande_. I bjodemåten er det snaude roti, i ynskjemåten kjem _e_ til.
+
+Forteljemåte
+Ynskjemåte
+
+Notid _**fer**_
+_**fare**_
+
+Fyrrtid _**fór**_
+_****_
+
+Tilleggsform
+
+Notid _**farande**_
+
+Fyrrtid _**faren (fari; fare; farne)**_
+
+Bjodemåte
+Grunnform
+
+_**far!**_
+_**fara**_
+
+67. **1ste rekkja** (i, e; a; u, o).
+
+Grunnform
+Notid
+Fyrrtid
+Tilleggsform
+
+a)
+finna
+finn
+fann
+funne
+
+drikka
+drikk
+drakk
+drukke
+
+klinga
+kling
+klang
+klunge
+
+spinna
+spinn
+spann
+spunne
+
+vinna
+vinn
+vann
+vunne
+
+brenna
+brenn
+brann
+brunne
+
+renna
+renn
+rann
+runne
+
+binda
+bind
+batt
+bunde
+
+stinga
+sting
+stakk
+stunge
+
+vinda
+vind
+vatt
+vunde
+
+_binda, stinga, vinda_ heiter i bjodemåten: bitt, stikk, vitt.
+
+b)
+bresta
+brest
+brast
+broste
+
+detta
+dett
+datt
+dotte
+
+falla
+fell
+fall
+falle
+
+gjelda
+gjeld
+galdt
+golde
+
+gleppa
+glepp
+glapp
+gloppe
+
+gletta
+glett
+glatt
+glotte
+
+gnella (kvina)
+gnell
+gnall
+gnolle
+
+knekka (bresta)
+knekk
+knakk
+knokke
+
+knetta (smella)
+knett
+knatt
+knotte
+
+kvekka
+kvekk
+kvakk
+kvokke
+
+kveppa (kvekka)
+kvepp
+kvapp
+kvoppe
+
+kverva
+kverv
+kvarv
+kvorve
+
+rekka
+rekk
+rakk
+rokke
+
+skjelva
+skjelv
+skalv
+skolve
+
+skrella (braka)
+skrell
+skrall
+skrolle
+
+skvetta
+skvett
+skvatt
+skvotte
+
+sleppa
+slepp
+slapp
+sloppe
+
+smella
+smell
+small
+smolle
+
+smetta
+smett
+smatt
+smotte
+
+svella
+svell
+svall
+svolle
+
+velta
+velt
+valt
+volte
+
+verpa
+verp
+varp
+vorpe
+
+verta
+vert
+vart
+vorte
+
+68. _Uregelrette_ er:
+
+hogga
+høgg
+hogg
+hogge
+
+tyggja
+tygg
+togg
+togge
+
+nyggja (hogga, skrapa)
+nygg
+nogg
+nogge
+
+syngja
+syng
+song
+sunge
+
+søkka
+søkk
+sokk
+sokke
+
+støkka (bresta)
+støkk
+stokk
+stokke
+
+trenga
+treng
+trong
+trunge
+
+slenga
+sleng
+slong
+slunge
+
+69. **2dre rekkja** (e; e; a; e, o),
+
+a)
+kveda
+kved
+kvad
+kvede
+
+lesa
+les
+las
+lese
+
+beda
+bed
+bad
+bede
+
+drepa
+drep
+drap
+drepe
+
+kreka
+krek
+krak
+kreke
+
+leka
+lek
+lak
+leke
+
+reka
+rek
+rak
+reke
+
+gjeva
+gjev
+gav
+gjeve
+
+gjeta
+gjet
+gat
+gjete
+
+sitja
+sit
+sat
+sete
+
+b)
+bera
+ber
+bar
+bore
+
+skjera
+skjer
+skar
+skore
+
+stela
+stel
+stal
+stole
+
+70. _Uregelrette_ er:
+
+koma
+kjem
+kom
+kome
+
+sova
+sev (søv)
+sov
+sove
+
+eta
+et
+åt
+ete
+
+liggja
+ligg
+låg
+lege
+
+sjå
+ser
+såg
+sét (hnk. og hok. _sédd_)
+
+vera
+er
+var
+vore
+
+71. **3dje rekkja** (i; i; ei; i).
+
+bida (vera, finnast)
+bid
+beid
+bide
+
+bita
+bit
+beit
+bite
+
+driva
+driv
+dreiv
+drive
+
+glida
+glid
+gleid
+glide
+
+glima
+glim
+gleim
+glime
+
+gnida
+gnid
+gneid
+gnide
+
+grina
+grin
+grein
+grine
+
+kika
+kik 
+keik
+kike
+
+kliva
+kliv
+kleiv
+klive
+
+knipa
+knip
+kneip
+knipe
+
+kvina
+kvin
+kvein
+kvine
+
+lida
+lid
+leid
+lide
+
+lita
+lit
+leit
+lite
+
+niga (bøygja seg)
+nig
+neig
+nige
+
+risa
+ris
+reis
+rise
+
+riva
+riv
+reiv
+rive
+
+siga
+sig
+seig
+sige
+
+skina
+skin
+skein
+skine
+
+skrida
+skrid
+skreid
+skride
+
+skrika
+skrik
+skreik
+skrike
+
+skriva
+skriv
+skreiv
+skrive
+
+slita
+slit
+sleit
+slite
+
+smita (lura burt)
+smit
+smeit
+smite
+
+stiga
+stig
+steig
+stige
+
+svida
+svid
+sveid
+svide
+
+svika
+svik
+sveik
+svike
+
+sviva
+sviv
+sveiv
+svive
+
+triva
+triv
+treiv
+trive
+
+vika
+vik
+veik
+vike
+
+72. **4de rekkja** (jo, ju; y; au; o).
+
+brjota ell. bryta
+bryt
+braut
+brote
+
+fljota „ flyta
+flyt
+flaut
+flote
+
+frjosa „ frysa
+frys
+fraus
+frose
+
+bjoda „ by
+byd
+baud
+bode
+
+ljota
+lyt
+laut
+lote
+
+njosa „ nysa
+nys
+naus
+nose
+
+njota „ nyta
+nyt
+naut
+note
+
+sjoda
+syd
+saud
+sode
+
+skjota „ skyta
+skyt
+skaut
+skote
+
+trjota „ tryta få ende
+tryt
+traut
+trote
+
+fljuga „ flyga
+flyg
+flaug
+floge
+
+krjupa „ krypa
+kryp
+kraup
+krope
+
+ljuga „ lyga
+lyg
+laug
+loge
+
+rjuka „ ryka
+ryk
+rauk
+roke
+
+smjuga „ smyga
+smyg
+smaug
+smoge
+
+strjuka „ stryka
+stryk
+strauk
+stroke
+
+skuva (skyva)
+skyv
+skauv
+skove
+
+stupa
+styp
+staup
+stope
+
+gyva
+gyv
+gauv
+gove
+
+73. **5te rekkja** (a; e; o; a, e).
+
+a)
+fara
+fer
+fór
+fare
+
+ala
+èl
+ol
+ale
+
+gala
+gjel
+gol
+gale
+
+grava
+grev
+grov
+grave
+
+mala
+mel
+mol
+male
+
+skava
+skjev
+skov
+skave
+
+vada
+vèd
+vod
+vade
+
+b)
+aka
+èk
+ok
+eke
+
+skaka
+skjek
+skok
+skjeke
+
+taka
+tek
+tok
+teke
+
+draga
+dreg
+drog
+drege
+
+gnaga
+gneg
+gnog
+gnege
+
+flå (ogso lint)
+flær
+flo
+flege
+
+klå (ogso lint)
+klær
+klo
+klege
+
+slå
+slær
+slo
+slege
+
+två
+tvær
+tvo
+tvege
+
+74. _Uregelrette_ er:
+
+laupa
+løyp
+ljop (laupte)
+laupe (lope)
+
+læ
+lær
+lo
+lætt
+
+stå.
+stend ell. står
+stod
+stade ell. stått
+
+sverja
+sver
+svor
+svore
+
+treda
+tred
+trod
+trade
+
+vega
+veg
+vog
+vege
+
+veksa
+veks
+voks (vaks)
+vakse
+
+veva
+vev
+vov
+vove
+
+75. **6te rekkja** (å; æ; e; å, e).
+
+blåsa
+blæs
+bles
+blåse
+
+få
+fær ell. får
+fekk
+fenge ell.fått
+
+gå (ganga)
+gjeng ell. går
+gjekk
+gjenge ell. gått
+
+gråta
+græt
+gret
+gråte
+
+halda
+held
+heldt
+halde
+
+hanga
+heng
+hekk
+hange
+
+lata
+lèt
+lét
+late
+
+låta
+læt
+let
+låte
+
+### LINNE GJERNINGSORD
+
+76. Alle linne gjerningsord fær ending i fyrrtid, og dei fleste i notid med. Etter endingane i desse tidene skil ein dei i tri rekkjor. Fyrste rekkja hev ogso vokalskifte.
+
+77. **1ste rekkja** (-; de; t).
+
+Grunnform
+Notid
+Fyrrtid
+Tilleggsform
+
+_**telja**_
+_**tel**_
+_**talde**_
+_**talt**_
+
+Bjodemåte _**tel,**_ ynskjemåte _**telje,**_ notidstilleggsform _**teljande,**_ fyrrtidstilleggsform _**talt**_ (hnk. og hok. _**tald**_).
+
+a)
+krevja
+krev
+kravde
+kravt
+
+leggja
+legg
+lagde ell. la
+lagt
+
+semja
+sem
+samde
+samt
+
+temja
+tem
+tamde
+tamt
+
+velja
+vèl
+valde
+valt
+
+verja
+vèr
+varde
+vart
+
+b)
+dylja
+dỳl
+dulde
+dult
+
+dynja (dundra)
+dỳn
+dunde
+dunt
+
+flytja (flytta)
+flỳt (flytter)
+flutte (flytte)
+flutt (flytt)
+
+grysja (rysja, „gyse‟)
+grỳs
+gruste
+grust
+
+smyrja
+smỳr
+smurde
+smurt
+
+spyrja
+spør
+spurde
+spurt
+
+stydja
+stỳd
+studde
+studt
+
+symja
+sỳm
+sumde
+sumt
+
+yrja („yvrimle‟)
+ỳr
+urde
+urt
+
+c)
+setja
+set
+sette
+sett
+
+selja
+sel
+selde
+selt
+
+skilja
+skil
+skilde
+skilt
+
+skylja
+skyl
+skylde
+skylt
+
+78. Nokre ord som endar med rotvokalen høyrer og helst til denne rekkja:
+
+bu
+bur
+budde
+butt
+
+gå (verta var)
+går
+gådde
+gått
+
+tru
+trur
+trudde
+trutt
+
+Fleire: fli, fly, gro, nå, ro, sy, så, té (syna), trå.
+
+79. **2dre rekkja** (er; de, te; t).
+
+_**døma**_
+_**dømer**_
+_**dømde**_
+_**dømt**_
+
+Bjodemåte _**døm**_, ynskjemåte _**døme,**_ notidstilleggsform _**dømande,**_ fyrrtidstilleggsf. _**dømt**_ (hnk. og hok. _**dømd**_).
+
+fløyma
+fløymer
+fløymde
+fløymt
+
+drøyma
+drøymer
+drøymde
+drøymt
+
+sprengja
+sprengjer
+sprengde
+sprengt
+
+styrkja
+styrkjer
+styrkte
+styrkt
+
+lysa
+lyser
+lyste
+lyst
+
+Soleis: festa, frøsa, hysa, kvessa, missa, røma, strøyma, tøma o. fl.
+
+80. Det er ogso nokre ord av denne rekkja som skifter sjølvljod:
+
+gjera
+gjerer (gjer)
+gjorde
+gjort
+
+tykkja
+tykkjer
+totte (tykte)
+tott (tykt)
+
+rekkja
+rekkjer
+rakte
+rakt
+
+tekkja
+tekkjer
+takte
+takt
+
+vekkja
+vekkjer
+vakte (vekte)
+vakt (vekt)
+
+tegja
+tegjer
+tagde
+tagt
+
+segja
+segjer
+sagde ell. sa
+sagt
+
+81. **3dje rekkja** (ar; a; a).
+
+_**kasta**_
+_**kastar**_
+_**kasta**_
+_**kasta**_
+
+Bjodemåte _**kasta,**_ ynskjemåte _**kaste,**_ notilleggsform _**kastande,**_ fyrrtidstilleggsform _**kasta.**_
+
+rulla
+rullar
+rulla
+rulla
+
+sola
+solar
+sola
+sola
+
+takka
+takkar
+takka
+takka
+
+vitna
+vitnar
+vitna
+vitna
+
+studera
+studerar
+studera (studerte)
+studera (studert)
+
+_Soleis går dei fleste gjerningsord._
+
+Merk: bjodemåten er lik _nemnemåten_ i denne rekkja. Det _**heiter kasta steinen!**_ Elles ogso: _**kast steinen!**_
+
+82. _Uregelrette gjerningsord._
+
+ausa
+øys
+auste
+aust
+
+eiga
+eig
+åtte
+ått
+
+hava ell. ha
+hev ell. har
+hadde
+havt
+
+kunna
+kann
+kunde
+kunna
+
+skula (sku)
+skal
+skulde
+(skula)
+
+turva
+tarv
+turvte
+turvt
+
+valda
+veld
+volde
+valde (ogso lint)
+
+vilja
+vil
+vilde
+vilja
+
+vita
+veit
+visste
+visst
+
+83. _Refleksivformene_ hev _st_ til dei aktive. Eks.:
+
+a)
+finnast
+finst
+fanst
+funnest
+
+trivast
+trivst
+treivst
+trivest
+
+dragast
+dregst
+drogst
+dregest
+
+b)
+spyrjast
+spørst
+spurdest
+spurst
+
+venjast
+venst
+vandest
+vanst
+
+c)
+blygjast
+blygjest
+blygdest
+blygst
+
+synast
+synest
+syntest
+synst
+
+d)
+dagast
+dagast
+dagast
+dagast
+
+ottast
+ottast
+ottast
+ottast
+
+84. **Heil bøygjemynster.**
+
+Aktiv (gjereform).
+
+Notid (ind. præs.)
+skyt, dømer.
+
+Fyrrtid (imperf.)
+skaut, dømde.
+
+Ferdig notid (perf.)
+hev skote, dømt.
+
+Ferdig fyrrtid (pluskvamperf..)
+hadde skote, dømt.
+
+Framtid (fut. simpl.)
+vil (skal) skjota, døma.
+
+Ferdig framtid (fut. eksakt.)
+vil (skal) ha skote, dømt.
+
+Ynskjem. (konj. præs.)
+skjote, døme[[1]][53].
+
+Bjodem. (imperativ)
+skjot, døm.
+
+Grunnform notid (inf. præs.)
+skjota, døma.
+
+ ferdig notid (inf. perf.)
+ha skote, dømt.
+
+ framtid (inf. fut.)
+vilja (sku) skjota, døma.
+
+Notidstilleggsf. (præs. part.)
+skjotande, dømande.
+
+Passiv (lideform).
+
+Notid
+vert skoten
+(i, e; ne), dømd (t; e).
+
+Fyrrtid
+vart skoten
+ dømd 
+
+Ferdig notid
+er skoten
+ dømd 
+
+Ferdig fyrrtid
+var skoten
+ dømd 
+
+Framtid
+vil (skal) verta skoten
+ dømd 
+
+Ferdig framtid
+vil (skal) vera skoten
+ dømd 
+
+Ynskjem.
+verte skoten
+ dømd 
+
+Grunnform notid
+verta skoten
+ dømd 
+
+ ferdig notid
+vera skoten
+ dømd 
+
+ framtid
+vilja (sku)
+
+verta skoten
+ dømd 
+
+Fyrrtidstilleggsf.
+skoten
+
+> [1] Ynskjemåten er lite brukt.
+
+## ADVERBI
+
+85. Mange av adverbi hev samanlikningsformer. Sjå um tilleggsordi [st. 44, 45.][54]
+
+Elles vert dei ikkje bøygde.
+
+Dei fleste fær _are_ og _aste_ til ending i høgre- og høgstegrad:
+
+vida
+vidare
+vidaste
+
+seint
+seinare
+seinaste
+
+makleg
+maklegare
+maklegaste
+
+Nokre endar med _r_ (ell. er, ar, re) i høgregrad og _st_ i høgstegrad. Eks.:
+
+lenge  
+langt
+}
+lenger
+}
+lengst
+
+tungt
+tyngre
+tyngst
+
+(inn, inne)
+innar
+inst (innarst)
+
+(ut, ute)
+utar
+ytst
+
+_Betre, best;_ _verre, verst;_ _minder, minst;_ _heller, helst;_ _meir, mest;_ _(nørdre), nørdst;_ (_syndre_ ell. _søre_), _synst;_ _nedre, nedst_. _Fyrst;_ _fremst;_ _øvst;_ _sist_.
+
+![.][55]
+
+   [34]: #1
+   [35]: #8
+   [36]: #15
+   [37]: #16
+   [38]: #21
+   [39]: #25
+   [40]: #30
+   [41]: #33
+   [42]: #35
+   [43]: #49
+   [44]: #52
+   [45]: #60
+   [46]: #66
+   [47]: #76
+   [48]: #85
+   [49]: #32
+   [50]: #6
+   [51]: #fn1
+   [52]: #fn2
+   [53]: #fn2-1
+   [54]: #44
+   [55]: Sida.gif
+
