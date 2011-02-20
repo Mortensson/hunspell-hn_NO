@@ -49,12 +49,23 @@ SOURCES
  * SAM_wordlist.csv - Wordlist sent by personal communique (ask to be named in more than initials, and you shall!)
 
 
-
 ---------
 Hunspell?
 ---------
 
 Hunspell works by suggesting words which differ by a certain set amount (Levenshtein distance). It may include an affix file, which allows for making the source wordlist shorter, and handles additional options for suggesting word replacements despite common typoes: in English, people may misspell 'ph' as 'f' often, and this could disrupt Hunspell's ability to find possible spelling suggestions for the word *orthagrafic, thus a rule may be added to the affix file to alert Hunspell of f/ph, so proper suggestions to can be made to suggest 'orthographic'.
+
+Hunspell is supposedly already installed on OS X Snow Leopard (10.6), or OS X Snow Leopard can read Hunspell-format spelling dictionaries. However, this does not mean it is easy to find Hunspell, if you want to use the commandline tools. Thus, it must be installed by hand. When I did this, the only problem I found was that libintl.h was missing, so I installed gettext as well.
+
+ * Gettext: ftp://ftp.gnu.org/gnu/gettext/ (Used v. 0.18)
+ * Hunspell: http://hunspell.sourceforge.net/ (Used v. 1.3.2)
+
+For working on dictionaries, it is nice to have Hunspell available by command line, otherwise one needs to copy the dictionaries to the location in Library, and log in and out, quite a lengthy process.
+
+--------------
+Hunspell notes
+--------------
+
 
 -----------------
 Development notes
@@ -74,4 +85,4 @@ replacements.txt is for words which hunspell (or similar software) will likely n
 		 angrep -> åtak
 		 erfaring -> røynsla
 
-This is for the more normative part of the wordlist. ;) 
+This is for the more normative part of the wordlist. ;)
