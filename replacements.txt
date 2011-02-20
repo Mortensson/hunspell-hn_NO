@@ -1,8 +1,5 @@
-# Replacements
-
 være -> vera
 følelse -> kjensla
 friheit -> fridom
 angrep -> åtak
 erfaring -> røynsla 
-
