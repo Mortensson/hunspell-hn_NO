@@ -3,3 +3,1310 @@ følelse -> kjensla
 friheit -> fridom
 angrep -> åtak
 erfaring -> røynsla 
+# Norskdansk-høgnorsk ordlista
+adferd -> framferd
+adferd -> åtferd
+adgang -> tilgjenge
+adgang -> høve
+adlyde -> lyda
+adskillelse -> skilnad
+adspredelse -> trøysemd
+adspredelse -> trøytskap
+adkomst -> åtkjøme
+adkomst -> åtkoma
+adskillelse -> åtskilnad
+adspredelse -> tidtrøyte
+adspredelse -> trøyte
+advare -> åtvara
+advarsel -> åtvaring
+aftenbønn -> kveldsbøn
+aksel -> aksling
+aksel -> herd
+aksel -> oksl
+aktelse -> vyrdnad
+aktpågiven -> aktsam
+aktpågiven -> aktsamhet
+aktpågiven -> varsa
+aktpågivende -> aktsam
+aktpågivende -> aktsamhet
+aktpågivende -> varsa
+aktsom -> atksam
+aktsom -> varsam
+aktsomhet -> aktsemd
+aktsomhet -> varsemd
+albue -> olboge
+aldrende -> aldrug
+aldrende -> tilkomen
+alen -> aln
+alene -> einsaman
+alene -> åleine
+alkoholholdig -> alkoholkjend
+allerede  ->   alt
+allfarvei  ->   ålmannveg
+allmenn  ->   ålmenn
+allmennhet  ->   ålmenta
+allmue  ->   almuge
+alltid -> jamt
+alltid -> stødt
+alvor -> ålvor
+alvorlig -> ålvorleg
+anbefale  ->   råda til
+anbefalelsesverdig  ->   tilrådeleg
+andaktsbok  ->   bønebok
+andektig -> gaumsam
+andektig -> høgtidsam
+andel -> del
+andel -> lùt
+andel -> part
+andra  ->   søkja
+andragende  ->   søknad
+ane -> anelse
+anerkjenne -> godkjenna
+anerkjenne -> godtaka
+anfall -> rid
+anfall -> åtak
+anfalle -> taka på
+angbrystig  ->   tungbrjosta
+angrep  ->   åtak
+ankomme -> koma fram
+ankomme -> koma til
+anledning -> grunn
+anledning -> høve
+anledning -> tilføre
+anmode -> beda
+anmode -> spyrja
+anstregende -> mødesam
+anstregende -> slitsam
+anstrengelse -> krafttak
+anstrengelse -> slit
+anstrengelse -> strev
+anstrøk -> dåm
+anstrøk -> svip
+antenne -> kveikja
+antenne -> tenda
+avleggs -> avaldra
+avleggs -> gamaldags
+avsindig -> galen
+avsindig -> rasande
+avskjedige -> gjeva avskil
+avskjedige -> segja upp
+avveie -> måta til
+avveie -> vega mot
+bakhånd -> til vara
+bearbeide -> emna til
+bearbeide -> laga til
+bebodd -> busett
+bebodd -> folkesett
+beboelig -> ibuande
+beboelig -> påbuande
+beboer -> hybelbuar
+beboer -> ibuar
+bebreide -> klandra
+bebreide -> lasta
+bebreidelse -> klander
+bebreidelse -> lastord
+bebyrde -> leggja byrd på
+bebyrde -> tyngja
+bedageleg -> makeleg
+bedageleg -> roleg
+bedageleg -> treg
+bedaget -> gamal
+bedaget -> til års
+bedd -> bed
+bedd -> seng
+bedra -> dåra
+bedra -> lura
+bedra -> svika
+bedrager -> skalk
+bedrager -> snytar
+bedrageri -> fals
+bedrageri -> skalkeferd
+bedrageri -> snyting
+bedre -> betra
+bedre -> bøta
+bedrive -> gjera
+bedrive -> halda på med
+bedrøvelig -> sorgal
+bedrøvelig -> sorgsam
+bedrøvelse -> sorg
+bedrøvelse -> sut
+bedømmelse -> dom
+bedømmelse -> domdage
+bedøvelse -> døyveråd
+bedøvelse -> døyving
+befri -> frelsa
+befri -> fria
+befri -> frigjera
+befri -> løysa
+befruktning -> fræving
+befruktning -> frøing
+beger -> bìkar
+beger -> staup
+begunstigelse -> fyremun
+begunstigelse -> serrett
+begynne -> byrja
+begynne -> gjera fyrst
+begynne -> opna
+begynne -> taka til
+beherskelse -> ro
+beherskelse -> sjølvstyr
+behjelpelig -> tilhjelpande
+behjelpelig -> vera til hjelp
+beholde -> få
+beholde -> halda på
+beholde -> taka vara på
+behøve -> trenga
+behøve -> turva
+bekjempe -> halda nede
+bekjempe -> strida mot
+bekjempe -> verka mot
+beleilig -> høveleg
+beleilig -> lagleg
+benevne -> kalla
+benevne -> nemna
+benhinnebetennelse -> beinhinnebrùne
+benytte -> bruka
+benytte -> nytta
+benytte -> nøyta
+beredt -> reidug
+beredt -> tilreidd
+beredvillig -> buen
+beredvillig -> reidug
+beruselse -> drukkenskap
+beruselse -> rus
+beruset -> drukken
+beruset -> rusa
+beskjed -> bod
+beskjed -> melding
+beskjære -> ganda
+beskjære -> kvista
+beslutte -> gjera av
+beslutte -> taka ved
+bestøve -> fræva
+bestøve -> mjøla
+besynderlig -> sermerkt
+besynderlig -> underleg
+besørge -> sjå til
+besørge -> syta for
+beta -> av
+beta -> taka åt
+betale -> leggja
+betale -> svara
+betimelig -> i rett tid
+betimelig -> tidhøv
+betinging -> fyresetjing
+betinging -> vilkòrssetjing
+betryggende -> godt å vita
+betryggende -> trygg
+bety -> innebera
+bety -> tyda
+bevare -> ardveitsla
+bevare -> berga
+bevare -> vara
+bevare -> vardveita
+bevare -> verna
+bevare -> vgøyma
+bevaring -> vardveitsla
+bevaring -> vare
+bevaring -> vern
+bevinget -> fløygd
+bevinget -> vengd
+bevinget -> vengja
+bibeholde -> fasthalda
+bibeholde -> halda på
+biinntekt -> attåtinnkoma
+biinntekt -> attåtinntekt
+bilag -> fylgjeskrift
+bilag -> medskrift
+bilag -> vedlegg
+bismak -> drag
+bismak -> keim
+bismak -> snev
+bismak -> svìp
+bistå -> gå til handa
+bistå -> hjelpa
+blindhet -> blinda
+blindhet -> blindskap
+blomst -> blom
+blomst -> blome
+blomst -> blomster
+blomstre -> blomstra
+blomstre -> bløma
+blond -> ljoshærd
+blott -> berre
+blott -> einast
+blotte -> flekkja
+blotte -> snøyda
+blotte -> visa
+blottet -> vanta
+blottet -> vera utan
+bluferdig -> bljugsam
+bluferdig -> sømeleg
+bluferdighet -> blygd
+bluferdighet -> sømd
+blålig -> blåvoren
+blålig -> iblå
+blæst -> blåster
+blæst -> vind
+bredde -> bard
+bredde -> breidd
+brett -> bræde
+brett -> fjøl
+brett -> skiva
+briste -> bresta
+briste -> slitna
+bruke -> bruka
+bruke -> nøyta
+bryderi -> bry
+bryderi -> møda
+bryllup -> brudlaup
+bryllup -> bryllaup
+brødmangel -> braudløysa
+bugne -> bogna
+bugne -> bøygja seg
+børste -> kost
+børste -> kvost tannbørste
+bøye -> benda
+bøye -> bøygja
+daggry -> dagrenning
+daggry -> grålysing
+deilig -> ljuv,framifrå
+dekke -> femna
+dekke -> tekkja
+del -> deild
+del -> lùt
+delaktig -> medskuldig
+delaktig -> medverkande
+delaktig -> vera med på
+dels -> stundom
+dels -> stykkjomtil
+delvis -> i nokon mun
+delvis -> i sumt
+delvis -> stykkjomtil
+dempe -> døyva
+dempe -> minska
+dempe -> roa
+dempe -> stilla
+dempe -> veikja
+desto -> di
+desto -> di meir
+die -> få brjost
+die -> suga
+die -> søygja
+disig -> dim
+disig -> døkk
+disig -> skoddut
+dunkel -> dim
+dunkel -> døkk
+dunkel -> skum
+dvele -> drygja
+dvele -> tvøra
+dybde -> djupn
+dybde -> dypt
+dyktighet -> dugleik
+dyktighet -> tame
+dølge -> dylja
+dølge -> løyna
+dølgsmål -> dulsmål
+dølgsmål -> løynd
+edderkopp -> kingel
+edderkopp -> kongro
+edderkopp -> vevkjerring
+egnet -> dugleg
+egnet -> høveleg
+egnet -> lagleg
+egnet -> tenleg
+eiendom -> eiga
+eiendom -> eigedom
+ekkel -> fæl
+ekkel -> ufjelg
+ekkel -> vemleg
+ekteskap -> giftarmål
+ekteskap -> giftemål
+endog -> diheller
+endog -> endå
+enhetlig -> einskapleg
+enhetlig -> usamansett
+enhver -> ein og kvar
+enhver -> kvar
+enke -> ekkja
+enke -> enkja
+enkel -> einfeld
+enkel -> einka
+enkel -> einskild
+enkel -> endefram
+ensom -> einsam
+ensom -> eismal
+enøyd -> einsynt
+enøyd -> einøygd
+erfare -> merka
+erfare -> røyna
+erhverve -> råda seg til
+erhverve -> vinna
+erindre -> hugsa
+erindre -> minnast
+erindring -> minne
+erobring -> hertaking
+erobring -> landvinning
+etterkomme -> fylgja
+etterkomme -> retta seg etter
+etterlate -> lata etter
+etterlate -> leiva
+etterligning -> herming
+etterligning -> likning
+etterstrebe -> leggja seg etter
+etterstrebe -> sitja etter
+evig -> æveleg
+evig -> ævug
+evighet -> æva
+evighet -> ævord
+evne -> dug
+evne -> gåva
+falme -> blakna
+falme -> missa liten
+fartøy -> farkost
+fartøy -> farty
+farvann -> farvatn
+farvann -> leid
+fatte -> fata
+fatte -> skyna
+favne -> famna
+favne -> femna
+fedme -> feita
+fedme -> feitleik
+fedme -> feitt
+fedme -> fìte
+feide -> ota
+feide -> strid
+feide -> ufred
+feiekost -> lime
+feiekost -> sopling
+feig -> modlaus
+feig -> rædd
+feire -> halda heilag
+feire -> høgtida
+ferdig -> ferdug
+ferdig -> reidug
+ferdighet -> dug
+ferdighet -> dugleik
+ferdighet -> tame
+filt -> felt
+filt -> tov
+fin -> fin
+fin -> grann
+fjed -> fet
+fjed -> stig
+fjern -> avliggjande
+fjern -> fjerr
+fjerne -> hava burt
+fjerne -> taka burt
+flekke -> flekkja
+flekke -> flå av
+flykte -> fly
+flykte -> hava seg undan
+flykte -> røma
+fløyten -> burte
+fløyten -> mist
+fogd -> faut
+fogd -> fut
+forakt -> vanvyrdnad
+forakt -> vanvyrdsla
+forakte -> mismeta
+forakte -> mismæta
+forakte -> vanvyrda
+foran -> framman
+foran -> fyre
+forandre -> brigda
+forandre -> brøyta
+forandre -> venda
+forandring -> brigde
+forandring -> umbrøyte
+forandring -> umskifte
+forbanne -> banna
+forbanne -> forbanna
+forbedre -> betra
+forbedre -> bøta
+forbedre -> vøla
+forbeholde -> gjera atterhald
+forbeholde -> skilja undan,
+forberede -> bu til
+forberede -> fyrebu
+forberede -> laga
+forberede -> reida til
+forberedelse -> fyrebuing
+forberedelse -> tilbuing
+forbli -> haldast
+forbli -> standa
+forbli -> verta verande
+forbløffe -> kvekkja
+forbløffe -> støkkja
+forbruke -> bruka upp
+forbruke -> nøyta ut
+forbrytelse -> brotsverk
+forbrytelse -> lovbrot
+forbud -> bann
+forbud -> forbod
+fordoble -> tviauka – fordobling
+fordoble -> tvifalda
+fordypning -> dokk
+fordypning -> søkk
+forebringe -> bera upp
+forebringe -> føra fram
+foregå -> gå fyre seg
+foregå -> henda
+forekomme -> finnast
+forekomme -> henda
+foreligge -> finnast
+foreligge -> liggja fyre
+foreligge -> vera
+forening -> lag
+forening -> sameining
+foreslå -> gjera framlegg um
+foreslå -> kasta fram
+foreslå -> slå frampå um/med
+forevige -> gjera udøyeleg
+forevige -> gjera ugløymande
+forfølge -> elta
+forfølge -> sitja etter
+forgjengelig -> kvervande
+forgjengelig -> ryr
+forhale -> drygja
+forhale -> seinka
+forhekse -> fjetra
+forhekse -> trollbinda
+forhindre -> bægja
+forhindre -> hindra
+forhindring -> bægje
+forhindring -> hinder
+forhindring -> hindring
+forhold -> høve
+forhold -> sak
+forhold -> tilhøve
+forhold -> umstende
+forholdsmessig -> etter måten
+forholdsmessig -> tilhøveleg
+forhøye -> auka
+forhøye -> høgja
+forhøye -> høgna
+forhøyelse -> auke
+forhøyelse -> høgjing
+forkaste -> neitta
+forkaste -> vanda
+forklaring -> framsegn
+forklaring -> tyding
+forklaring -> utreiding
+forlangende -> krav
+forlangende -> ynske
+forlegen -> bljug
+forlegen -> hogvar,
+forløsning -> avløysing
+forløsning -> løysing
+formering -> auking
+formering -> øksling
+formå -> orka
+formå -> vinna
+fornøye -> gama
+fornøye -> moroa
+fornøyelig -> gaman
+fornøyelig -> hugsam
+forpleie -> røkta
+forpleie -> skøyta
+forpleie -> stella
+forpliktet -> bunden
+forpliktet -> skyldig
+forråde -> foråda
+forråde -> svika
+forsamling -> lyd
+forsamling -> samkoma
+forsikre -> tryggja
+forsikre -> vissa
+forsikringselskap -> trygdelag
+forsikringselskap -> trygdesellskap
+forsiktig -> varleg
+forsiktig -> varsam
+forsinke -> hefta
+forsinke -> seinka
+forske -> granska
+forske -> røkja
+forskjellig -> ulik
+forskjellig -> ymis
+forskåne -> liva
+forskåne -> spara
+forslag -> framkast
+forslag -> framlegg
+forspille -> skutla burt
+forspille -> spilla
+forsterke -> sterkna
+forsterke -> styrkja
+forstoppelse -> obstipasjon
+forstoppelse -> tilstopping
+forstyrre -> skjepla
+forstyrre -> uroa
+forstyrrelse -> skjepling
+forstyrrelse -> uroing
+forstørre -> auka
+forstørre -> gjera større
+forstørrelseglass -> aukeglas
+forstørrelseglass -> lupa
+forsvare -> forsvara
+forsvare -> verja
+forsvare -> verna
+forsvinne -> kverva
+forsvinne -> verta burte
+forsøke -> freista
+forsøke -> røyna
+forsømme -> gløyma
+forsømme -> lata ugjort
+forsømme -> vanskøyta
+fortape -> missa
+fortape -> tapa
+fortie -> tegja i hel
+fortie -> tegja med
+fortjene -> orka
+fortjene -> vera verd
+fortjene -> verdast
+fortjene -> vinna
+fortolke -> leggja ut
+fortolke -> tolka
+fortolke -> tyda
+fortsette -> halda fram
+fortsette -> halda på
+fortære -> eta upp
+fortære -> tæra upp
+fortære -> øyda
+fortørnet -> arg
+fortørnet -> harm
+fortøye -> festa
+fortøye -> landfesta
+forundring -> furda
+forundring -> undring
+forutinntatthet -> fastræde
+forutinntatthet -> fyrehandsdøming
+forutinntatthet -> fyreræde
+forvalte -> stjorna
+forvalte -> styra
+forvare -> gøyma
+forvare -> vardveita
+forveksle -> taka i miss
+forveksle -> taka rangt
+fotspor -> fotefar
+fotspor -> spot
+fredløs -> fredlaus
+fredløs -> utlæg
+freidig -> djerv
+freidig -> modug
+frembringe -> avla
+frembringe -> skapa
+frembringe -> verka
+fremkalle -> kalla fram
+fremkalle -> vekkja
+fremlegge -> leggja fram
+fremlegge -> syna fram
+fremme -> fremja
+fremme -> hjelpa fram
+fremragende -> framifrå
+fremragende -> utifrå
+fremsi -> bera upp
+fremsi -> lesa
+fremsi -> segja fram
+fremskritt -> framgang
+fremskritt -> framstig
+fremvise -> syna fram
+fremvise -> visa
+frigjøre -> gjera fri
+frigjøre -> løysa
+fritte -> frega
+fritte -> fretta
+frukt -> alda
+frukt -> frukt
+funkle -> glima
+funkle -> glitra
+fyrig -> fjørug
+fyrig -> kvik
+får -> fenad
+får -> saud
+føll -> fole
+føll -> fyl
+følsomhet -> varleik
+følsomhet -> varnæme
+gavmild -> gjevmild
+gavmild -> raust
+gavmildhet -> gjevmilda
+gavmildhet -> raustleik
+gavn -> bate
+gavn -> gagn
+gavn -> nytta
+geburtsdag -> fødedag
+geburtsdag -> årmålsdag
+gestalt -> ham
+gestalt -> skapnad
+gidde -> idast
+gidde -> orka
+gispe -> gapa
+gispe -> geispa
+gjemme -> gøyma
+gjemme -> løyna
+gjemme -> vardveita
+gjenkomst -> atterkoma
+gjenkomst -> heimkoma
+gjenmæle -> motmæle
+gjenmæle -> motsvar
+gjennomføre -> fullenda
+gjennomføre -> fullgjera
+gjenopplive -> få liv i att
+gjenopplive -> kveikja upp att
+gjenopplive -> liva upp att
+gjenopprette -> laga upp att
+gjenopprette -> skipa upp att
+gjensidig -> innbyrdes
+gjensidig -> ymsesidug
+gjenstand -> emne
+gjenstand -> ting
+gjenvei -> beinveg
+gjenvei -> snarveg
+gjette -> gissa
+gjette -> gjeta
+godmodig -> godlynd
+godmodig -> godsleg
+gold -> naken
+gold -> skrinn
+gold -> turr
+grisk -> grådug
+grisk -> hæken
+grotte -> berghola
+grotte -> heller
+grubla -> grunda
+grubla -> gruvla
+grundig -> grannsam
+grundig -> noggrann
+grundig -> nøgjen
+grusom -> fæl
+grusom -> hard
+grusom -> hjartelaus
+grusom -> rå
+grådighet -> grådugskap
+grådighet -> hækna
+grønnlig -> grønleg
+grønnlig -> igrøn
+gyldig -> gild
+hakkemat -> mor
+hakkemat -> pylsemat
+halvere -> falla til helfti
+halvere -> helfta
+halvere -> kløyva i tvo
+halvere -> tvikløyva
+hang -> tilhug
+hang -> vane
+hare -> hare
+hare -> here
+hare -> jase
+hareskår -> haremunn
+hareskår -> hareskard
+harnisk -> brynja
+harnisk -> herklædnad
+hastighet -> fart
+hastighet -> snøggleik
+heks -> trollkjerring
+helbred -> heilbrigd
+helbred -> helsa
+helbrede -> heilbrigda
+helbrede -> lækja
+helbredelse -> helsebot
+helbredelse -> lækjing
+heldig -> heppen heldigvis som vel er
+heldig -> til all lukka
+helgen -> heilagleik
+helgen -> heilagmenne
+hemmeligholde -> dylja
+hemmeligholde -> halda løynd
+hemmeligholde -> løyna
+hendelse -> hende
+hendelse -> hending
+hendelse -> tilburd
+hendelse -> åtburd
+henholde -> seg til  ->   halda seg til
+henholde -> stydja seg til
+henimot -> fram mot
+henimot -> nærved
+hensikt -> fyremål
+hensikt -> meining
+hensikt -> mål
+hensiktsmessig -> lagleg
+hensiktsmessig -> tenleg
+hensvinne -> kverva
+hensvinne -> siga av
+hensyn -> umsyn
+hensyn -> varsemd
+hensynsløs -> hard
+hensynsløs -> vyrdlaus
+herberge -> gjestehus
+herberge -> herbyrge
+heslig -> fæl
+heslig -> stygg
+hete -> hete
+hete -> hìte
+heve -> hevja
+heve -> lata upp
+heve -> lyfta
+heve -> setja upp
+hinder -> bægje
+hinder -> hinder
+hingst -> gradhest
+hingst -> hest
+hisse -> eggja
+hisse -> øsa
+hissig -> heit
+hissig -> uppeggja
+hissig -> uppøst
+hitte -> finna
+hitte -> hitta
+hjertelig -> hjartans
+hjertelig -> hjarteleg
+holdbar -> haldsemd
+hos -> hjå
+hos -> ihjå
+hovedbygning -> lån
+hovedbygning -> stovehus
+hukommelse -> hugs
+hukommelse -> minne
+hunnfisk -> hofisk
+hunnfisk -> rognfisk
+hunnfisk -> rygna
+huse -> hava i hus
+huse -> hysa
+huske -> hugsa
+huske -> koma i hug
+huske -> koma på
+huske -> minnast
+husly -> husrom
+husly -> husvære
+hvass -> beitt
+hvass -> kvass
+hvass -> skarp
+hverdag -> kvardag
+hverdag -> syknedag
+hvis -> dersom
+hvis -> erso
+hvis -> um
+hvorvidt -> kor mykje
+hvorvidt -> um
+hyppig -> stendig
+hyppig -> tid
+hyppig -> tidgjengd
+hyrde -> gjætar
+hyrde -> hyrding
+håndheve -> halda ved lag
+håndheve -> hævda
+ile -> hasta
+ile -> renna til
+ile -> skunda seg
+innbilling -> hildring
+innbilling -> synkverving
+innbringe -> gjeva av seg
+innbringe -> løna
+innbyrdes -> innbyrdes
+innbyrdes -> seg imillom
+innflytelse -> innverknad
+innflytelse -> påverknad
+innkalle -> halla inn
+innkalle -> stemna
+innse -> skilja
+innse -> skyna
+innsigelse -> motlegg
+innsigelse -> motmæle
+innsigelse -> motsegn
+innsikt -> kunnskap
+innsikt -> skyn
+innsjø -> tjørn
+innsjø -> vatn
+inntreffe -> bera åt
+inntreffe -> koma
+innvortes -> innvendes
+innvortes -> innvertes
+innvåner -> ibuar
+innvåner -> ibue
+innvåner -> innbyggjar
+interessant -> forvitneleg
+interessant -> merkjeleg
+jakt -> jaging
+jakt -> jakt
+jakt -> veiding
+jerntøy -> jarnfang
+jerntøy -> jarnsmide
+kalfatre -> kalfatra
+kalfatre -> tetta
+kalve -> kalva
+kalve -> kjelva
+kane -> karmslede
+kane -> skjotslede
+kantre -> kvelva
+kantre -> velta
+kar -> kjer
+kar -> kjerald
+kime -> klykkja
+kime -> tima
+kjed -> keid
+kjed -> leid
+klebe -> festa
+klebe -> klistra
+klokketårn -> stòpul
+klyver -> framsegl
+klyver -> stagsegl
+kløft -> kluft
+kløft -> klyft
+knekke -> brjota
+knekke -> knekkja
+kople -> beita
+kople -> binda i hop
+kople -> kopla
+kredittverdig -> solvent
+kredittverdig -> svaringsfør
+kun -> berre
+kun -> einast
+kvad -> kvæde
+kvad -> song
+kval -> pina
+kval -> pinsla
+kvele -> kjøva
+kvele -> kvæva
+kveste -> meida
+kveste -> såra
+kvidder -> kvitring
+kvidder -> kvitter
+kylling -> kjukling
+kylling -> kykling
+kyst -> havsida
+kyst -> strandsida
+kåre -> kòra
+kåre -> velja
+landflyktig -> fredlaus
+landflyktig -> landlyst
+landflyktig -> utlæg
+landsforvisning -> landlysing
+landsforvisning -> utlegd
+landskap -> land
+landskap -> lende
+likeledes -> like eins
+likeledes -> sameleis
+likemann -> jamning
+likemann -> like
+likeså -> like eins
+likeså -> sameleis
+lungebetennelse -> lungebrùne
+lydighet -> lyding
+lydighet -> lydnad
+låse -> læsa
+låse -> stengja
+løpsk -> laus
+løpsk -> styrlaus
+løslate -> lata laus
+løslate -> løysa
+løslate -> sleppa
+løsne -> losna
+løsne -> løysa
+mannbar -> giftande
+mannbar -> manntøk
+meddele -> melda
+meddele -> vitra
+medliden -> medynksam
+medliden -> miskunnsam
+medvirkning -> hjelp
+medvirkning -> medverknad
+megen -> mykjen
+megen -> stor
+melding -> vitring
+melkevei -> stjernebraut
+melkevei -> vetterbraut
+mesling -> krilla
+mesling -> krægda
+Middelhavet -> Midhavet
+Middelhavet -> Millomhavet
+midsommer -> høgsumar
+midsommer -> midsumar
+mildhet -> milda
+mildhet -> mildskap
+misforståelse -> mistak
+misforståelse -> mistyding
+mishandle -> fara ille med
+mishandle -> skamfara
+motløs -> hugfallen
+motløs -> modlaus
+motsigelse -> motlegg
+motsigelse -> motmæle
+motstå -> møta
+motstå -> standa imot
+mølle -> kvern
+mølle -> mylna
+møller -> malar
+møller -> mylnar
+møllestein -> kvern
+møllestein -> mylnestein
+mørkne -> myrkna
+mørkne -> skumast
+nabolag -> grannelag
+nabolag -> grend
+naturligvis -> må vita
+naturligvis -> som ventande er
+navnetrekk -> namneskrift
+navngi -> kalla
+navngi -> nemna
+nedstamme -> hava upphav
+nedstamme -> ætta på
+nedtegne -> bokføra
+nedtegne -> skriva ned
+nedverdige -> nedra
+nedverdige -> skjemma
+nordvest -> utnord
+nysgjerrig -> forviten
+nysgjerrig -> nyfiken
+nyttår -> nytt år
+nyttår -> nyår
+nøle -> drygja
+nøle -> dvelja
+nøtteskal -> nateskurn
+oldtid -> fornalder
+oldtid -> forntid
+omgi -> kringsetja
+omgi -> standa umkring
+oppdage  -> finna
+oppdage  -> koma på
+oppfordre  -> beda
+oppfordre  -> moda upp
+oppgi  -> gjera greide fo
+oppgi  -> nemna
+oppheve  -> attra
+oppheve  -> avskipa
+oppheve  -> gjera ugild
+opphør  -> ende
+opphør  -> upphald
+opprettholde  -> halda fast på
+opprettholde  -> halda uppe
+opprettholde  -> halda ved lag
+oppriktig  -> sann
+oppriktig  -> truverdug
+oppriktig  -> ærleg
+ordspråk -> ordtak
+ordspråk -> ordtøke
+overenkomst  -> avtala
+overenkomst  -> semja
+overflate  -> skorpa
+overflate  -> utsida
+overgå  -> koma yver
+overgå  -> sigra
+overgå  -> slå
+pause -> kvild
+pause -> upphald
+peile -> meda
+peile -> mæla
+pleie -> røkta
+pleie -> sjå til
+plikt -> byrd
+plikt -> skyldnad
+pliktig -> bunden
+pliktig -> skyldug
+plyndre -> herja
+plyndre -> plundra
+plyndre -> rana
+plyndre -> ræna
+prise -> lova
+prise -> prisa
+prise -> rosa
+putevar -> -vær
+putevar -> putever
+pågripe -> fakka
+pågripe -> fanga
+pågripe -> gripa
+pågripe -> setja fast
+påse -> sjå til
+påse -> syta for
+pæl -> påle
+pæl -> staur
+pølse -> korv
+pølse -> pylsa
+rask -> rad
+rask -> skjot
+rask -> snøgg
+redde -> berga
+redde -> frelsa
+rettmessig -> lovleg
+rettmessig -> rett
+rettmessig -> rettkomen
+ruge -> klekkjam varma
+ruge -> liggja yver
+ryggrad -> rygg
+ryggrad -> ryggbein
+ryste -> rista
+ryste -> skaka
+rytter -> hestkar
+rytter -> ridar
+rådvill -> rådlaus
+rådvill -> rådvill
+røve -> herja
+salig -> frelst
+salig -> sæl
+samleie -> hjåsvæve
+samleie -> samlega
+sanse -> gå
+sanse -> merka
+seilbar -> fløytt
+seilbar -> siglande
+sendebud -> sendebòd
+sengeliggende -> sengbunden
+sengeliggende -> sengfast
+senhet -> langdrag
+senhet -> seinleik
+senhet -> tøvring
+sjelefred -> hjartefred
+sjelefred -> sålefred
+sjelsstyrke -> hugstyrke
+sjelsstyrke -> tolmod
+skadesløs -> skadelaus
+skadesløs -> uskadd
+skaffe -> få tak i
+skaffe -> lata få råda
+skapelse -> skaparverk
+skapelse -> skaping
+skiftevis -> til skiftes
+skiftevis -> ymist
+skikkelse -> likneskja
+skilt -> mekre
+skilt -> skilt
+skinnbarlig -> audsynleg
+skinnbarlig -> berrsynleg
+skinnsyk -> svartsjuk
+skinnsyk -> åbryden
+skjellig -> rimeleg
+skjellig -> skilleg
+skjellig -> sterk
+skjelne -> gjera skil på
+skjelne -> skilja
+skjende -> gjera herverk
+skjende -> krenkja
+skjøge -> hora
+skjøge -> skjøkja
+skjøtte -> ansa
+skjøtte -> skøyta
+skjøtte -> vyrda
+skotte -> glytta
+skotte -> skoda
+skrumpe -> skreppa
+skrumpe -> skrøkka
+skrøpelig -> veikleg
+skrøpelig -> vesal
+skuddår -> laupår
+skuddår -> skotår
+skueplass -> leite
+skueplass -> synstad
+skyggeside -> avsøla
+skyggeside -> skuggesida
+skyldfri -> saklaus
+skyldfri -> uskuldig
+skyldighet -> byrd
+skyldighet -> skyldnad
+skylle -> skylja
+skylle -> skòla
+skytsånd -> fylgja
+skytsånd -> vord
+slakte -> slakta
+slakte -> slåtra
+slank -> grann
+slank -> sinut
+slektning -> skylding
+slektning -> ætting
+slukke -> slokna
+slukke -> sløkka
+snakke -> røda
+snakke -> tala
+snikmord -> løyndråp
+snikmord -> løynmord
+snæver -> snæv
+snæver -> trong
+soleklar -> audsynt
+soleklar -> klår som sol
+sommerfugl -> fivrelde
+sommerfugl -> marihane
+spiseskjed -> matskeid
+spiseskjed -> spon
+spiss -> agge
+spiss -> brodd
+spiss -> odd
+spiss -> tind
+språk -> mål
+språk -> språk
+stadig -> stendig
+stadig -> stendug
+stadig -> stødt
+stedfortreder -> avløysar
+stedfortreder -> varamann
+stigbøyle -> istig
+stigbøyle -> stigbygla
+stiv -> stinn
+stiv -> stiv
+stiv -> styrd
+stole -> lita
+stole -> trøysta
+stolt -> byrg
+stolt -> kry
+storme -> storma
+storme -> styrma
+straff -> refs
+straff -> straff
+straffe -> refsa
+straffe -> straffa
+straks -> med same
+straks -> radt
+straks -> samstundes
+stramme -> spenna
+stramme -> strekkja
+støtt -> snorten
+støtt -> støytt
+støtte -> studnad
+støtte -> stød
+støv -> dumba
+støv -> dust
+svekkelse -> knekk
+svekkelse -> veikjing
+sverge -> gjera sin eid
+sverge -> sverja
+svoger -> måg
+svoger -> verbror
+sykdom -> sjukdom
+sykdom -> sjuke
+sykdom -> sott
+sykdom -> sykja
+sådan -> slik
+sådan -> sovoren
+såfremt -> alt um
+såfremt -> soframt
+særdeles -> sers
+særdeles -> umfram
+særkjenne -> kjennemerke
+særkjenne -> merke
+sødme -> søta
+sødme -> søtleik
+tapper -> djerv
+tapper -> herdug
+tapperhet -> djervskap
+tapperhet -> herda
+tarv -> torv
+tarv -> turft
+tegl -> murstein
+tegl -> tigl
+terskel -> dørstokk
+terskel -> treskald
+tidsrom -> bolk
+tidsrom -> bìl
+til -> felles  ->   sams
+til -> i hop
+til -> saman
+tilbehør  -> reide
+tilberede -> laga
+tilberede -> reida til
+tilberede -> verka
+tildele -> etla
+tildele -> gjeva
+tilforlatelig -> litande
+tilforlatelig -> truande
+tilhold -> tilhald
+tilhold -> tilhelde
+tillegge -> leggja på
+tillegge -> leggja til
+trekke -> draga
+trekke -> drassa
+trett -> trøytt
+tukte -> temja
+tukte -> tukta
+tvespaltet -> tvibolka
+tvespaltet -> tvikløyvd
+tvungen -> nøydd
+tvungen -> tvingd
+tylle -> hella i
+tylle -> slå i
+tøylesløs -> agelaus
+tøylesløs -> styrlaus
+ufølsom -> hard
+ufølsom -> kjenslelaus
+ugunstig -> ubateleg
+ugunstig -> ugod
+uheldig -> uheppen
+uheldig -> vansæl
+ukentlig -> kvar vika
+ukentlig -> vikeviss
+ulempe -> ettermun
+ulempe -> vanbate
+ulvinne -> ho-ulv
+ulvinne -> ylva
+underfundig -> listig
+underfundig -> sløg
+underkjenne -> attra
+underkjenne -> døma ugild
+understøtte -> hjelpe
+understøtte -> stydja
+unnseelig -> bljug
+unnseelig -> varlåten
+usikker -> utrygg
+usikker -> uviss
+ussel -> stakkarsleg
+ussel -> vesal
+utbedre  -> bøta på
+utbedre  -> vøla
+utdannelse  -> upplæring
+utdannelse  -> utdaning
+utforske -> granska
+utforske -> røkja etter
+utilfreds -> misnøgd
+utilfreds -> unøgd
+utilstrekkelig  -> for knapp
+utilstrekkelig  -> for lite
+utilstrekkelig  -> unøgjande
+utilstrekkelig  -> unøgjeleg
+uvennskap -> uvenskap
+uvennskap -> uvilje
+vaie -> blaka
+vaie -> blakra
+vakker -> fager
+vakker -> væn
+vandre -> fara
+vandre -> flakka
+vanskjøtte -> vanrøkte
+vanskjøtte -> vanskøyta
+varsomhet -> vare
+varsomhet -> varsemd
+vedkomme -> høyra til
+vedkomme -> koma ved
+vedlikeholde -> halda ved lag
+vedlikeholde -> hævda
+vedta -> samtykkja
+vedta -> taka ved
+vedvare -> halda seg
+vedvare -> standa
+vedvare -> vara
+vekselvis -> til skiftes
+vekselvis -> ymist
+vekslende -> skiftande
+vekslende -> ymis
+venninne -> ven
+venninne -> vena
+verke -> gjera vondt
+verke -> verkja
+vinge -> veng
+vinge -> vengja
+virkedag -> orkedag
+virkedag -> vyrkedag
+visselig -> i vissa
+visselig -> visst
+viten -> kunne
+viten -> kunnskap
+vognspor -> hjulfar
+vognspor -> råk
+vokte -> gjæta
+vokte -> vakta
+vrimle -> kry
+vrimle -> yrja
+vrimmel -> kru
+vrimmel -> yrja
+ørken -> øydemark
+ørken -> øydk
+øst -> aust
+øst -> auster
+
