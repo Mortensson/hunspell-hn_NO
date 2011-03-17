@@ -1,0 +1,1138 @@
+bearbeide -> ervida på/med/til/um
+beboer -> hus-
+benhinnebetennelse -> -brand
+bety -> ha eitkvart/mykje å segja
+bevare -> taka vara på,verja
+blond -> -håra
+brødmangel -> brød-
+forsvinne -> tverra – forsvinning
+forvalte -> vardveita – forvalting
+gyldig -> gjeldande – gyldighet
+heks -> gyger -ekunst
+herkomst'  -> upphav
+herkomst'  -> ætt
+holdbar -> haldsam – holdbarhet haldnad
+klokketårn -> klokketårn ~ klukke-
+lungebetennelse -> -brand
+melding -> ~
+navnetrekk -> -merke
+nordvest -> ~
+nøtteskal -> -skal
+røve -> rana ~ ræna
+trett -> -het
+ane ->  -> anete (?)
+# aksel -> aksel (?)
+bakhånd -> i b- i bakhand
+til-behør  -> n tilhøyrsla f
+uhell -> n uheppa
+uhell -> ulukka f
+uttrykk  -> n ordlag
+uttrykk  -> ord n
+overflate  -> m yverflata
+skikkelse -> m skapnad m
+skikkelse -> likende n
+splid -> m kløyving
+splid -> usemja f
+størrelse -> m storleik m
+størrelse -> mål n
+tykkelse -> m tjukkleik m
+tykkelse -> tjukn f
+overflate  -> yta f
+sendebud -> utsending m
+adressere -> taka tak i
+# ad -> åt
+vedrørende -> når det gjeld
+vedrørende -> um
+så -> lenge  ->   so lenge som
+så -> medan
+ankomme -> koma til, koma fram, gjesta de besøkende ankom i rett tid gjestene kom fram i rett tid / toget har ankommet toget er kome, framme / skipet ankom Oslo skipet kom til Oslo
+
+
+
+
+# Leftovers from wordlist that have not been gone through, and will take more work: 
+allminnelig -> ålmenn, vanleg. -het 
+anbefaling -> lovord, godord; tilråding
+anbringe -> (-brakte) føra til. -lse 
+anbud -> tilbod, konkurranseutsetjing; tilbod (utan tinging) (jur.) innhente a- beda um tilbod. -s|betingelse 
+andakt -> m. gåe vise andakt ansa, gå; bønestund
+aner -> pl.
+anerkjennelse -> godkjenning; ros, heider
+anfekte -> (et) røyna, søkja på. -lse 
+anføre -> (te) leida. -r 
+anførsel -> merknad; herming, hermeteikn. -stegn 
+angi -> (-ga) segja frå, til. -veri 
+angripe -> (-grep) taka på, søkja på, røyna. -r 
+angst -> m. sut, otte, hugverk
+angå -> (-gikk) koma ved, røra ved, gjelda. -ende 
+anholde -> (-holdt) setja fast, gripa; bidja
+ankel -> m. okla, okleled
+anker -> n. anker, ankar, akker; dregg
+anklage -> sakgjeva, skulda. -r 
+ankomst -> m. tilkoma, framkoma
+anlegg -> givnad; bygg. -s|virksomhet 
+anlegge -> byggja; spara anlegge skjegg = spara til skjegg
+anliggende -> n. sak, ærendk
+anløpe -> (-løp) koma (fara osb.) innum, stogga i, ved, gjesta; avherda
+anmasse -> (seg) leggja under seg. -lse 
+anmelde -> (te) melda (t.d. til politiet el. ei bok). -lse 
+annamme -> (et) taka i mot
+anordning -> m. tilskipnad
+anprise -> (te) råda til
+anretning -> m. tilreiding
+anrop -> n. rop. -e 
+anse -> (-så) rekna, vyrda, mæta ansett vel vyrd, meten, mætt. -lig 
+ansette -> (-satte) setja inn, til
+ansikt -> n. andlit, åsyn, syn. -s|trekk 
+anskaffe -> (et) få til vegar, syta til, råda seg til, åhenda. -lse 
+anskuelig -> (å)skodande
+anskuelse -> m. syn, tokke
+anslag -> n. åtak; råd, etling
+anspore -> (et) eggja, støra
+anstalt -> m. heim, institusjon
+anstifte -> (et) valda. -r 
+anstille -> (te) skapa til, laga
+ansvar -> andsvar. -lig 
+anta(ge) 	  (-tok) gissa, gjeta på; taka inn, taka god nog. -lig 
+antall -> n. tal, talet på, mengd antallet besøkende gjestene tel, talet på gjester / hva er antallet besøkende? kor mange gjester er det?
+antyde -> (et) ymta um, impra på, nemna; tyda på, leida til
+anvende -> nytta, bruka – anvendt vitenskap bruksvitskap; anvendelig 
+'anvendelse nytta, bruk.  	 -s|områdebruksumråde
+anvise -> visa (til), syna
+armod -> n. vesaldom
+arne -> m. åre, gruva
+arr -> n. ær
+artig -> artig (morosam); ærug (avaldra tyd.)
+arv -> m. arv m., erve n. -e 
+aske -> m. oska
+attrå -> m. trå, tilhug
+avfinne -> (seg) greida seg med
+avhenge -> av 	  standa på – det avhenger av det skil seg, det spørst, alt etter.
+avhengig -> bunden, usjølvstendig. vere - av sjå ovan.
+avstemme -> røysta; ? (rekneskap)
+avstemming -> røysting;
+avta -> taka av; minka
+bare -> adv. berre
+barsel -> . -seng 
+bearbeidelse -> tilemning osb.
+bebygge -> byggja (på)
+bedekke -> setja på bordet, tekkja; para med – bedekning 
+bedrag -> svik, fals; synsbedrag 
+bedrift -> verksemd; bragd, gjerning, verk
+bedrøve -> gjera sorg, gjera vondt. -lig 
+bedømme -> døma (um), verdsetja
+befale -> (te) bjoda, setja til noko
+befare -> (te) synfara, sjå yver, igjenom, fara yver, igjenom
+befatte -> (seg) (et) fåst med, hava med
+befenge -> (te) fengja, fylla (med)
+befeste -> (et) (borg)festa, styrkja, stadfesta
+befinne -> (seg) vera, halda til, liva, trivast
+beflitte -> (seg) stræva, vera trottug
+befolkning -> folk; folketal; folkesetnad
+befordre -> (et) framja, færa fram, flytja
+befrukte -> (et) fræva, tidga
+befrykte -> (et) ottast, fæla fyre
+befukte -> (et) væta, råka
+beføle -> (te) kjenna på, taka i
+beføye -> (et) hava rett og grunn til. -lse 
+begegne -> (et) møtast med, taka imot
+begeistring -> m. eldhug m., uppgløding f.
+begi -> (seg) gjeva seg på, hava seg ut, fara; henda
+begivenhet -> m. hending, (stor)hende n., tilburd f.
+begjære -> krevja; trå etter
+begjæring -> (retts)krav
+begrave -> gravleggja, jorda, grava ned. -lse 
+begrense -> (et) stengja av, setja ned, setja lågare
+begrenset -> nedsett, låg(are)
+begrep -> n. umgrip n., fating f. ha - om hava vit på
+begripe -> (begrep) fata, skyn((j)a
+begunstige -> (et) hylla, stydja
+begynnelse -> byrjing; fyrstning, upphav (I upphav var ordet 1. Jon). Upphavet til alt vondt.
+begynnelsesgrunner -> fyrstegrunnar (filo.)
+behag -> n. gleda, liking f., lyst m.
+behage -> gledja, tekkjast, fegna; lika. -lig 
+behandle -> handsama, gjera ved (ein reidskap, eit emne); hava fyre (ei sak); fara med behandle dårlig fara ille med; gjeva helsehjelp (jf. fyrstehjelp), gjera åt, gjeva terapi
+behandling -> handsaming, vedgjerd (av ein reidskap, eit emne); fyrehaving (av ei sak); medferd; helsehjelp, åtgjerd, (helse)stell, terapi få behandling for sykdommen få helsehjelp for sjukdomen / antiviral behandling av syke antiviral helsehjelp til sjuke, antivirale åtgjerder for sjuke / behandling av syke helsehjelp til sjuke / radonbehandling av sykdomen radonåtgjerder mot sjukdomen
+beherske -> meistra, kunna, tøyma, temja; råda yver, med, styra - seg styra seg, tyrma seg
+behold -> m. i (god) - 
+beholder -> kjer,kjerald, være, tank; rom
+behov -> trong, torv, krav; bruk
+behørig -> naudsynleg; tilhøyrande
+beile -> (et) fria, bêla
+bekjempelse -> strid, motverking. fattigdoms- arbeid mot fatigdom/fatigdomsmotverking, skadedyr- skadedyrmotverking, -tilsyn. -s|middel 
+bekjenne -> (te) ganga ved, kjennast ved; sanna (syndene sine)
+bekjent -> kjend, kunnig; kjenning. -gjøre 
+beklage -> segja seg leid for; syta, tykkja synd i
+beklagelse -> trege; orsaking
+bekledning -> m. klædnad m., klædning f., væde n.
+bekrefte -> (et) styrkja, stadfesta -seg selv. -lse 
+bekrige -> (et) strida mot
+bekvem -> kvæm, god, høveleg, måta. -e 
+bekymring -> uro, idka, îr; umsut -s|melding 
+belast -> . -e 
+belastning -> tyngsla; påfreistnad
+belegg -> lag; prov, vitnemål, ettervising, grunn(lag), kjelda, døme, vitneskja
+belegge -> leggja (yver) tekkja; ettervisa ordet er ikke belagt i norrønt ordet er ikkje ettervist i norrønt
+beliggenhet -> m. lega f., (til)lægje n.
+belysning -> ljos; upplysing; ljossetjing
+belæring -> m.
+belønning -> m. løn(ing) f.
+beløpe -> (seg) stiga, koma upp i, til utgiftene -r seg til 1000 kr utlogone vert 1000 kr ihoplagt, utlogone kjem upp i 1000 kr osb.
+bemanne -> (et) manna, mannsetja, fullskipa. bemanning 
+bemektige -> seg (et) leggja under seg, taka
+bemerke -> (et) merka; segja noko
+bemerkelse -> . s|verdig 
+bemidlet -> (vel)halden, rådd
+bemyndige -> (et) gjeva umbod, fullmakt, rett
+benekte -> (et) neitta, segja nei til
+beordre -> (et) bjoda, gjeva påbod
+beplante -> (et) setja med tre osb.
+beramme -> (et) (fast)setja (til ei tid), tidfesta, setja, lysa til. -lse 
+berede -> (et) reida (til), laga
+beregne -> (et) rekna ut, på
+beretning -> m. forteljing, melding, framburd, fråsegn f.
+berettig -> rettkomen. -else 
+berike -> (et) rika, gjera rikare
+beriktige -> (et) setja rett. -lse 
+bero -> (dde) standa, vera; gjelda um. lige 
+berope -> (seg) stydja seg, trøysta seg
+berømme -> (et) rosa. -else 
+berømt -> (vid)kjend, vidgjeten, fræg
+berøre -> røra (ved), snerta, røyva. -lse 
+berøve -> (et) røva (de) (frå), taka frå.. -lse 
+besatt -> fullsett, teken; galen, forgjord
+bese -> (-så) skoda, sjå på
+beseire -> (et) sigra, vinna yver
+besikt(ig)e 	 
+besikt(ig)else 	 
+besindig -> . -het 
+besinne -> (seg) 	  roa seg, taka til vitet
+besitte -> eiga, sitja med, råda/valda yver, hava osb.
+besittelse -> eign, hava, -hav, åhav (t.d. åhav av narkotika)
+besjele -> (et) liva upp, gjeva liv
+besjeling -> m.
+beskadige -> (et) skada
+beskaffen -> skapt, laga. -het 
+beskikke -> (et) setja til noko
+beskjeden -> smålåten, smånøgd, hogvar; liten. -het 
+beskjeftige -> (et) halda i verk, arbeid. -lse 
+beskjemme -> (et) skjemma, gjera skam
+beskjerme -> (et) liva, verja
+beskrive -> skildra, (ser)teikna, segja lag på, setja ord på
+beskrivelse -> skildring, (ser)teikning
+beskue -> (et) skoda, sjå vel
+beskylde -> (te) skulda, sekta
+beskytte -> (et) verja, verna, liva et b-t liv eit sutlaust liv / han b-r sin venn ?. -lse 
+beslag -> n. umgjerd, skoning, skrå (skrær); kverrsetjing. -legge 
+beslektet -> skyld, vardande til; nærskyld, koma ved
+beslutning -> m. vedtak, avgjerd. sdyktig 
+besluttsom -> (snar)rådug, rådsnar, rådhitten – besluttsomhet 
+besmitte -> (et) fengja, smitta; skjemma
+besmykke -> (et)
+besnakke -> (et)
+besnære -> (et) fanga, lura, dåra
+bespise -> (te) gjeva mat; metta
+bespottelse -> m. spotting, spottord
+bestand -> m. setnad, flokk. -del 
+bestemme -> (te) gjera av, fastsetja, taka ved; styra, valda. -lse 
+bestemt -> fast, rådd - yrkesbestemt yrkesvalde (valde av yrket, som yrket veld) – Nærmere bestemt. Nøgnare/grannare sagt. – Bestemt form <a href="http://www.ivaraasen.no/wiki/index.php?title=Kjenne"><span class="s1">Bundi</span></a> form.
+bestemthet -> <a href="http://www.ivaraasen.no/wiki/index.php?title=Kjenne"><span class="s1">kjenne</span></a>, <a href="http://www.ivaraasen.no/wiki/index.php?title=Binding"><span class="s1">binding</span></a> (mål)
+bestikke -> muta, gjeva mutor. -lig 
+bestilling -> m. tinging; embæte
+bestyrelse -> m.
+bestyrer -> m.
+bestyrke -> (et) styrkja. -lse 
+bestrebelse -> m. stræv
+bestå -> standa, greida, vera, finnast; hava (i seg), vera samansett av. -ende 
+besudle -> (et) sulka (til), skjemma
+besvangre -> (et) barna
+besvare -> svara på. -lse 
+besverge -> (et) mana (fram). -lse 
+besvime -> (te) svima av. -lse 
+besvær -> n. møda, stræv. -lig 
+besøk -> vitjing, gjesting, innstig, vist. besøke 
+betegne -> nemna, (kjenne)merkja. betegnelse 
+betenke -> . betenkelig 
+betenking -> memorandum. -stid 
+betennelse -> brùne, brand. betent med brune, brunefengd
+betinge -> fyresetja, vera på vilkòr. – betinget fyresett, på vilkòr, atterhalden, med atterhald. – betinget dom dom på vilkòr, vilkòrsett dom, vilkòrsdom. – yrkesbetingetyrkesvalde (valde av yrket, som yrket veld). betingelse 
+betjene -> (te) tena - seg av nøyta, bruka
+betrakte -> (et) skoda, sjå vel; tenkja på
+betrygge -> (et) tryggja
+betydelig -> munaleg, dugeleg, (ov)stor; viktug, som hev eitkvart/mykje å segja
+betydning -> tyding; vekt. Dette har stor betyding Dette hev mykje å segja
+beundre -> ovundra. beundrer 
+bevege -> røra, flytja, røyva; driva
+bevegelse -> rørsla, gang. Båten er i - båten er i gang. -s|hemmet 
+bevilge -> (et) løyva
+bevirke -> (et) verka
+bevis -> n. prov; merke
+bevisst -> medviten, vitande; i vit. -løs 
+bevokte -> vakta (på)
+bidra -> skjota til, gjera sitt (til), vera med og gjera, leggja til, hjelpa (til), stydja, løyva
+bidrag -> tilskot, (til)hjelp, løyving, studnad
+bifall -> samtykke. -e 
+billett -> (inngangs)setel
+billig -> rimeleg. -e 
+bistand -> (umfram) hjelp, studnad, assistanse
+blant -> millom, (sjeldan: ibland, i bland med). Blant annet = millom anna
+bli -> verta; verta verande
+blivende -> komande. Den blivende legen Lækjaren, skal verta
+blære -> blemma; bløra; blåsa
+I -> bløt 	  blòt n., bløyting legge (hodet) i bløt leggja (hovudet) i blòt
+II -> bløt 	  blaut; mjuk
+bolig -> bustad. ta - i festa bu hjå
+boltre -> (seg) 	  velta (seg)
+brekk -> brot, innbrot. -e 
+brems -> brims (fluga)
+bringe -> føra til, føra fram; taka med, henta
+bro -> bru; klopp
+bud -> bod. -skap 
+bunn -> botn. -fall 
+bølge -> bylgja, båra. -gang 
+båre -> bår(?), berestol(?)
+daddel -> m. last, lyte
+dadle -> (et) lasta
+dale -> (te) siga, ganga ned
+damp -> m. eim. -e 
+danne -> skipa; seda. -lse 
+dele -> (te)
+deling -> m.
+del-ta 	  (tok) vera med; tevla (a). -tagelse 
+dessuaktet -> endå; like fullt
+dobbel -> dubbel, tvifeld. -het 
+dog -> då, endå; men
+dreie -> svarva; snu
+dristig -> vågal (dum-); djerv
+dristighet -> vågnad (dumd-); djervskap
+dyd -> dygd. -ig 
+dykke -> . -r 
+I. dysse 	 
+II. dysse 	 
+dødelighet -> døying; døyingstal
+dødsfall -> daude, døying, nå(s)fall
+dåd -> f. ?
+dåp -> m. daup
+dårlig -> sjuk; duglaus, låk
+ed -> eid. -svoren 
+eggeplomme -> (eggje)gùle
+eggehvite -> (eggje)kvite
+egne -> eigna (taka i eiga); høva, søma, duga
+eksempel -> døme; fyredøme
+enhet -> eining; einskap. enhetsskole = einskapskule
+enig -> samd, samtykt. -het 
+erfaren -> røynd, van(d), kunnig
+erfaring -> røynsla; røyning (opplevelse)
+erobre -> (land)vinna, (her)taka
+erstatte -> bøta (upp); avløysa; koma i staden for, setja i staden
+erstatning -> vederlag, (skade)bot
+etterskudd -> etterskot. -s|vis 
+etterretning -> vitring, njosning, nysn. ta til - taka til vitende
+ettertrykk -> . -elig 
+fart -> snøggleik; ferd
+farge -> lit, farge. -stoff 
+favn -> famn; fang
+feil -> mistak, veila, brest, lyte. -aktig 
+felles -> sams. -betegnelse 
+felt -> vang, val. -rop 
+fest -> høgtid, helg. -lighet 
+finne -> (fant) finna (fann) finne sted bera åt.
+fiskegjelle -> gjelle(?), tokn
+flertall -> fleirtal, <a href="http://www.ivaraasen.no/wiki/index.php?title=Tal&amp;action=edit&amp;redlink=1"><span class="s2">mangtal</span></a> (mål)
+forbinde -> binda, knyta (til)
+forbindelse -> samamband, samanheng; sambinding (kjemisk s-)
+forbrenne -> brenna (upp)
+forbrenning -> (upp)brenning
+fordampe -> eima (burt)
+fordel -> bate, fyremun til f- for til bate for; frampart
+fordøye -> melta (maten)
+foreldet -> avaldra; forfallen?
+forenkle -> einfalda; greida upp (i), beinka, gjera greidare/lettare osb., uvanska
+forenkling -> einfalding; uppgreiding, beinking
+forelske -> seg (i) 	  verta hugteken/innteken/kjær/glad (i), hugleggja osb. – være forelsket vera hugteken/(osb.) (i einkvan/eitkvart), hugbera
+forelskelse -> hugleggjing, hugkjæta, hugburd osb.
+fornybar -> att(er)vinnande fornybar energi att(er)vinnande, attvunni kraft
+fornye -> nya uppatt, yngja fornye passet søkja um, beda um, få nytt pass; modernisera
+fornyelse -> uppattnying, yngjing f- av pass (søknad um) nytt pass; modernisering
+foretrekke -> (heller) velja, (heller) vilja, lika betre, halda betre
+forevise -> visa (fram), syna
+forfra -> frammantil; å nyo
+forføyning -> millomsbils avgjerd (jus)
+forgape -> (seg)
+forhåpentligvis -> vonleg. Hun har forhåpentligvis spist allerede Ho hev alt ete, er von.
+forkjært -> på tvert, gale gå noen forkjert ganga nokon på tvert.
+forklare -> fortelja um, greida, tyda, reida ut, gjeva framsegn (for retten). - eit fenomen tyda eit fenomen; - seg for (retten/politiet) gjeva framsegn; dårleg forklaring (unnskyldning) ring grunn
+forkorte -> stytta (av) – forkortelse avstytting
+forkuet -> (ned)kuva
+forlik -> semja, sætt. -elig 
+forloren -> tapt; falsk
+formelig -> likefram; formande
+formere -> (seg) fjølga(st), øksla (seg), auka (seg)
+formode -> vona, venta, spå. -entlig 
+fornemme -> merka, kjenna. -lse 
+fornorske -> norska (upp)
+fornuft -> vit (ratio), klokskap. -ig 
+fornye -> nya (upp att), yngja
+fornærme -> krenkja, støyta, såra, ganga for nær. fornærmet (i en sak) (retts)krenkt
+fornøden -> turveleg. -het 
+forplante -> så, setja; øksla
+forretning -> drift, gjerd; butikk
+forse -> (seg) 	 . -lse 
+forsikring -> trygding sykeforsikring; lovnad
+forsinket -> vera (for) sein
+forskjell -> skilnad; mun; gjøre en forskjell gjera mun
+forsnakke -> (seg) 	 . -else 
+forstå -> skyn(j)a, merka, sjå, kjenna, skila, skilja, hava/få skyn på
+forståelse -> skyn, skilning, umdøme (dømekraft); semja. språk- språkevna; ha spille- lesa spelet
+forsøk -> friestnad; røyning
+fortegnelse -> (innehalds)lista, yversyn
+fortjeneste -> – Det er hans fortjeneste. Det skal han hava takk for / det er det han som veld.
+fortrinn -> fyremun. -s|rett 
+forløpende -> adv. andfares
+fortrolig -> i trumål; van
+fortvile -> ørvænast, orvonast. -else 
+forutinntatt -> fastrådd, fyrerådd, fyrehandsdømande, ukritisk, usjølvstendig; partisk, fordomsfull; grunnlaus, usakleg; fastlæst være f- i en sak vera partisk/fastrådd i ei sak /ha et f- standpunkt vera fordomsfull, fastlæst, fastrådd / være f- mot noen vera fordomsfull mot nokon.
+forutsi -> spå; segja fyreåt, fyresegja. -ig|bar 
+forutsigelse -> spådom; fyresegjing
+forvandle -> umskapa; venda
+forverret -> vera verre, gjord verre situasjonen er forverret stoda er (no) verre
+forvikle -> fløkja (til/saman)
+forvikling -> floke, (til-/saman)fløkjing
+frafalle -> falla frå; gjeva etter
+fravike -> vika frå; lata fara. -lse 
+fregner -> (pl) freknor
+fremmed -> framand, ukjend; vitjande
+frihet -> fridom. -s|berøvelse 
+friste -> freista, røyna; lokka
+fruktbar -> grøderik (um vokstrar), fræv. -|het 
+frykt -> ótte, rædsla, age. -e 
+fuktig -> rå, råkald; våt. -het 
+furet(e) 	 
+fyllest -> . -gjørende 
+fødselsdag -> åremålsdag; fødedag
+fødselssmerter -> (pl)
+følelse -> kjensla, tokke. -s|løs 
+føling -> (insulin)kjenning
+følsom -> (kjensle)var, varnæm
+føye -> skøyta. -lig 
+gal -> galen; rang
+gammel -> gamal, aldra; forn
+gangbar -> (- mynt) gjeldande
+ganske -> heller, tolleg; heilt
+geistlig -> kyrkjeleg, andeleg. -het 
+geskjeft -> sysl(a). -ig 
+gjendrive -> målbinda; andstemna
+gjenfinne -> finna att(er)
+gjenforening -> samanføring; samkoma
+gjengjelde -> løna; hemna
+gjenkalle -> kalla att(er), heim
+gjenkjenne -> kjenna att(er)
+gjennomgå -> ganga igjenom; fara yver
+gjenstridig -> strid(al)
+gjenvinning -> att(er)vinning
+gjenværende -> attverande; millomverande (økon.)
+gjerrig -> girug, havekjær. -het 
+gjær -> jester. -e 
+glatt -> hål (t.d. is); slett (jamn). -e 
+glemsom -> gløymsk. -het 
+glimrende -> framifrå, utifrå osb.
+gode -> n. god ting, bate, gagn
+gremme -> gremja(st), harma(st)
+gresshoppe -> eng(je)spretta
+grovhet -> grovleik; grovord(?)
+gru -> fælska. -e 
+grunn -> grunn, botn; tuft
+grønnes -> grønka(st)
+gumme -> gom; tannkjøt
+gunst -> velvilje; til g- for til bate for
+gunstig -> god, batesam; velviljug
+habengut -> n. eign f.
+handling -> gjerd, gjerning; framgang(?)
+hardhet -> hardleik (i eit emne); hardferd
+hast -> . -e 
+hat -> hat. -efull 
+ha -> ha(va), eiga, sitja med
+havesyk -> gjerug, (havekjær?)
+havn -> hamn. -e 
+heftig -> kvass, strid, vill, ofsen. -het 
+hellig -> heilag. -brøde 
+hemmelig -> løynleg, løynd, duld, huld. -het 
+henfalle -> gjeva seg (til)
+henholdsvis -> i same fylgd, og so – De to sitatene er fra henholdsvis X og Y. Dei tvo hermi er frå X og so Y.
+henlegge -> (- en sak) leggja burt
+henvendelse -> spurnad; brev
+hevelse -> trote (ò); æsing
+himmelfart -> him(m)elferd
+hjelpemiddel -> (hjelpe)råd
+holdig -> (alkohol-, jern-) kjend
+holdning -> haldning, meining; stoda; kroppsburd
+hummer -> hum(m)ar
+hurtig -> snar, snøgg, kjapp, fljot, skjot. -het 
+husholder -> . -erske 
+hustru -> kona, husmo(de)r
+hval -> kval. -ross 
+hvirvel -> kvervel. -vind 
+hvor -> kvar (= hvorhen, hvor enn); der; (- mange) kor
+hvordan -> korlei(de)s
+hykle -> . -ri 
+høyne -> høgna; setja høre, lyfta
+høytid -> høgtid. -lig 
+høvle -> hyvla. -jern 
+hån -> hæding, spott, spe, vanvyrdnad. -e 
+hånd(e)vending 	 
+håp -> von. -e 
+iaktta -> . -gelse 
+iblant -> imillom; stundom, då og då
+iføre -> (seg) 	  fara i, taka på seg
+igjen -> att(er)
+ild -> eld. -brann 
+ilikemåte -> like eins, (atter) det same
+imidlertid -> medan; endå, like vel
+innbefatte -> gjelda; femna, taka i seg
+innebære -> bera/føra med/i seg, ha(va) på seg, dra(ga) med seg, innebera
+innfinne -> seg 	  koma, møta (på staden)
+inngå -> gjera, semja(st), samtykkja
+innhente -> henta (inn); nå att(er)
+innlate -> (seg) 	 
+innrømme -> ganga ved, gå ved; vægja; lata få, samtykkja innrømmelse 
+innskjerpe -> . -lse 
+innskyte -> leggja til. -lse 
+innsmigre -> (seg) 	 
+innta -> taka(?)
+intetsigende -> tom – Bokanmeldelsen er intetsigende. Bokmeldingi segjer inkje.
+i -> stykker 	  (i) sund(er)
+jemte -> jamte (frå Jamtland); jamtsk (adj)
+jemtlending -> jamte (frå Jamtland)
+kahytt -> veng, lyfting(?)
+kappe -> (et)
+kile -> kita (ì)
+kjennelse -> orskurd (jus)
+kjensgjerning -> (?)
+kjøkken -> kjøk. -utstyr 
+klage -> klaga, kjæra (på); gremjast, syta
+I. klemme 	  knipa
+II. klemme 	  klemba, trykkja
+I. klippe 	  berg, nut; skjer
+II. klippe 	  klyppa
+knudret(e) 	 
+korrekt -> rett, ~. -het 
+kors -> kross. -e 
+kort -> stutt. -e 
+krampe -> . -trekning 
+krenke -> krenkja. -lse 
+krets -> krins. -e 
+krum -> bogen, bøygd. -me 
+kysk -> svein (gut), møy (vækja)
+kyskhet -> sveindom (gut), møydom (vækja)
+kåt -> kåt. -het 
+laber -> spak.
+lager -> n upplag n; varehus, -rom n. -beholdning 
+lam -> n ~.
+lam -> n lamb n (zoo).
+lamme -> lemba (få lamb).
+lamme -> lama (gjera lam).
+lammelse -> m laming f.
+landeveg -> m landsveg m.
+langsiktig -> lang, langtids-, fram i tid, framsynt. - arbeid langtidsarbeid/vedvarande arbeid, tenke - tenkja fram i tid/vera framsynt, - politikk framsynt politikk.
+langs -> adv. langs etter, med
+langsom -> sein.
+langvarig -> langdrjug.
+last -> ~, ladning, farm.
+late -> lata (lèt, lét, late); ~ (som) late (låst, læst, lest, låst).
+latter -> m lått m.
+laug -> (handverks)lag
+lavalder -> m lagalder m (jur.).
+lavtliggende -> låg(lendt)
+led -> leid (skips-)
+ledd -> n lekk m (setnings-, oblik -); led m. -orm 
+ledelse -> leiding; styring, førarskap.
+leder -> m leidar, førar m.
+ledsager -> m fylgjar, fylgjesmann m.
+I. leie 	  (hyre) leiga
+II. leie 	  (føre) leida
+leilighet -> m husvære n; høve n.
+lek -> (~ og lærd) ~.
+lemfeldig -> linnferdig.
+lemleste -> (et) skamslå.
+lengsel -> m lengt m., lengting f.
+leskedrikk -> m svaldrykk m.
+lettelse -> m lette m.
+lettsaltet -> linnsalta (lite salta).
+levetid -> livstid, dagar (i hans -)
+levnet -> n liv n, livnad m.
+levnetsmidler -> pl. føda, matvaror
+levning -> m leivning m, leivd f.
+lidelse -> m liding f.
+lidenskap -> m ofse m. -lig 
+liflig -> ljuv, gild.
+lignelse -> likning.
+ligning -> likning.
+likefrem -> adv. beint fram
+likegyldig -> likesæl. -het 
+likesidet -> jamsida.
+likesinnet -> samlyndt.
+likestilling -> jamstelling f.
+likestrøm -> m likestraum m.
+likevekt -> mf jamvekt f.
+likhet -> m likskap m. i l- med til liks med.
+linning -> m lining f. 	 
+livredding -> mf livberging f.
+lodde -> mæla med lod; lùta ut
+lodd-kast(n)ing 	  m lutkasting f. -rett 
+lutre -> skira, reinsa.
+lutter -> adv. skir
+lys -> n ljos n; - levende livs livande.
+lysne -> (et) ljosna (a).
+I. løfte 	  (et) lyfta (lyfte).
+II. løfte 	  n lovnad m.
+I. lønn 	  mf (pengar) løn f.
+II. lønn 	  m (tre) løn m.
+III. lønn 	  (i sms) løynd f.
+løpebane -> skeid n.
+løpetid -> laupartid, brundtid; avdragstid
+lørdag -> <a href="http://www.ivaraasen.no/wiki/index.php?title=Laurdag"><span class="s1">laurdag</span></a>
+maktspråk -> n maktord n.
+male -> måla. -ri 
+man -> f mòn (el. mån) f, faks n.
+mandag -> <a href="http://www.ivaraasen.no/wiki/index.php?title=M%C3%A5ndag&amp;action=edit&amp;redlink=1"><span class="s2">måndag</span></a>
+mandig -> karsleg.
+manet -> mf manneta, gopla f.
+mangesidig -> mangsidig.
+mangle -> vanta, skorta (på).
+mann -> m mann m; kar, kall m. Snåsamannen Snåsakallen.
+I. marg 	  m (i bok) ~, jar m.
+II. marg 	  m (i bein) merg f.
+masse -> m mengd f.
+medfølelse -> m.
+medlem -> n lagsmann m.
+medlidenhet -> m medynk m, miskunn f.
+megle -> (et) mekla (a)
+menighet -> m lyd, kyrkjelyd m.
+menneskehet -> f menneskja, manneætt f.
+merke -> merka (verta var); merkja (setja merke) å merke seg noe å merkja seg noko
+messing -> m massing m.
+midd -> m (dyr) mit m.
+middel -> n råd f; midel m.
+midlertidig -> millombils, fyrebils.
+misdanne -> (et) vanskapa (a)
+misligheter -> pl.
+mistillit -> m mistru f.
+misunnelse -> m ovund f.
+moden -> mogen.
+morgen -> m morgon m; i morges i morgon, i dag tidleg
+mulig -> mogeleg, råd. -het 
+muntlig -> munnleg.
+mygg -> (dyr) m my n.
+myndighet -> m styre(s)makt f, mynd n.
+mynt-enhet 	  m mynteining f. -preg 
+måned -> månad. -lig 
+nabo -> granne.
+namsmann -> m nåmsmann m.
+nedbemanne -> manna ned. nedbemanning 
+nedlate -> (seg)
+nedrig -> låk.
+nedtrykt -> mismodig, hugtung, nedtyngd. -het 
+negl -> m nagl m (negler).
+neie -> (et) nigja (a).
+nekte -> (et) neitta (a).
+nem -> (lære-) næm.
+nese -> nòs (pl. naser), nasa
+nesten -> nær, nærom, mest, mesta, innpå, burtimot. -ulykke næromulukka, nær(om) ei ulukka.
+nest-formann 	  m varaformann m.
+nevnelse -> m nemning f.
+nidkjær -> ihuga, streng.
+nippe -> nypa (nyp, naup, nope).
+no(g)enlunde 	  nokorle(id)es
+no(g)ensinne 	 
+no(g)ensteds 	  nokonstad
+nok -> nog; - en gang endå ein gong; det er - det det er vel det.
+nord-lig 	  nordleg. -ligst 
+Norge -> Noreg.
+ny -> ~. i ny og ne i ny og near.
+nyhet -> m (eitkvart) nytt, nyhende n; tidende n, njosn f.
+nyhetsblad -> n meldingsblad n.
+nærhet -> nærleik m. i -en nær, nærhendes, i nærhand
+nærme -> (seg) koma nærare, nærast
+nødvendig(vis) 	  naudsynleg, naudsynt, turvande. -het 
+I. nøste 	  n nysta (mt. nysto) n.
+II. nøste 	  (et) nysta (a).
+nøtte-brun 	  natebrun.
+nøyaktig -> nøgje, noggrann. -het 
+nøysom -> . -het 
+offentlig -> ålmenn. offentlig veg allfarveg. -gjøre 
+old- 	  (i sms) forn-, gamal-. -kyndig 
+umbestemme -> (seg) 	  skifta meining, tenkja onnorleîs
+omegn -> m umland n.
+om-fang 	  n.
+om-fatte 	  femna.
+omgivelse -> det som er umkring, folk umkring osb. i naturskjønne omgivelser
+om-kostning 	  m kostnad m.
+om -> kull 	  i koll.
+om-setning 	  mf umsetnad m.
+om-setting 	  mf umsetning (av mat i kroppen) f.
+om-stendighet 	  m umstende n.
+om-trent 	  på lag, um lag.
+onkel -> m farbror, morbror m.
+opp-bevare 	  taka vare på, vardveita, gøyma osb. oppbevaring 
+opp-brakt 	  uppøst.
+opp-brudd 	  n avferd f.
+opp-dra 	  seda (upp). veloppdragen velseda.
+opp-dragelse 	  m uppseding f., (upp)fostring f.
+opp-drive 	  få tak i.
+opp-fatte 	  skyna (a).
+opp-gave 	  m uppgåva, fyrelòga f.
+opp-holde 	  halda uppe; seinka; halda til
+opp-høye 	  . -lse 
+opp-leve 	  røyna, vera med på, liva (med) i. De opplever situasjonen som problematisk. Dei tykkjer stoda er vand.
+opp-levelse 	  m røyning, røynsla f.
+opp-merksom 	  merksam, ansug, ansen, gaumsam, åhugfull. være oppmerksom (på) gauma (etter), ansa (på).
+opp-merksomhet 	  m merksemd f, ans m, (åt)gaum m, gaumsemd f.
+opp-muntre 	  (et) moda upp, øla upp, ødla upp. -muntring 
+opp-nå 	  få, nå (fram til), greida (greidde). -nåelse 
+opp-rette 	  (et) skipa (a), laga (a).
+opp-riktig 	  sann.
+opp-rinnelig 	  upphavleg.
+opp-rinnelse 	  m upphav n.
+over-ensstemmende 	  samstavande.
+over-følsom 	  ovvar(næm) – overfølsomhet 
+over-raske 	  undra; koma brådt på. -raskende 
+over-sette 	  setja um. Boken er oversatt til … Boki er umsett til …
+opp-tre 	  (på teater) spela.
+ord -> n ~. ta til orde taka til ords.
+orden -> m ordning f.
+ord-forråd 	  n ordfang n.
+ord-lyd 	  n lyding f.
+over-alt 	  allstad(en).
+over-anstrenge (seg) 	 . -anstrengelse m.
+over-befolket 	  yverfolka.
+over-belaste 	  yverrøyna, yvertyngja. -belastning 
+over-fladisk 	  yverflate-; grunn.
+over-holde 	  (regel, frest) halda
+over-late 	  lata få, hava, vera osb.; setja til.
+over-legen 	 . -legenhet 
+over-leggg 	  n.
+over-levende 	  m.
+over-raskelse 	  m.
+over-rekke 	 . -rekkelse 
+over-se 	  sjå yver; sleppa auga av
+over-sikt 	  m yversyn fn. -siktlig 
+over-strømmende 	 .
+over-svømme 	  fløyma. -svømmelse 
+over-tallig 	 .
+over-tre 	 . -redelse 
+over-tro 	  m ovtru f. -troisk 
+over-veie 	  tenkja etter/gjenom, grunda på. -veielse 
+ovenfor -> ovan(for)
+pasientforløp -> (mrk.: låkt byråkratord utan serleg meining for utanverdi) (gangen i) helsestell sammenhengende pasientforløp
+person -> m ~. -lig 
+pinse -> mf pins(tid), kvitsunn.
+plutselig -> brådt, uventa.
+pomp -> - og prakt drust og dramb.
+pose -> m pòse m.
+Postvesenet -> Poststellet.
+prakt -> dramb pomp og p- drust og dramb. -full 
+prøve -> (et el. de) prøva (de), freista (a), røyna (de). -else 
+pådra -> (seg)
+på-fallende 	 .
+på-føre 	  valda, gjera.
+på-gå 	 . -gående 
+påkjenning -> mf pårøyning f.
+på-legg 	  n. -legge 
+på-rørende 	  m.
+påtale -> påtala. -myndighet 
+påtaleunnlatelse -> m påtalefråfall (jur.) n.
+på-tatt 	  tilgjord.
+I. ramme 	  mf råma f.
+II. ramme 	  (et) råka (a).
+ran -> n rån (el. ran) n.
+rane -> (et) råna (el. rana) (a).
+ransake -> (et) rannsaka (el. ran-) (a).
+ransaking -> mf rannsaking (el. ran-) f.
+redd -> rædd (el. redd).
+rede -> n reir n.
+reder -> m reidar m.
+redning -> mf berging f. -s|belte 
+redsel -> m ótte, fælske m, rædsla f.
+regelmessig -> regelbunden, regelfast, jamleg.
+regjere -> styra, råda.
+regjering -> mf riksstyre n.
+I. regne 	  rekna
+II. regne 	  regna (vêr)
+regning -> mf rekning f.
+reir -> n ~.
+reise -> mf. reisa, ferd f. -erindring 
+renke -> . -spill 
+rense -> reinsa, reinska.
+renselse -> m skirsla f.
+rensing -> mf reinsing, reinsking f.
+retning -> mf leid, stemna f.
+I. rett 	  m (mat)rett (mt. -er) m.
+II. rett 	  m (i domstol) rett (mt. -ar) m.
+III. rett 	  (bein) ~.
+rette -> (et).
+retter-gang 	  m rettargang m.
+rett-ferdig 	  rettferdug, rettvis. -ferdighet 
+rett-ighet 	  m rett m, rettende n.
+retts-gyldig 	  rettsgild.
+retts-sikkerhet 	  m rettstrygd f, rettstryggleik m.
+retts-vesen 	  n rettsstell n.
+rett-vis 	  ~. -vishet 
+ribbeben -> rìv n., siderìv, sidebein
+riktig -> rett.
+I. rogn 	  m (tre) raun, ~ m.
+II. rogn 	  mf (fiske-) rogn f.
+rom-folk 	  romm-folk (ò) (som talar rommani eller rommanes).
+romme -> (et) roma (a), røma (de).
+rumpe -> rumpa rumpa bar berrumpa (jf. berrføtt)
+ruse -> vidjekorg; teina
+rykte -> ord; umdøme
+rynke -> m rukka, skrukka f.
+røkelse -> m røykjelse n.
+I. rømme 	  m (-graut) rjome (el. røme) m.
+II. rømme 	  (te) røma (de).
+rørelse -> m rørsla f.
+rådføre -> (seg)
+rådighet -> m rådvelde n.
+sagn -> n segn f.
+sakkyndig -> sakkunnig. -het 
+saktmodig -> spaklyndt, tolsam. -het 
+salt -> n. salt (til mat); saltemne
+saltvann -> havvatn. -sfisk 
+samarbeid -> n ~, samvinna f.
+samarbeide -> samarbeida, samvinna.
+samhørig -> . -het 
+samle -> samla, sanka. -folk 
+samling -> samning, hop; stemna, møte; vit
+sammalt -> (- rug, - mjøl) sammalen.
+sammen-fatte 	  draga saman. -folde 
+sammen-lignbar 	  jamførande. -ligne 
+sammen-setning 	  mf samansetjing. -stille 
+samt -> og, og so, attåt, dessutan.
+samtidig -> samstundes.
+samtlige -> alle.
+samvittighet -> m samvit n. -s|løs 
+samvær -> n samvære n, samvera f.
+sann -> ~. -ferdig 
+satt -> sett; spakleg
+savn -> n saknad m, sakn n. -e 
+skapelse -> m skaping f.
+seddel -> m setel m (mt. setlar).
+sedelig -> sedug. -het 
+segne -> (et) siga (sig, seige, sige).
+seier -> m siger m.
+seile -> sigla (de)
+selge -> selja (sel, selde, selt).
+selsom -> underleg.
+selv -> sjølv. -angivelse 
+selv-bebreidelse 	  n. -bedrag 
+selv-dekning 	  mf. -eier 
+selv-erkjennelse 	  m. -erkjennende 
+selv-forherlighelse 	  m sjølvros m. -fornektelse 
+selv-hevdelse 	  m. -god 
+selv-iakttagelse 	  m sjølvsyn fn.
+selv-medlidende 	  ynkesam. -motsigelse 
+selv-oppofrende 	 . -oppofrelse 
+selv-sagt 	 . -samme 
+selv-tekt 	  m sjølvtekt f. -tilfreds 
+selv-utløse 	 . -utslettelse 
+selv -> om 	  konj. endå, jamvel
+sendelse -> m sending f.
+senke -> (et) (- eitkv. på djupet) søkkja (søkkte); (setja, gjera eitkv. lægre) lægja (lægde).
+senking -> mf søkkjing, lægjing f.
+seter -> mf sæter f.
+setning -> m ~. -ledd 
+sikker -> trygg, viss. -het 
+sikre -> (et) tryggja (trygde).
+siktelse -> m skulding f.
+sindig -> .
+sinnelag -> huglag, (hug)lynde
+sjelden -> sjeldan; fåtidt
+sjø-pinnsvin 	  n kråkebolle m. -stjerne 
+skaffe -> (et) få tak i.
+skarlagen -> n skarlak n.
+skap -> n (kjøle-) skåp
+skalte -> (og valte) styra og stella
+skatte-frihet 	  m skattløysa. -lettelse 
+skillpadde -> mf skjelpadda f.
+skilsmisse -> m skilsmål ( i giftemål) n
+I. skinne 	 
+II. skinne 	  skina (skein)
+skje -> henda, bera åt/til.
+skjebne -> m lagnad m, forlòga. -møte 
+I. skjell 	  n (på fisk) skjel f.
+II. skjell 	  n (grensa) skil n. -settende 
+skjenke -> skjenkja, slå i; bjoda, gjeva
+skjul -> n skjol n. -e 
+I. skjær 	  n (i sjøen) skjer n.
+II. skjær 	  skir.
+skjære -> mf skjor f.
+skjærsild -> m skirseld m.
+skjønn -> væn, fager. -het 
+skjør -> skøyr.
+I. skjøte 	  n skøyta f.
+II. skjøte 	  (et) skøyta (skøytte).
+skjøtesløs -> skøytelaus, uvurden.
+skott -> n (i båt) skut n
+skritt -> n stig n.
+I. skue 	  (et) skoda (a). -brød 
+II. skrue 	  skruva
+skriftlighet -> skriving s- i skolen skriving i skulen; (lese- og) skrivekunna, skrivetame; skriftfesting kravet til s- kravet til skriftfesting
+skriftlighetskrav -> skriftfestingskrav (jur.)
+I. skuffe 	  svika
+II. skuffe 	  mòka
+skulder -> herd (herdar), oksl
+skysse -> skyssa (skytsa), gjeva skjot
+I. skygge 	  skugge
+II. skygge 	  skyggja
+skylapp -> m (på hest) skygglapp m
+skyldes -> vera grunn til, kvifor, botna i hva skyldes den økende arbeidsledigheten? kvifor aukar arbeidsløysa? // Økningen i strømforbruket skyldes uvanlig lav kulde Uvanleg låg kulde aukar straumbruket, straumbruket aukar etter uvanleg låg kulde, uvanleg låg kulde veld auka (auke i) straumbruk
+skyllevann -> skòl f., skolvatn
+skyttel -> m (harpun; i vev) skùtel m.
+Skytten -> Bogemannen.
+skøyte -> mf (renna på -) skeisa f
+skår -> n brot n; skard f.
+sladre -> (et) slarva (a)
+slange -> m orm m.
+slapp -> slak; veik
+slekte -> (på) likjast
+slette -> (et) (gjera jamn) jamna, strjuka; taka burt
+slibrig -> . -het 
+slokke -> (et)
+slu -> sløg. -het 
+slumpe -> (til) heppa, råka
+slutt -> m ende, endskap m, endelykt f. -e 
+smertestillende -> (<a href="http://www.ivaraasen.no/wiki/index.php?title=Namnord"><span class="s1">namnord</span></a>) lyv.
+smidig -> ledug, mjuk.
+smigre -> (et) smeikja (smeikte)
+I. smug 	  t smòg n.
+II. smug 	  i - i løynd. -le 
+snegl -> n snigel m. -e|hus 
+sogn -> n (kyrkje-) sókn n.
+sogne -> (et) sókna (a).
+sokkel -> m ~, fotstykke n.
+sol -> mf ~ f. -brenthet 
+solemerker -> pl.
+somle -> (et) sumla (a)
+speide -> (et)
+speilegg -> (ty. Spiegelei) speilegg
+speke -> (et) (salta, turka) spekja (el. spikja). -mat 
+sperre -> stengja; sperra (tak-)
+spidde -> (gjenom)bora, stikka gjenom
+I. spill 	  spel n, leik m.
+II. spill 	  n spille n (til -s). -e 
+spise -> (te) eta (et, åt, ete)
+spøkelse -> n skrymt n.
+spørre -> spyrja (spør, spurde, spurt). -setning 
+spørsmål -> n spursmål n. -s|tegn 
+stam-tavle 	  mf ættetavla f. stam-gjest 
+I. stamme 	  m (på tre) stomn m.
+II. stamme 	  (et) ætta (a).
+stavn -> m (på båt, fram-) stamn m; (hjem-) heimstad m.
+stats-forfatning 	  mf riksskipnad m. -gjeld 
+stebarn -> stykbarn el. styv- osb.
+sted -> stad (mt. -er) finne sted eiga rom, henda / til stede til stadar
+stedfeste -> heimfesta (-feste)
+I. stemme 	  røysta; stemma (= stansa); stilla (musikk). -berettiget 
+II. stemme 	  røyst, mål
+III. stemme 	  stama, stòta
+stender -> pl. standslag
+stevne -> stemna (jur.)
+stevning -> stemning (jur.)
+I. sti 	  m (veg) stig m.
+II. sti 	  n (på augeloket) stig n
+stille -> still.
+stillhet -> stilla, blik (på havet).
+I. sting 	  m (verk) styng el. sting (mt. -er) m.
+II. sting 	  n (stikk) styng (mt. -er) m el. sting n
+stivelse -> m stive (in), stiving
+strebe -> (et) streva (a), slita (sleit).
+streif -> n (sol-) glytt m. -fugl 
+strikke -> (et) binda (batt), spøta (a). -tøy 
+strikkepinne -> spøta (spỳta)
+strø -> (dd) strøya (dd)
+stusse -> styva, kolla; undrast
+stær -> m (fugl) stare m
+støpe -> (te) støypa (te)
+størkne -> (et) storkna (a)
+stør -> (fisk) styrja
+sul -> suvl(mat)
+sult -> m svolt m. -en 
+sunn -> helsesam. -het 
+svak -> veik, vesal; linn svak bøying linn bøygning. -het 
+svekke -> (et) veikja (veikte). -lse 
+svett -> sveitt. svette 
+sveve -> (et) sviva (sveiv)
+svikte -> svika; gjeva etter
+svimmel -> svimren, ør.-het 
+svinne -> (svant)
+synke -> (sank) søkka (sokk); siga, falla
+sær -> ser. -egen 
+søndag -> <a href="http://www.ivaraasen.no/wiki/index.php?title=Sundag"><span class="s1">sundag</span></a>
+således -> solei(de)s
+sårbar -> sårnæm. -het 
+såre -> adv. mykje
+takk -> mf takk f. -e 
+I. tang 	  tang n. (i fjøra)
+II. tang 	  tong (tenger)
+tau -> n tòg n.
+taus -> tagal, tyst, still. -het 
+tegn -> n teikn n; merke n. -e 
+teiebær -> n. tågebær (el. -ber) n
+telle -> telja (talde)
+temme -> (et) temja (tamde)
+tidsånd -> tid(ar)stemna
+tidsalder -> tid(ar)bolk
+tilbake -> attende, att, atter. -fall 
+tilbringe -> føra til; halda til
+tilbøyelighet -> dragnad, hug; tildriv
+tilegne -> eigna (til seg)
+til-flukt 	  mf. -fluktsrom 
+til-freds 	  nøgd. -het 
+til-føye 	  (et) leggja til, skøyta på. -føyelse 
+til-høre 	  høyra til. -hører 
+til-kjenne 	  tildøma. -kjennegi 
+til-løp 	  n. -melde 
+til -> overs 	  att(er)
+til-skuer 	  m åskòdar m. -skudd 
+til-ta 	  veksa, auka, stiga. -talebeslutning 
+til-tre(de) 	  samtykkja i, godkjenna. -tredelse 
+til-vekst 	  (til)vokster. -værelse 
+tirsdag -> <a href="http://www.ivaraasen.no/wiki/index.php?title=Tysdag"><span class="s1">tysdag</span></a>
+tjene -> (te) tena. -r 
+I. tjære 	  tjøra, bråd
+II. tjøre 	  (tjøre)bræda
+tomme -> m (lengdemål) tume m.
+tommelfinger -> m tumarsfinger m.
+torden -> m tora f.
+tordne -> (et) tora (a)
+trede-mølle 	  mf trødemylna f.
+treenighet -> m trieining f.
+treffe -> (traff) råka (a) t- beslutning gjera vedtak
+treffsikker -> råkande, som råkar, stød(ug), nøgje, fyrebudd denne prøven er mer treffsikker denne prøva er nøgnare; prikkstød?, stød skjotar treffsikker skytter (prikk)stød skjotar
+I. trette 	  trætta, kjekla
+II. trette 	  trætta, kiv
+tro -> m tru f. -ende 
+tros-forandring 	  mf trudomsskifte n. -frihet 
+tro-skyldig 	  godtruen.
+true -> (et) truga (a).
+trussel -> m trugsmål n.
+trykk -> mn (i bok) prent n; (på ei staving) tyngd f. -e 
+tue -> mf (maur-) tuva f
+tykne -> (et) tjukna (a)
+tynn -> tunn. -het 
+tyv -> m tjuv m. -eri 
+I. tømme 	  taum
+II. tømme 	  tøma
+tørst -> tyrst. I. -e 
+tøs -> taus; gjentunge
+tål -> n tòl n. -e 
+tåre -> mf. tår f
+u-aktsom 	  aktlaus. -aktsomhet 
+u-ubarmhjertig 	  hjartelaus.
+u-bebodd 	  folketom. -beboelig 
+u-blu 	  ubljug.
+u-dugelig 	  duglaus. -dødelig 
+u-egennyttig 	 . -endelig 
+u-farlig 	 . -fattelig 
+u-forbeholden 	 . -forbederlig 
+u-formuende 	 . -fornuftig 
+I. uhyre 	  troll, skræmsl
+II. uhyre 	  adv. uhorveleg
+u-lydig 	  ~. -lydighet 
+umiddelbar -> beinveges, rett (etter, under osb.), nær, nærverande, snarleg, snarast (råd), med ein gong, fyrst(stundes); bråd, ofseleg, annsam
+umiddelbarhet -> nærvære, nærleik; brådleik, ofse, annsemd
+under-bestemt 	  mangløyst (um ei matematisk likning), urådd; løynrådd (um løynde fyresetnader). -bestemthet 
+under-legen 	  underkomen. -legenhet 
+under-søke 	  (t) røkja (røkte). -søkelse 
+under-trykke 	  (et) trælka (a). -trykkelse 
+under-vise 	  (t) læra (frå seg). -visning 
+unn-dra 	  draga undan unndra seg ansvar draga seg undan andsvar. -dragelse 
+unnskylde -> orsaka; bera seg undan
+unnslå -> (seg)
+unn-tak 	  n undantak n. -taksvis 
+unn-vike 	 . -være 
+u-nøyaktig 	 .
+u-oppdragen 	  useda. -oppfordret 
+ute -> ~. -bli 
+ute-lukke 	  stengja ute, hindra, sjå burt ifrå Vi kan ikke u- at det vil skje me kann ikkje sjå burt ifrå at det kjem til å henda. -lukkelse 
+ut-fall 	  n. -fordre 
+ut-gangspunkt 	  n utstøde n. -gave 
+ut-hale 	  drygja, seinka. -heve 
+ut-lede 	 . -ledning 
+ut-matte 	  (et). -mattelse 
+ut-peke 	  merkja ut, nemna ut. -presse 
+ut-rede 	  (et) greida ut (ei sak, ein pasient). -redning 
+ut-sagn 	 . -seende 
+ut-talelse 	  m. fråsegn
+ut-vandre 	  flytja ut. -vekst 
+ut-vikle 	  dyrka (fram), få fram, laga, skapa; greina ut; - seg veksa (fram), mogna. -vikling 
+valg -> n val n. -bar 
+vante -> vott (vetter)
+varig -> varande. -het 
+varmt-vannsbeholder 	  m. vassvarmar
+vater(pass) 	 
+vederkvegelse -> m kveik m.
+vedkjennelse -> m vedkjenning f.
+veie -> (et el. d) vega (vog)
+vekst -> m vokster m.
+vel-behag 	  hugnad. -beholden 
+vennlig -> vensam, vensamleg. Med - hilsen med vensam helsing
+verden -> verd f. Verdens beste … 
+verdig -> . -het 
+vesen -> n. skapnad m.; stell brannvesenet brandstellet
+vesens-forskjell 	  m grunnskilnad m.
+vesentlig -> stor, munaleg, viktug.
+videre -> vidare; lenger, meir
+I. vifte 	 
+II. vifte 	 
+villelse -> m.
+vindu -> n vindauga (mt. -augo) n. -visker 
+virkelig -> røynleg. -het 
+virkemiddel -> n åtgjerd f.
+virksomhet -> m verksemd f.
+vitenskap -> m vitskap m.
+vitneforklaring -> mf vitneframsegn f, vitnemål n.
+vitterlig -> kjend, viteleg det er da vitterlig det er då ei kjend sak el. det er då kjent
+vold -> m. vald m. -e 
+voldgift -> m skilsdom m (jur.). -s|nemnd 
+vordende -> komande. Den - moren mori, skal/skulde verta.
+væren -> m (til)vera f.
+våpen -> våpn el. ~ n. -dyktig 
+ydmyk -> audmjuk. -e 
+ynde -> . -st 
+yte -> yta (ytte). -lse 
+ytringsfrihet -> m. ytringsfridom
+ytterst -> ytst; høgst
+ære -> æra, heidra. ærede rett 
+ærbar -> sømeleg.
+ærbødig -> vyrdsam, vyrdnadsfullt. -het 
+ærgjerrig -> æregirug, æresjuk.
+ærgjerrighet -> m. æregir n., æresykja f.
+ærlighet -> m. ærlegdom m.
+I. øde 	 
+II. øde 	 
+III. øde 	  (et) øyda (de).
+ødelegge -> øyda, skjepla, hava sund, slå sund osb. -lse 
+ødsle -> (et) øyda (upp) (a).
+øk -> øyk (ein øyk, mange øyker)
+økt -> mf øykt f.
+ømfintlig -> var(næm), sår(næm), nærtakande.
+I. ønske 	  ynske
+II. ønske 	  ynskja
+ørret -> aure (aurrid)
+I. øse 	  ausa
+II. øse 	  ausa
+Østen -> Austerland.
+Østerrike -> Austerrike.
+Østersjøen -> Austersjøen.
+øvelse -> m øving f.
+øvrig -> annan, onnor, anna øvrige andre / de øvrige dei andre, hine; for øvrig elles. -het 
+øye -> n auga (mt. augo) n. -blikk 
+åger -> . -rente 
+ånde-nød 	  m.
+ånds-svak 	  åndsveik.
+åpen -> open. -bar 
+åre-mål 	  n årmål n.
+år-hundre 	  n hundradår n. -lig 
+års-beretning 	  mf årsmelding f.
+
