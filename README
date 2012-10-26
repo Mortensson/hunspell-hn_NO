@@ -1,10 +1,10 @@
 Kva er dette? 
 
-Dette er ei ordlista som kann brukast i Hunspell, og byggjer på fleire høgnorske tekstar (sjå på SOURCES-del). Um det finst meir tekstar som kann brukast til å auka ordlista, kann eg godt leggja deim til. 
+Dette er ei ordlista som kann brukast i Hunspell, og byggjer på fleire høgnorske tekstar (sjå på SOURCES-del). Um det finst fleire tekstar som kann brukast til å auka ordlista, kann eg godt leggja deim til. 
 
-Eventuelt skal eg taka burt hunspell_nn ordlista, men det trengst fleire tekstar (som berre er) på høgnorsk, skal hunspell_hn_NO verta meir brukeleg. Berre tak kontakt um du hev spursmål. Eg er glad i alle råd eg kann få, serleg frå folk som kann betre høgnorsk enn eg. :) 
+Eventuelt skal eg taka burt hunspell_nn ordlista, men det trengst fleire tekstar (som berre er) på høgnorsk, skal hunspell_hn_NO verta meir brukande. Berre tak kontakt um du hev spursmål. Eg er glad i alle råd eg kann få, serleg frå folk som kann betre høgnorsk enn eg. :) 
 
-Sjølve um eg skal ikkje leggje til tekstar som er ikkje skrevne på 'rein' høgnorsk, eg er interessert i å få Landsmål tekstar og, og kann laga f.eks., fleire rettskrivingsordlistar med bestemte måli.
+Sjølv um eg ikkje skal leggja til tekstar som ikkje er skrevne på 'rein' høgnorsk, er eg interessert i å få tekstar på Landsmål aug, og kann t.d. laga fleire rettskrivingsordlistor for dei ulike måli.
 
 ------------
 INSTALLERING
@@ -37,7 +37,7 @@ TODO NEXT
 FLEIRE TEKSTAR?
 -------------
 
-Dersom du hev nokre tekstar som du kan tenkja deg å hava med her, kann du taka kontakt. Um teksten ikkje kan leggjast ut på Netet på grunn av upphavsrett, kunde me fyrst anonymisera honom ved å henta ut alle ord og sortera deimm alfabetiskt. I minsto er poenget ikkje å samla tekstar, men å laga ei stor ordlista. :)
+Dersom du hev nokre tekstar som du kan tenkja deg å hava med her, kann du taka kontakt. Um teksten ikkje kan leggjast ut på netet grunna upphavsrett, kunde me fyrst anonymisera honom ved å henta ut alle ord og sortera deimm alfabetiskt. I minsto er poenget ikkje å samla tekstar, men å laga ei stor ordlista. :)
 
 -------
 SOURCES
